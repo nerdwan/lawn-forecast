@@ -1,26 +1,16 @@
 {
-"forecasts" : [
-   {
- "regions": [
-      {
-      "region": "Leinster"
-      },
-      {
-      "issued": "2026-05-07T12:30:00Z"
-      },
-      {
-      "today": "A mix of cloud and sunny spells, with scattered showers. Highest temperatures of 13 to 15 degrees with light to moderate south to southwesterly winds."
-      },
-      {
-      "tonight": "A mix of cloud and clear spells, with scattered light showers clearing overnight. Lowest temperatures of 3 to 7 degrees generally, in light variable winds."
-      },
-      {
-      "tomorrow": "A cloudier day overall tomorrow with hazy spells of sunshine. Scattered showers developing inland during the morning, the odd one may be heavy before easing and becoming isolated in the evening. Highest temperatures of 12 to 15 degrees in mainly light northerly or variable winds."
-      },
-      {
-      "outlook": ""
-      }
-     ]
-   }
-]
+  "forecasts": [
+    {
+      "regions": [
+        {
+          "issued": "2026-05-07T17:00:00+01:00",
+          "today": "A mix of cloud and sunny spells, with isolated showers. Light to moderate south to southwesterly winds.",
+          "tonight": "A mix of cloud and clear spells, with any remaining showers clearing tonight. Lowest temperatures of 3 to 7 degrees generally, in light variable winds.",
+          "tomorrow": "A cloudier day overall tomorrow with hazy spells of sunshine. Scattered showers developing mainly inland during the morning, the odd shower may be heavy before easing and becoming isolated in the evening. Highest temperatures of 12 to 15 degrees in mainly light northerly or variable winds.",
+          "pollen": "High on Friday and Saturday.",
+          "solar_uv": "Moderate on Friday and Saturday."
+        }
+      ]
+    }
+  ]
 }
