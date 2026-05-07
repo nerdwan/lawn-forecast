@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Mow Forecast">
+<title>🌿 Leinster Mow Forecast</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --green-dark: #1a3d0a;
+    --green-mid: #2d6b18;
+    --green-light: #4a9e2f;
+    --green-pale: #c8e8b8;
+    --amber: #b86c0a;
+    --amber-pale: #faecd4;
+    --red: #9b2020;
+    --red-pale: #f7e0e0;
+    --cream: #f5f0e8;
+    --ink: #1a1a14;
+    --muted: #6b6b5a;
+    --card-bg: #ffffff;
+    --shadow: 0 2px 16px rgba(26,61,10,0.10);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--cream);
+    color: var(--ink);
+    min-height: 100vh;
+    padding-bottom: env(safe-area-inset-bottom, 16px);
+  }
+
+  /* ── Header ── */
+  .header {
+    background: var(--green-dark);
+    color: white;
+    padding: 52px 20px 24px;
+    padding-top: calc(env(safe-area-inset-top, 20px) + 28px);
+    position: relative;
+    overflow: hidden;
+  }
+  .header::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse at 80% 0%, rgba(74,158,47,0.35) 0%, transparent 65%);
+    pointer-events: none;
+  }
+  .header-top { display: flex; align-items: flex-start; justify-content: space-between; }
+  .header-label {
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--green-pale);
+    margin-bottom: 6px;
+  }
+  .header-title {
+    font-family: 'DM Serif Display', Georgia, serif;
+    font-size: 30px;
+    line-height: 1.1;
+    color: white;
+  }
+  .header-title em { font-style: italic; color: var(--green-pale); }
+  .refresh-btn {
+    background: rgba(255,255,255,0.12);
+    border: 1px solid rgba(255,255,255,0.2);
+    color: white;
+    border-radius: 50px;
+    padding: 7px 14px;
+    font-size: 12px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    white-space: nowrap;
+    transition: background 0.2s;
+    flex-shrink: 0;
+    margin-top: 4px;
+  }
+  .refresh-btn:active { background: rgba(255,255,255,0.22); }
+  .refresh-icon { font-size: 14px; display: inline-block; transition: transform 0.5s; }
+  .refresh-icon.spinning { animation: spin 0.8s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .issue-time {
+    font-size: 11px;
+    color: rgba(255,255,255,0.55);
+    margin-top: 10px;
+  }
+
+  /* ── Status banner ── */
+  .status-banner {
+    margin: 16px 16px 0;
+    padding: 11px 14px;
+    border-radius: 12px;
+    font-size: 13px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    opacity: 0;
+    transform: translateY(-6px);
+    transition: opacity 0.3s, transform 0.3s;
+  }
+  .status-banner.visible { opacity: 1; transform: translateY(0); }
+  .status-banner.loading { background: rgba(26,61,10,0.07); color: var(--muted); }
+  .status-banner.error { background: var(--red-pale); color: var(--red); }
+  .status-banner.ok { background: #e8f5e0; color: var(--green-mid); }
+  .status-dot { width: 8px; height: 8px; border-radius: 50%; background: currentColor; flex-shrink: 0; }
+
+  /* ── Summary card ── */
+  .summary-section { padding: 16px 16px 0; }
+  .summary-card {
+    background: var(--card-bg);
+    border-radius: 16px;
+    padding: 16px;
+    box-shadow: var(--shadow);
+  }
+  .summary-label {
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 8px;
+  }
+  .summary-text {
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--ink);
+  }
+  .summary-text p + p { margin-top: 8px; }
+
+  /* ── Criteria ── */
+  .criteria-section { padding: 14px 16px 0; }
+  .criteria-card {
+    background: var(--card-bg);
+    border-radius: 16px;
+    padding: 14px 16px;
+    box-shadow: var(--shadow);
+  }
+  .criteria-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin-top: 8px;
+  }
+  .criteria-item {
+    font-size: 12px;
+    color: var(--muted);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .criteria-dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
+
+  /* ── Forecast grid ── */
+  .forecast-section { padding: 16px 16px 0; }
+  .section-label {
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 10px;
+    padding-left: 2px;
+  }
+  .forecast-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 6px;
+  }
+  .day-card {
+    background: var(--card-bg);
+    border-radius: 14px;
+    padding: 10px 4px;
+    text-align: center;
+    box-shadow: var(--shadow);
+    border: 1.5px solid transparent;
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 0.35s, transform 0.35s, box-shadow 0.2s;
+    cursor: default;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .day-card.visible { opacity: 1; transform: translateY(0); }
+  .day-card.go    { border-color: var(--green-light); }
+  .day-card.caution { border-color: var(--amber); }
+  .day-card.skip  { border-color: var(--red); }
+
+  .day-card:active { box-shadow: 0 1px 4px rgba(0,0,0,0.08); }
+
+  .today-chip {
+    font-size: 9px;
+    font-weight: 600;
+    background: var(--green-dark);
+    color: white;
+    border-radius: 20px;
+    padding: 1px 5px;
+    display: inline-block;
+    margin-bottom: 3px;
+    letter-spacing: 0.04em;
+  }
+  .day-name { font-size: 10px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
+  .day-date { font-size: 12px; font-weight: 500; color: var(--ink); margin: 2px 0; }
+  .day-icon { font-size: 20px; margin: 5px 0; line-height: 1; }
+  .verdict-pill {
+    font-size: 9px;
+    font-weight: 600;
+    padding: 2px 5px;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 3px 0 2px;
+    letter-spacing: 0.02em;
+  }
+  .go .verdict-pill    { background: #ddf0cc; color: #1f5210; }
+  .caution .verdict-pill { background: var(--amber-pale); color: #7a4a08; }
+  .skip .verdict-pill  { background: var(--red-pale); color: #7a1a1a; }
+
+  .day-tip { font-size: 9px; color: var(--muted); line-height: 1.35; margin-top: 3px; padding: 0 2px; }
+
+  /* ── Detail panel ── */
+  .detail-section { padding: 14px 16px 0; }
+  .detail-card {
+    background: var(--card-bg);
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+  }
+  .detail-row {
+    padding: 13px 16px;
+    border-bottom: 1px solid #f0ede6;
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+  }
+  .detail-row:last-child { border-bottom: none; }
+  .detail-icon { font-size: 20px; flex-shrink: 0; margin-top: 1px; }
+  .detail-content { flex: 1; min-width: 0; }
+  .detail-day { font-size: 11px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 3px; }
+  .detail-body { font-size: 13px; line-height: 1.55; color: var(--ink); }
+  .verdict-tag {
+    font-size: 10px;
+    font-weight: 600;
+    padding: 2px 7px;
+    border-radius: 20px;
+    display: inline-block;
+    margin-bottom: 5px;
+  }
+  .tag-go     { background: #ddf0cc; color: #1f5210; }
+  .tag-caution { background: var(--amber-pale); color: #7a4a08; }
+  .tag-skip   { background: var(--red-pale); color: #7a1a1a; }
+
+  /* ── Legend ── */
+  .legend-section { padding: 14px 16px 24px; }
+  .legend-card {
+    background: var(--card-bg);
+    border-radius: 16px;
+    padding: 14px 16px;
+    box-shadow: var(--shadow);
+  }
+  .legend-items { display: flex; gap: 0; flex-direction: column; gap: 8px; margin-top: 8px; }
+  .legend-item { display: flex; align-items: center; gap: 10px; font-size: 13px; color: var(--ink); }
+  .legend-swatch { width: 28px; height: 10px; border-radius: 5px; flex-shrink: 0; }
+  .source-note { font-size: 11px; color: var(--muted); margin-top: 12px; line-height: 1.5; }
+  .source-note a { color: var(--green-mid); }
+
+  /* ── Loading skeleton ── */
+  .skeleton {
+    background: linear-gradient(90deg, #e8e4dc 25%, #f0ece4 50%, #e8e4dc 75%);
+    background-size: 200% 100%;
+    animation: shimmer 1.4s infinite;
+    border-radius: 8px;
+    height: 12px;
+  }
+  @keyframes shimmer { to { background-position: -200% 0; } }
+
+  @media (max-width: 380px) {
+    .header-title { font-size: 26px; }
+    .forecast-grid { gap: 4px; }
+    .day-card { padding: 8px 2px; }
+    .day-icon { font-size: 17px; }
+    .day-date { font-size: 11px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-top">
+    <div>
+      <div class="header-label">Leinster · Ireland</div>
+      <div class="header-title">Lawn<br><em>Mow</em> Forecast</div>
+    </div>
+    <button class="refresh-btn" id="refreshBtn" onclick="loadForecast()">
+      <span class="refresh-icon" id="refreshIcon">↻</span> Refresh
+    </button>
+  </div>
+  <div class="issue-time" id="issueTime">Loading Met Éireann data…</div>
+</div>
+
+<div class="status-banner loading visible" id="statusBanner">
+  <span class="status-dot"></span>
+  <span id="statusText">Fetching latest forecast from Met Éireann…</span>
+</div>
+
+<div class="summary-section">
+  <div class="summary-card" id="summaryCard">
+    <div class="summary-label">Met Éireann · Today & Tomorrow</div>
+    <div class="summary-text" id="summaryText">
+      <div class="skeleton" style="width:100%;margin-bottom:8px"></div>
+      <div class="skeleton" style="width:85%"></div>
+    </div>
+  </div>
+</div>
+
+<div class="criteria-section">
+  <div class="criteria-card">
+    <div class="summary-label">When is grass dry enough to mow?</div>
+    <div class="criteria-grid">
+      <div class="criteria-item"><span class="criteria-dot" style="background:var(--green-light)"></span>No rain 24+ hrs prior</div>
+      <div class="criteria-item"><span class="criteria-dot" style="background:var(--green-light)"></span>Sunny spells / breeze</div>
+      <div class="criteria-item"><span class="criteria-dot" style="background:var(--red)"></span>Rain or showers = skip</div>
+      <div class="criteria-item"><span class="criteria-dot" style="background:var(--amber)"></span>Mist / heavy dew = wait</div>
+    </div>
+  </div>
+</div>
+
+<div class="forecast-section">
+  <div class="section-label">7-Day Outlook</div>
+  <div class="forecast-grid" id="forecastGrid">
+    <!-- populated by JS -->
+  </div>
+</div>
+
+<div class="detail-section">
+  <div class="section-label">Day-by-Day Detail</div>
+  <div class="detail-card" id="detailCard">
+    <!-- populated by JS -->
+  </div>
+</div>
+
+<div class="legend-section">
+  <div class="legend-card">
+    <div class="summary-label">Key</div>
+    <div class="legend-items">
+      <div class="legend-item"><div class="legend-swatch" style="background:var(--green-light)"></div><span><strong>Good to mow</strong> — dry, suitable conditions</span></div>
+      <div class="legend-item"><div class="legend-swatch" style="background:var(--amber)"></div><span><strong>Caution</strong> — possible, check conditions</span></div>
+      <div class="legend-item"><div class="legend-swatch" style="background:var(--red)"></div><span><strong>Skip</strong> — too wet or showery</span></div>
+    </div>
+    <div class="source-note" id="sourceNote">
+      Source: <a href="https://www.met.ie/forecasts/leinster" target="_blank">Met Éireann Leinster forecast</a>
+    </div>
+  </div>
+</div>
+
+<script>
+const PROXY = 'https://api.allorigins.win/get?url=';
+const MET_URL = 'https://www.met.ie/Open_Data/json/Leinster.json';
+
+const days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+function getDateLabel(offset) {
+  const d = new Date();
+  d.setDate(d.getDate() + offset);
+  return { day: days[d.getDay()], date: `${d.getDate()} ${months[d.getMonth()]}`, iso: d.toISOString().slice(0,10) };
+}
+
+// Heuristic: score forecast text for mow suitability
+function scoreForecast(text) {
+  if (!text) return { verdict: 'caution', icon: '🌥️', tip: 'Check met.ie' };
+  const t = text.toLowerCase();
+
+  const badTerms = ['heavy rain','persistent rain','thunderstorm','very wet'];
+  const showerTerms = ['shower','rain'];
+  const goodTerms = ['dry','sunny','sunshine','bright','clear','fine'];
+
+  const hasBad = badTerms.some(w => t.includes(w));
+  const hasShowers = showerTerms.some(w => t.includes(w));
+  const hasGood = goodTerms.some(w => t.includes(w));
+
+  if (hasBad) return { verdict: 'skip', icon: '🌧️', tip: 'Too wet' };
+  if (hasShowers && !hasGood) return { verdict: 'skip', icon: '🌦️', tip: 'Showers likely' };
+  if (hasShowers && hasGood) return { verdict: 'caution', icon: '⛅', tip: 'Showers possible' };
+  if (hasGood) return { verdict: 'go', icon: '☀️', tip: 'Good window' };
+  return { verdict: 'caution', icon: '🌥️', tip: 'Check conditions' };
+}
+
+function buildForecastDays(data) {
+  // Met Éireann JSON gives: today, tomorrow, and outlook text
+  const region = data.forecasts[0].regions;
+  let today = '', tomorrow = '', outlook = '', issued = '';
+
+  region.forEach(r => {
+    if (r.today)   today   = r.today;
+    if (r.tomorrow) tomorrow = r.tomorrow;
+    if (r.outlook)  outlook  = r.outlook;
+    if (r.issued)   issued   = r.issued;
+  });
+
+  // Parse outlook into day segments (heuristic by day name keywords)
+  const outDays = parseOutlook(outlook);
+
+  // Build 7-day array
+  const result = [];
+  for (let i = 0; i < 7; i++) {
+    const label = getDateLabel(i);
+    let text = '';
+    if (i === 0) text = today;
+    else if (i === 1) text = tomorrow;
+    else text = outDays[i] || '';
+
+    const scored = scoreForecast(text);
+    result.push({ ...label, text, ...scored, isToday: i === 0 });
+  }
+  return { days: result, issued };
+}
+
+function parseOutlook(outlook) {
+  // Split outlook by known day keywords — Met Éireann uses "Saturday:", "Sunday night:", etc.
+  const dayMap = {};
+  if (!outlook) return dayMap;
+
+  const segments = outlook.split(/\n/).filter(Boolean);
+  // Try to assign each line to offset 2–6
+  // We'll do a keyword match for day names
+  const now = new Date();
+  for (const seg of segments) {
+    const lower = seg.toLowerCase();
+    for (let offset = 2; offset <= 6; offset++) {
+      const d = new Date(now);
+      d.setDate(d.getDate() + offset);
+      const dayName = days[d.getDay()].toLowerCase();
+      if (lower.startsWith(dayName)) {
+        dayMap[offset] = seg.replace(/^[^:]+:\s*/i, '').trim();
+        break;
+      }
+    }
+  }
+  return dayMap;
+}
+
+function renderForecast(forecastDays) {
+  const grid = document.getElementById('forecastGrid');
+  const detail = document.getElementById('detailCard');
+  grid.innerHTML = '';
+  detail.innerHTML = '';
+
+  forecastDays.forEach((d, i) => {
+    // Mini card
+    const card = document.createElement('div');
+    card.className = `day-card ${d.verdict}`;
+    card.innerHTML = `
+      ${d.isToday ? '<div class="today-chip">Today</div>' : ''}
+      <div class="day-name">${d.day}</div>
+      <div class="day-date">${d.date}</div>
+      <div class="day-icon">${d.icon}</div>
+      <span class="verdict-pill">${d.verdict === 'go' ? 'Mow ✓' : d.verdict === 'skip' ? 'Skip' : 'Maybe'}</span>
+      <div class="day-tip">${d.tip}</div>
+    `;
+    grid.appendChild(card);
+    setTimeout(() => card.classList.add('visible'), 80 + i * 60);
+
+    // Detail row
+    const row = document.createElement('div');
+    row.className = 'detail-row';
+    const tagClass = d.verdict === 'go' ? 'tag-go' : d.verdict === 'skip' ? 'tag-skip' : 'tag-caution';
+    const tagLabel = d.verdict === 'go' ? 'Good to mow' : d.verdict === 'skip' ? 'Skip' : 'Caution';
+    row.innerHTML = `
+      <div class="detail-icon">${d.icon}</div>
+      <div class="detail-content">
+        <div class="detail-day">${d.day} ${d.date}</div>
+        <span class="verdict-tag ${tagClass}">${tagLabel}</span>
+        <div class="detail-body">${d.text || 'No detailed forecast available for this day yet — check back closer to the date.'}</div>
+      </div>
+    `;
+    detail.appendChild(row);
+  });
+}
+
+async function loadForecast() {
+  const icon = document.getElementById('refreshIcon');
+  const banner = document.getElementById('statusBanner');
+  const statusText = document.getElementById('statusText');
+  const issueTime = document.getElementById('issueTime');
+  const summaryText = document.getElementById('summaryText');
+  const sourceNote = document.getElementById('sourceNote');
+
+  icon.classList.add('spinning');
+  banner.className = 'status-banner loading visible';
+  statusText.textContent = 'Fetching latest forecast from Met Éireann…';
+
+  try {
+    // Use allorigins proxy to bypass CORS in the browser
+    const res = await fetch(`${PROXY}${encodeURIComponent(MET_URL)}`);
+    const wrapper = await res.json();
+    const data = JSON.parse(wrapper.contents);
+
+    const { days: forecastDays, issued } = buildForecastDays(data);
+
+    // Update issue time
+    if (issued) {
+      const d = new Date(issued);
+      const formatted = d.toLocaleString('en-IE', { weekday:'long', day:'numeric', month:'long', hour:'2-digit', minute:'2-digit' });
+      issueTime.textContent = `Issued: ${formatted}`;
+      sourceNote.innerHTML = `Source: <a href="https://www.met.ie/forecasts/leinster" target="_blank">Met Éireann Leinster</a> · Issued ${formatted}`;
+    }
+
+    // Summary text
+    const region = data.forecasts[0].regions;
+    let today = '', tomorrow = '';
+    region.forEach(r => { if(r.today) today = r.today; if(r.tomorrow) tomorrow = r.tomorrow; });
+    summaryText.innerHTML = `<p><strong>Today:</strong> ${today || 'No data available.'}</p>${tomorrow ? `<p><strong>Tomorrow:</strong> ${tomorrow}</p>` : ''}`;
+
+    renderForecast(forecastDays);
+
+    banner.className = 'status-banner ok visible';
+    statusText.textContent = 'Forecast updated from Met Éireann ✓';
+    setTimeout(() => { banner.className = 'status-banner ok'; }, 3000);
+
+  } catch(err) {
+    console.error(err);
+    banner.className = 'status-banner error visible';
+    statusText.textContent = 'Could not load forecast — check your connection and try again.';
+    issueTime.textContent = 'Failed to load';
+
+    // Fallback: show static message
+    document.getElementById('summaryText').innerHTML = '<p>Unable to fetch live data. Please refresh or visit <a href="https://www.met.ie/forecasts/leinster">met.ie</a> directly.</p>';
+  }
+
+  icon.classList.remove('spinning');
+}
+
+// Load on page open
+loadForecast();
+</script>
+</body>
+</html>
