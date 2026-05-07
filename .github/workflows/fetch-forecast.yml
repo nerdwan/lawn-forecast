@@ -2,19 +2,26 @@ name: Update mow forecast data
 
 on:
   schedule:
-    # Met Éireann updates ~4 times daily (3am, 9am, 3pm, 9pm).
-    # Run shortly after each cycle.
+    # Met Éireann updates ~4 times daily (around 03:00, 09:00, 15:00, 21:00 UTC).
+    # We run 15 minutes after each cycle to give the publish step time to complete.
     - cron: '15 3,9,15,21 * * *'
-  workflow_dispatch:  # allow manual run from the Actions tab
+  workflow_dispatch:  # allows manual run from the Actions tab
 
 permissions:
   contents: write
+
+# Don't run two updates at the same time. If a new run starts while one is in
+# progress, the older one is cancelled.
+concurrency:
+  group: fetch-forecast
+  cancel-in-progress: false
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -22,16 +29,21 @@ jobs:
           python-version: '3.12'
 
       - name: Fetch and transform Met Éireann forecast
+        # Optional: uncomment and edit to forecast for somewhere other than Kells.
+        # env:
+        #   MOW_LAT: "53.3498"
+        #   MOW_LON: "-6.2603"
+        #   MOW_LOCATION_NAME: "Dublin"
         run: python scripts/fetch_forecast.py
 
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/forecast.json
+          git add data/hourly.json data/leinster.json
           if git diff --cached --quiet; then
-            echo "No changes to forecast.json — skipping commit."
+            echo "No changes to forecast data — skipping commit."
           else
-            git commit -m "Update forecast data ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git commit -m "Update forecast data ($(date -u +%Y-%m-%dT%H:%MZ)) [skip ci]"
             git push
           fi
