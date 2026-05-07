@@ -1,38 +1,37 @@
-name: Fetch Met Éireann Forecast
+name: Update mow forecast data
 
 on:
   schedule:
-    - cron: '30 6 * * *'   # 06:30 UTC = ~07:30 Irish time (covers the 05:30 issue)
-    - cron: '30 17 * * *'  # 17:30 UTC = ~18:30 Irish time (covers the ~17:30 issue)
-  workflow_dispatch:        # allows manual trigger from GitHub Actions tab
+    # Met Éireann updates ~4 times daily (3am, 9am, 3pm, 9pm).
+    # Run shortly after each cycle.
+    - cron: '15 3,9,15,21 * * *'
+  workflow_dispatch:  # allow manual run from the Actions tab
+
+permissions:
+  contents: write
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Fetch Leinster forecast
-        run: |
-          curl -s "https://www.met.ie/Open_Data/json/Leinster.json" \
-            -o data/leinster.json \
-            --fail \
-            --retry 3 \
-            --retry-delay 5
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
 
-      - name: Fetch National forecast
-        run: |
-          curl -s "https://www.met.ie/Open_Data/json/National.json" \
-            -o data/national.json \
-            --fail \
-            --retry 3 \
-            --retry-delay 5
+      - name: Fetch and transform Met Éireann forecast
+        run: python scripts/fetch_forecast.py
 
-      - name: Commit and push if data changed
+      - name: Commit updated data
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/leinster.json data/national.json
-          git diff --cached --quiet || git commit -m "chore: update forecast data $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git push
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/forecast.json
+          if git diff --cached --quiet; then
+            echo "No changes to forecast.json — skipping commit."
+          else
+            git commit -m "Update forecast data ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+          fi
