@@ -6,7 +6,6 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Mow Forecast">
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
 <title>🌿 Leinster Mow Forecast</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
@@ -368,9 +367,8 @@
 </div>
 
 <script>
-const PROXY = 'https://api.allorigins.win/get?url=';
-const LEINSTER_URL = 'https://www.met.ie/Open_Data/json/Leinster.json';
-const NATIONAL_URL = 'https://www.met.ie/Open_Data/json/National.json';
+const LEINSTER_URL = './data/leinster.json';
+const NATIONAL_URL = './data/national.json';
 
 const days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
 const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
@@ -496,9 +494,9 @@ function renderForecast(forecastDays) {
 }
 
 async function fetchJSON(url) {
-  const res = await fetch(`${PROXY}${encodeURIComponent(url)}`);
-  const wrapper = await res.json();
-  return JSON.parse(wrapper.contents);
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  return res.json();
 }
 
 async function loadForecast() {
@@ -511,7 +509,7 @@ async function loadForecast() {
 
   icon.classList.add('spinning');
   banner.className = 'status-banner loading visible';
-  statusText.textContent = 'Fetching latest forecast from Met Éireann…';
+  statusText.textContent = 'Loading forecast data…';
 
   try {
     // Fetch both feeds in parallel
@@ -543,9 +541,9 @@ async function loadForecast() {
   } catch(err) {
     console.error(err);
     banner.className = 'status-banner error visible';
-    statusText.textContent = 'Could not load forecast — check your connection and try again.';
-    issueTime.textContent = 'Failed to load';
-    document.getElementById('summaryText').innerHTML = '<p>Unable to fetch live data. Please refresh or visit <a href="https://www.met.ie/forecasts/leinster">met.ie</a> directly.</p>';
+    statusText.textContent = 'Could not load forecast data — the daily update may not have run yet.';
+    issueTime.textContent = 'Data unavailable';
+    document.getElementById('summaryText').innerHTML = '<p>Forecast data not found. The GitHub Action may not have run yet — check back in a few minutes, or visit <a href="https://www.met.ie/forecasts/leinster">met.ie</a> directly.</p>';
   }
 
   icon.classList.remove('spinning');
