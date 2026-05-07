@@ -656,13 +656,66 @@ function scoreHour(entry, recent) {
 }
 
 // ── Roll up hourly scores into a day verdict ──────────────────────────────
-function summariseDay(hours) {
-  // Daylight + reasonable mowing window: 8am to 8pm.
-  const daytime = hours.filter(h => {
+// `isToday` lets us trim past hours from the analysis so an evening reload
+// doesn't claim a great mowing window for hours that have already gone by.
+function summariseDay(hours, isToday = false) {
+  if (!hours || hours.length === 0) return null;
+
+  // For "today", drop any hours that are already in the past — there's no
+  // point recommending a window from earlier this morning. We keep a record
+  // of whether we trimmed, so the headline can reflect it.
+  const now = new Date();
+  let workingHours = hours;
+  let trimmedPastHours = 0;
+  if (isToday) {
+    const cutoff = now.getTime() - 30 * 60 * 1000; // 30 min grace
+    const before = hours.length;
+    workingHours = hours.filter(h => h.time.getTime() >= cutoff);
+    trimmedPastHours = before - workingHours.length;
+  }
+
+  // If the full daytime window (8am–8pm) is gone for today, return a
+  // "day's done" summary rather than null. The user still needs SOMETHING
+  // in the today card.
+  const remainingDaytime = workingHours.filter(h => {
     const hr = h.time.getHours();
     return hr >= 8 && hr < 20;
   });
-  if (daytime.length === 0) return null;
+
+  if (isToday && remainingDaytime.length === 0) {
+    // Compute stats from the original full-day hours so the figures still
+    // describe today as a whole.
+    const dayHours = hours.filter(h => {
+      const hr = h.time.getHours();
+      return hr >= 8 && hr < 20;
+    });
+    const totalRain = hours.reduce((a, h) => a + h.precip_mm, 0);
+    const avgTemp = dayHours.length
+      ? dayHours.reduce((a, h) => a + h.temp_c, 0) / dayHours.length
+      : (workingHours[0]?.temp_c ?? 10);
+    const maxWind = dayHours.length
+      ? Math.max(...dayHours.map(h => h.wind_kmh))
+      : (workingHours[0]?.wind_kmh ?? 0);
+    const avgCloud = dayHours.length
+      ? dayHours.reduce((a, h) => a + h.cloud_pct, 0) / dayHours.length
+      : (workingHours[0]?.cloud_pct ?? 80);
+
+    return {
+      verdict: 'caution',
+      headline: 'Day’s wrapped up',
+      sub: 'Mowing window has passed for today — check tomorrow',
+      icon: '🌙',
+      bestWindow: null,
+      totalRain, avgTemp, maxWind, avgCloud,
+      goHours: 0, skipHours: 0,
+      dayOver: true
+    };
+  }
+
+  // Normal path: at least some daytime hours remain (or it's a future day).
+  // Use the full day's hours for "totalRain" since rain earlier today still
+  // matters for ground wetness, but base the verdict on the remaining ones.
+  const daytime = remainingDaytime.length > 0 ? remainingDaytime : workingHours;
 
   const goHours = daytime.filter(h => h.verdict === 'go').length;
   const skipHours = daytime.filter(h => h.verdict === 'skip').length;
@@ -671,7 +724,7 @@ function summariseDay(hours) {
   const maxWind = Math.max(...daytime.map(h => h.wind_kmh));
   const avgCloud = daytime.reduce((a, h) => a + h.cloud_pct, 0) / daytime.length;
 
-  // Find longest contiguous "go" window in daytime.
+  // Find longest contiguous "go" window in the *remaining* daytime hours.
   let bestRun = { start: null, end: null, length: 0 };
   let curStart = null, curLen = 0;
   for (const h of daytime) {
@@ -686,13 +739,18 @@ function summariseDay(hours) {
     }
   }
 
+  // Threshold for a "real" mowing window. If we've trimmed away the morning,
+  // accept shorter runs (2h instead of 3h) since the day is partially gone.
+  const goThreshold = (isToday && trimmedPastHours > 0) ? 2 : 3;
+
   let verdict, headline, sub;
-  if (bestRun.length >= 3) {
+  if (bestRun.length >= goThreshold) {
     verdict = 'go';
     const startHr = bestRun.start.getHours();
     const endHr = bestRun.end.getHours() || 24;
     headline = 'Good to mow';
-    sub = `Best window: ${pad(startHr)}:00–${pad(endHr)}:00 · ${bestRun.length}h dry`;
+    const prefix = (isToday && trimmedPastHours > 0) ? 'Remaining window' : 'Best window';
+    sub = `${prefix}: ${pad(startHr)}:00–${pad(endHr)}:00 · ${bestRun.length}h dry`;
   } else if (skipHours >= 8 || totalRain >= 5) {
     verdict = 'skip';
     headline = 'Skip today';
@@ -722,7 +780,8 @@ function summariseDay(hours) {
     verdict, headline, sub, icon,
     bestWindow: bestRun.length > 0 ? bestRun : null,
     totalRain, avgTemp, maxWind, avgCloud,
-    goHours, skipHours
+    goHours, skipHours,
+    dayOver: false
   };
 }
 
@@ -745,28 +804,33 @@ function buildDays(hourlyEntries) {
     return { ...entry, ...scoreHour(entry, recent) };
   });
 
-  // Bucket into days.
+  // Bucket into days, keyed by local-midnight ISO date string. Using a
+  // string key (not ms) avoids any subtle drift on DST transition days.
   const byDay = new Map();
   for (const h of scored) {
-    const key = startOfDay(h.time).getTime();
+    const d = startOfDay(h.time);
+    const key = `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}`;
     if (!byDay.has(key)) byDay.set(key, []);
     byDay.get(key).push(h);
   }
 
-  // Build summaries for the next 6 days starting today.
-  const today = startOfDay(new Date()).getTime();
+  // Build summaries for the next 6 days starting today. Iterate by adding
+  // 1 to the date object directly (DST-safe) rather than adding 86_400_000ms.
   const summaries = [];
+  const cursor = startOfDay(new Date());
   for (let i = 0; i < 6; i++) {
-    const key = today + i * 86400000;
+    const key = `${cursor.getFullYear()}-${pad(cursor.getMonth()+1)}-${pad(cursor.getDate())}`;
     const hours = byDay.get(key) || [];
-    const date = new Date(key);
+    const date = new Date(cursor);
     const lbl = dateLabel(date);
-    const summary = hours.length > 0 ? summariseDay(hours) : null;
+    const isToday = i === 0;
+    const summary = hours.length > 0 ? summariseDay(hours, isToday) : null;
     summaries.push({
       date, dayName: lbl.day, dateLabel: lbl.date,
-      hours, summary, isToday: i === 0,
+      hours, summary, isToday,
       hasData: summary !== null
     });
+    cursor.setDate(cursor.getDate() + 1);
   }
   return summaries;
 }
