@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-08T03:00:00+01:00",
-          "today": "A cloudier day overall today with some bright spells.Scattered showers developing, mainly away from the coast,with the odd heavy one possible. Highest temperatures of 12 to 15 degrees in mainly light northeasterly or variable winds.",
-          "tonight": "Becoming dry with cloud giving way to clear spells tonight, although some cloud may linger in the south. Lowest temperatures of 4 to 8 degrees in light to moderate northerly winds, increasing fresh at times in parts of the south.",
-          "tomorrow": "Tomorrow will be mainly dry with sunny spellsbut with cloudier conditions and the chance of a shower in southern areas. Breezy with a moderate to fresh north to northeasterly wind and highest temperatures of 13 to 15 degrees.",
+          "issued": "2026-05-08T13:00:00+01:00",
+          "today": "Mostly cloudy this afternoon and evening, with limited bright spells.Scattered showers developing, mainly away from the coast,with the odd heavy one possible. Highest temperatures of 12 to 15 degrees in mainly light northeasterly or variable winds.",
+          "tonight": "Becoming dry with clear spells developing in some places overnight. Lowest temperatures of 3 to 8 degrees in light to moderate northerly winds, increasing fresh at times along parts of the south coast.",
+          "tomorrow": "Tomorrow will be mainly dry with sunny spells, these hazy at times due to high cloud. There will be variable amounts of cloud throughout the day.Breezy with a moderate to fresh, gusty north to northeasterly wind and highest temperatures of 13 to 15 degrees.",
           "pollen": "High on Friday and Saturday.",
-          "solar_uv": "Moderate on Friday and Saturday."
+          "solar_uv": "Low to moderate on Friday and Saturday."
         }
       ]
     }
