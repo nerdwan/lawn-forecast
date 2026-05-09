@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-08T16:30:00+01:00",
-          "today": "Mostly cloudy this evening, with limited bright or sunny spells. There will be some isolated showers across inland parts. All in mainly light northeasterly or variable winds.",
-          "tonight": "Becoming dry with clear spells developing in some places overnight. Lowest temperatures of 3 to 8 degrees in light to moderate northerly winds, increasing fresh at times along parts of the south coast.",
-          "tomorrow": "Tomorrow will be mainly dry with sunny spells, these hazy at times due to high cloud. There will be variable amounts of cloud throughout the day.Breezy with a moderate to fresh, gusty north to northeasterly wind and highest temperatures of 13 to 15 degrees.",
-          "pollen": "High on Saturday and Sunday.",
-          "solar_uv": "Moderate on Saturday and Sunday."
+          "issued": "2026-05-09T05:30:00+01:00",
+          "today": "Dry with sunny spells for most today Saturday, but cool, and a little breezy. It will be cloudier at times across southern parts of the province. Highest temperatures of 13 to 15 degrees in mostly moderate northeast winds, fresh near the coast.",
+          "tonight": "Dry tonight with long clear spells. Rather chilly with lowest temperatures of 1 to 4 degrees, with a touch of frost possible in sheltered spots, as northerly winds ease mainly light to moderate overnight. A little milder nearer the coast.",
+          "tomorrow": "Mostly dry again tomorrow, Sunday, with sunny spells. Cloud amounts will tend to increase from the northwest as the day goes on. Highest temperatures of 11 to 15 degrees, in light to moderate northerly winds.",
+          "pollen": "High.",
+          "solar_uv": "Moderate Saturday and Sunday."
         }
       ]
     }
