@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-10T05:30:00+01:00",
-          "today": "Mostly dry today with good spells of sunshine. Turning cloudier from the northwest later in the day. Highest temperatures of 11 to 15 degrees in light to moderate northerly winds.",
-          "tonight": "Dry with clear spells for most at first tonight. Cloud in the northwest will continue to spread southeastwards overnight with the odd shower possibly developing towards morning. Lowest temperatures of 3 to 6 degrees in a mostly light northwesterly breeze.",
-          "tomorrow": "Mainly cloudy to start tomorrow with scattered light showers, though it will brighten up through the day with more in the way of sunny spells. Highest temperatures of 12 to 15 degrees, in a mostly light north to northwest breeze.",
-          "pollen": "High on Sunday and Monday.",
-          "solar_uv": "Moderate on Sunday and Monday."
+          "issued": "2026-05-10T16:00:00+01:00",
+          "today": "Mostly dry this afternoon and evening, with good spells of sunshine. Turning cloudier from the north-west later on, in light to moderate northerly winds.",
+          "tonight": "Dry with clear spells for most at first tonight. Cloud in the north-west will continue to spread southeastwards overnight with patchy light rain or drizzle possibly developing towards morning. Lowest temperatures of 3 to 6 degrees in a mostly light northwesterly breeze.",
+          "tomorrow": "Mainly cloudy to start tomorrow with patchy light rain or drizzle possible, though it will brighten up through the day with more in the way of sunny spells. Highest temperatures of 12 to 15 degrees, in a mostly light north to north-west breeze.",
+          "pollen": "High on Monday and Tuesday.",
+          "solar_uv": "Moderate on Monday and Tuesday."
         }
       ]
     }
