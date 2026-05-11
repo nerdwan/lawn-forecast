@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-10T16:00:00+01:00",
-          "today": "Mostly dry this afternoon and evening, with good spells of sunshine. Turning cloudier from the north-west later on, in light to moderate northerly winds.",
-          "tonight": "Dry with clear spells for most at first tonight. Cloud in the north-west will continue to spread southeastwards overnight with patchy light rain or drizzle possibly developing towards morning. Lowest temperatures of 3 to 6 degrees in a mostly light northwesterly breeze.",
-          "tomorrow": "Mainly cloudy to start tomorrow with patchy light rain or drizzle possible, though it will brighten up through the day with more in the way of sunny spells. Highest temperatures of 12 to 15 degrees, in a mostly light north to north-west breeze.",
-          "pollen": "High on Monday and Tuesday.",
-          "solar_uv": "Moderate on Monday and Tuesday."
+          "issued": "2026-05-11T12:00:00+01:00",
+          "today": "Patchy light rain will clear to the south early this afternoon and the rest of today will be dry with sunny spells developing. Light or moderate northerly winds will veer easterly in coastal areas for a time. Highest temperatures will range from 12 to 16 degrees, coolest in the north of the province.",
+          "tonight": "It will be dry for much of tonight with some clear spells. Cloud will spread from the north later, with patchy light rain and drizzle developing towards dawn. Lowest temperatures of 5 to 8 degrees in light to moderate westerly winds.",
+          "tomorrow": "Mostly cloudy at first tomorrow, with some patchy light rain. The rain will clear to the south during the morning and the rest of the day will be dry with sunny spells. Becoming breezy, with moderate or fresh west to northwesterly winds developing. Highest temperatures of 14 to 17 degrees.",
+          "pollen": "High Monday and Tuesday.",
+          "solar_uv": "Moderate Monday and Tuesday."
         }
       ]
     }
