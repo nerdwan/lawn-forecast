@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-11T16:30:00+01:00",
-          "today": "Dry this evening with sunny spells. Winds will generally be light and northerly, but will be easterly for a time in coastal areas.",
-          "tonight": "It will be dry for much of tonight with some clear spells. Cloud will spread from the north later, with patchy light rain and drizzle developing towards dawn. Lowest temperatures of 5 to 8 degrees in light to moderate westerly winds.",
-          "tomorrow": "Mostly cloudy at first tomorrow, with some patchy light rain. The rain will clear to the south during the morning and the rest of the day will be dry with sunny spells. Becoming breezy, with moderate or fresh west to northwesterly winds developing. Highest temperatures of 14 to 17 degrees.",
-          "pollen": "High on Tuesday and Wednesday.",
-          "solar_uv": "Moderate on Tuesday and Wednesday."
+          "issued": "2026-05-12T07:00:00+01:00",
+          "today": "This morning will be mostly cloudy across Leinster with patchy light rain and drizzle moving southwards. Cloud and drizzle will clear to the south by noon with sunny spells following for the rest of the day. Highest temperatures of 13 to 16 degrees with moderate to fresh west to northwest winds",
+          "tonight": "Tonight will start off mainly dry with clear spells. Scattered showers will extend southwards overnight. Lowest temperatures of 5 to 8 degrees with moderate to fresh westerly winds.",
+          "tomorrow": "Wednesday will be a cool, breezy day with sunshine and showers. Highest temperatures of 11 to 13 degrees with fresh, gusty northwesterly winds.",
+          "pollen": "High today and Wednesday",
+          "solar_uv": "Moderate today and Wednesday"
         }
       ]
     }
