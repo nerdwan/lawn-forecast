@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-12T17:30:00+01:00",
-          "today": "Sunny spells this evening and just a few showers in the north of Leinster.",
-          "tonight": "Tonight will start off mainly dry with clear spells. Showers will develop later tonight. Lowest temperatures of 5 to 8 degrees with moderate to fresh westerly winds.",
-          "tomorrow": "Wednesday will be a cool, breezy day with sunshine and showers. Highest temperatures of 11 to 13 degrees with fresh, gusty northwesterly winds.",
-          "pollen": "High today and Wednesday",
-          "solar_uv": "Moderate today and Wednesday"
+          "issued": "2026-05-13T05:30:00+01:00",
+          "today": "A little cool this morning with a chilly northerly breeze. A mix of cloud and sunshine today generally but a few isolated showers will drift down over the province too. A little windy at times with highest temperatures of 12 to 14 degrees.",
+          "tonight": "Any showers will gradually clear away as northerly winds ease and plenty of clear spells develop. Lowest temperatures of 3 of 6 degrees but feeling rather cool in the breeze.",
+          "tomorrow": "Cloudy overall and perhaps more unsettled with a mix of scattered showers and isolated sunny spells. Some of the showers may be a little heavy at times too. Feeling cool in the northerly breeze with highest temperatures of 9 to 14 degrees.",
+          "pollen": "High",
+          "solar_uv": "Moderate"
         }
       ]
     }
