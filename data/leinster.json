@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-13T17:30:00+01:00",
-          "today": "Cool and blustery this evening with scattered showers.",
-          "tonight": "Showers becoming well scattered overnight with clear spells developing. Lowest temperatures of 4 to 7 degrees in mainly moderate northwest winds.",
-          "tomorrow": "Scattered showers again tomorrow, turning heavy in places in the afternoon. They'll clear from the north through the later afternoon and evening with brighter spells developing. Another cool day with highest temperatures of 10 to 13 degrees in a brisk northerly wind.",
-          "pollen": "High",
-          "solar_uv": "Moderate"
+          "issued": "2026-05-14T05:30:00+01:00",
+          "today": "Cloudy this morning with scattered showers, some turning heavy. Becoming drier and brighter through the afternoon with sunny spells spreading from the north and showers becoming isolated. Highest temperatures of 11 to 13 degrees in moderate northerly winds.",
+          "tonight": "Tonight will be dry for most with long clear spells and just isolated showers. Chilly with lowest temperatures of 2 to 4 degrees in light to moderate northwesterly winds.",
+          "tomorrow": "Tomorrow will bring a mix of sunny spells and well scattered showers. Highest temperatures of 12 to 14 degrees in light to moderate northwest winds.",
+          "pollen": "High.",
+          "solar_uv": "Moderate."
         }
       ]
     }
