@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-15T18:00:00+01:00",
-          "today": "Isolated showers this evening in light northwesterly winds.",
-          "tonight": "Dry with clear spells at first tonight but cloud will increase overnight and may bring some light rain or drizzle by morning. Lowest temperatures of 7 to 9 degrees with light winds.",
-          "tomorrow": "Tomorrow morning will be cloudy with patches of light rain or drizzle. More persistent rain will develop for a time in the afternoon but will be followed by a clearance to sunny spells and scattered showers by early evening. Highest temperatures of 12 or 13 degrees with light to moderate southwest winds, becoming westerly with the clearance of the rain.",
-          "pollen": "High on Friday and Saturday.",
-          "solar_uv": "Moderate on Friday and Moderate or Low on Saturday."
+          "issued": "2026-05-16T05:00:00+01:00",
+          "today": "This morning will be cloudy with patches of light rain or drizzle. More persistent rain will develop for a time in the afternoon but will be followed by a clearance to sunny spells and scattered showers by early evening. Highest temperatures of 11 to 14 degrees with light to moderate southwest winds, becoming westerly with the clearance of the rain.",
+          "tonight": "Scattered showers quickly becoming isolated tonight with some clear spells developing. Lowest temperatures of 3 to 7 degrees with light to moderate west to southwest winds.",
+          "tomorrow": "Cloudy with outbreaks of showery rain becoming widespread through the morning. The showers will turn heavy and persistent at times. Some thunderstorms are possible too with hail. Highest temperatures of 10 to 13 degrees with a moderate to fresh southwesterly breeze developing.",
+          "pollen": "High on Saturday and Sunday.",
+          "solar_uv": "Low to moderate on Saturday and Sunday."
         }
       ]
     }
