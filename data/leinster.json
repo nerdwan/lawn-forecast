@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-16T17:30:00+01:00",
-          "today": "Sunny spells and scattered showers this evening with moderate westerly winds.",
-          "tonight": "Showers will die out early tonight and it will become mainly dry with some clear spells. Lowest temperatures of 4 to 7 degrees with light to moderate westerly winds.",
-          "tomorrow": "After a dry start, outbreaks of showery rain will spread from the west tomorrow morning. The showers will turn heavy and persistent at times, with a risk of hail and thunderstorms. Highs of 12 or 13 degrees with moderate southwest winds, gusty in and around showers.",
-          "pollen": "High on Saturday and Sunday.",
-          "solar_uv": "Low to moderate on Saturday and moderate on Sunday."
+          "issued": "2026-05-17T05:30:00+01:00",
+          "today": "After a mostly dry start, widespread showers will feed in from the west, turning heavy at times with the chance of thunderstorms and hail. Highest temperatures of 9 to 12 degrees with moderate, occasionally fresh, west to southwest winds.",
+          "tonight": "Tonight, becoming dry for most with clear spells as showers ease early on. Lowest temperatures of 2 to 5 degrees, with patches of mist and fog forming in light westerly or variable breezes and patches of mist and fog forming.",
+          "tomorrow": "A dry and bright start for most tomorrow, with patches of mist and fog in places. Turning dull and damp as cloud in the southwest gradually spreads northeastwards through the morning with outbreaks of rain following in the afternoon. Highest temperatures of 11 to 14 degrees in moderate to fresh south to southeast winds.",
+          "pollen": "Moderate on Sunday, low on Monday.",
+          "solar_uv": "Moderate on Sunday, low to moderate on Monday."
         }
       ]
     }
