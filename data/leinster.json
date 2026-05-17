@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-17T05:30:00+01:00",
-          "today": "After a mostly dry start, widespread showers will feed in from the west, turning heavy at times with the chance of thunderstorms and hail. Highest temperatures of 9 to 12 degrees with moderate, occasionally fresh, west to southwest winds.",
-          "tonight": "Tonight, becoming dry for most with clear spells as showers ease early on. Lowest temperatures of 2 to 5 degrees, with patches of mist and fog forming in light westerly or variable breezes and patches of mist and fog forming.",
-          "tomorrow": "A dry and bright start for most tomorrow, with patches of mist and fog in places. Turning dull and damp as cloud in the southwest gradually spreads northeastwards through the morning with outbreaks of rain following in the afternoon. Highest temperatures of 11 to 14 degrees in moderate to fresh south to southeast winds.",
-          "pollen": "Moderate on Sunday, low on Monday.",
-          "solar_uv": "Moderate on Sunday, low to moderate on Monday."
+          "issued": "2026-05-17T16:30:00+01:00",
+          "today": "Some sunny spells but mostly cloudy for the rest of today with further widespread showers. Some will be heavy, with the chance of hail and isolated thunderstorms, which may lead to localised flooding. Moderate west to southwest winds will increase fresh and gusty locally.",
+          "tonight": "Showers will die out early tonight. Dry for the rest of the night with a mix of cloud and clear spells. Southwest winds will become light and locally variable, allowing patches of mist and fog to form. Cool with temperatures dipping to between 2 and 5 degrees.",
+          "tomorrow": "A dry start on Monday, with any mist and fog clearing during the morning. Some bright or sunny spells but cloud will gradually increase, bringing outbreaks of rain from the southwest in the afternoon and evening. The rain may turn heavy and persistent in parts of the south and west. Milder than today with top temperatures of 12 to 15 degrees. Light southwest or variable winds will become south or southeast ahead of the rain and increase moderate to fresh and gusty.",
+          "pollen": "Low on Monday and Tuesday.",
+          "solar_uv": "Low to moderate on Monday and Tuesday."
         }
       ]
     }
