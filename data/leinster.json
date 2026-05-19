@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-19T06:00:00+01:00",
-          "today": "Widespread showers or more persistent spells of rain, some of which will be heavy with the possibility of isolated thunderstorms or hail. Generally cloudy with limited sunny spells. Highest temperatures of 13 to 17 degrees, with moderate to fresh southwesterly winds, stronger near coasts.",
-          "tonight": "Mostly cloudy with scattered showers. Lowest temperatures of 8 to 11 degrees, with mostly light to moderate, occasionally fresh, southwesterly winds.",
-          "tomorrow": "Quite cloudy in general but with a few sunny spells around. Dry apart from the odd light shower.Highest temperatures of around 14 to 18 degrees, with light to moderate, occasionally fresh, southwesterly breezes.",
-          "pollen": "Low.",
-          "solar_uv": "Moderate."
+          "issued": "2026-05-19T17:00:00+01:00",
+          "today": "There will be scattered showers persisting this evening. Some will be heavy with the possibility of isolated thunderstorms and hail, mainly in northern parts. Generally cloudy with limited bright or sunny spells. All in moderate to fresh, gusty southwesterly winds. These stronger near coasts.",
+          "tonight": "Mostly cloudy with any showers easing and becoming more isolated overnight. Lowest temperatures of 9 to 11 degrees, with moderate to fresh and gusty, southwesterly winds.",
+          "tomorrow": "Mostly dry with a mix of cloud and some sunny spells during the morning. An isolated shower is possible. Turning cloudier from the south-west in the afternoon and evening. Highest temperatures of 15 to 17 degrees, with light to moderate southwesterly breezes.",
+          "pollen": "Low on Wednesday.",
+          "solar_uv": "Moderate to high on Wednesday and Thursday."
         }
       ]
     }
