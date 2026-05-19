@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-18T16:30:00+01:00",
-          "today": "Cloudy for the rest of today with outbreaks of rain and drizzle. The rain will turn heavy in places. Some hill and coastal fog will develop in the south later. Light to moderate southeast winds will increase moderate to fresh, with strong winds developing near the south coast this evening.",
-          "tonight": "Rain and drizzle, persistent at times, will clear northeastwards through the first half of tonight, with dry spells developing. However, showers or longer spells of rain will follow from the southwest and may turn heavy. Temperatures will fall no lower than 8 to 11 degrees. Moderate to fresh southeast winds, strong at times near the coast, will veer south to southwest and decrease light to moderate away from the south coast.",
-          "tomorrow": "A few bright or sunny spells on Tuesday, but mostly cloudy with widespread showers, occasionally merging to longer spells of rain. The showers will be heavy at times, with the chance of a few isolated thunderstorms. Highest temperatures of 12 to 16 degrees in moderate, locally fresh and gusty, southwest winds, which will be stronger at times near the south coast.",
-          "pollen": "Low on Tuesday and Wednesday.",
-          "solar_uv": "Low to moderate on Tuesday. Moderate, locally high in sunshine, on Wednesday."
+          "issued": "2026-05-19T06:00:00+01:00",
+          "today": "Widespread showers or more persistent spells of rain, some of which will be heavy with the possibility of isolated thunderstorms or hail. Generally cloudy with limited sunny spells. Highest temperatures of 13 to 17 degrees, with moderate to fresh southwesterly winds, stronger near coasts.",
+          "tonight": "Mostly cloudy with scattered showers. Lowest temperatures of 8 to 11 degrees, with mostly light to moderate, occasionally fresh, southwesterly winds.",
+          "tomorrow": "Quite cloudy in general but with a few sunny spells around. Dry apart from the odd light shower.Highest temperatures of around 14 to 18 degrees, with light to moderate, occasionally fresh, southwesterly breezes.",
+          "pollen": "Low.",
+          "solar_uv": "Moderate."
         }
       ]
     }
