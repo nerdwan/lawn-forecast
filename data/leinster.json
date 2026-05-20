@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-20T05:30:00+01:00",
-          "today": "Variable cloud amounts and sunny spells today, Wednesday along with a few, well-scattered light showers. Cloud will thicken from the south-west later and outbreaks of rain and drizzle will push into southwestern parts by nightfall. Highest temperatures of 14 to 18 degrees in light to moderate southwesterly winds becoming southerly this evening.",
-          "tonight": "Mostly cloudy with outbreaks of rain and drizzle continuing to extend northeastwards over the region early tonight. The rain and drizzle will turn patchier overnight. There\u2019ll be some mist and hill and coastal fog around too. Mild with lowest temperatures of 11 to 13 degrees, in light to moderate, occasionally fresh, southerly winds.",
+          "issued": "2026-05-20T17:00:00+01:00",
+          "today": "Variable cloud amounts and sunny spells this evening. Cloud will thicken from the south-west later on, with some patchy rain and drizzle reaching south-western parts of Leinster after dark. All in light to moderate southwesterly winds becoming southerly this evening.",
+          "tonight": "Mostly cloudy with outbreaks of rain and drizzle pushing northeastwards over the region early tonight. The rain and drizzle will turn patchier towards dawn. There\u2019ll be some mist, hill and coastal fog around too. Mild with lowest temperatures of 11 to 13 degrees, in light to moderate, occasionally fresh, southerly winds.",
           "tomorrow": "Mostly cloudy with patchy rain, drizzle and mist to begin, tomorrow Thursday. A more persistent spell of rain will spread northwards over the region during the afternoon. Drier, clearer conditions will follow from the south with some hazy sunshine developing in places. Highest temperatures of 14 to 19 degrees, in light to moderate southerly winds.",
-          "pollen": "Low on Wednesday and Thursday.",
-          "solar_uv": "Moderate to high on Wednesday and Thursday."
+          "pollen": "Low on Thursday and Friday.",
+          "solar_uv": "Moderate on Thursday. Moderate to high on Friday."
         }
       ]
     }
