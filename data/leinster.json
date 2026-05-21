@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-21T05:30:00+01:00",
-          "today": "Mostly cloudy with patchy rain, drizzle and mist to begin Thursday. However, drier, clearer conditions will follow from the south with some hazy sunshine developing in places. Highest temperatures of 14 to 19 degrees, best values further north of the province, in light to moderate southerly winds.",
-          "tonight": "Tonight will be cloudy and humid with patches of mist and drizzle, but overall a lot of dry weather away from southern and western fringes. Another mild night, with lowest temperatures of 11 to 13 degrees, in just light to moderate southerly breezes.",
-          "tomorrow": "Friday will begin mild and cloudy with patches of mist and drizzle across the country. While sunny spells will gradually develop, some sharp showers will develop in places too, currently the focus of these will be across Ulster. Very mild with highest temperatures of 17 to 20 degrees generally, somewhat cooler though for southern areas where seafog may encroach. Southwest breezes will be just light to moderate.",
-          "pollen": "Low on Thursday and Friday.",
-          "solar_uv": "Moderate on Thursday. Moderate to high on Friday."
+          "issued": "2026-05-21T17:00:00+01:00",
+          "today": "Mostly cloudy with patchy light rain and drizzle this afternoon. However, drier, clearer conditions will follow from the south later on with some hazy sunshine developing in places. Light to moderate southerly winds.",
+          "tonight": "Tonight will be cloudy and humid with patches of mist and drizzle, but overall a lot of dry weather away from southern fringes. Another mild night, with lowest temperatures of 11 to 13 degrees, in just light to moderate southerly breezes.",
+          "tomorrow": "Friday will begin mild and cloudy with patches of mist and drizzle across the province. While sunny spells will gradually develop, some odd showers may occur. Mild with highest temperatures of 17 to 20 degrees generally, somewhat cooler though for southern part where sea fog may encroach. Southwest breezes will be just light to moderate.",
+          "pollen": "Low on Friday and Saturday.",
+          "solar_uv": "Moderate to high on Friday and Saturday."
         }
       ]
     }
