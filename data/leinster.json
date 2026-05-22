@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-22T05:30:00+01:00",
-          "today": "Mild and cloudy today with patches of mist and drizzle. Sunny spells will develop later on in the day, with the odd isolated shower falling. Light to moderate southerly winds, with highest temperatures of 14 to 18 degrees, cooler on southeast coasts.",
-          "tonight": "Cloudy and dry with mist and fog patches forming towards morning. Lowest temperatures of 7 to 10 degrees in mostly light southwest winds.",
-          "tomorrow": "Dry and warm with sunny spells.Highest temperatures of 17 to 21 degrees. Mostly light to southwest winds, fresh to strong along coasts.",
+          "issued": "2026-05-22T16:30:00+01:00",
+          "today": "A mix of clouds and clear to sunny spells this afternoon and evening, with the odd isolated shower possible, in light to moderate southerly winds. Sea fog will affect some southern coastal areas.",
+          "tonight": "Cloudy and dry with mist and fog patches forming towards morning, particularly in the south. Lowest temperatures of 7 to 10 degrees in mostly light southwest winds.",
+          "tomorrow": "Dry and warm with sunny spells.Highest temperatures of 20 to 23 degrees. Mostly light to moderate south-west winds, possibly fresh at times along coasts.",
           "pollen": "Low.",
-          "solar_uv": "Moderate to high."
+          "solar_uv": "Moderate to high on Saturday, high on Sunday."
         }
       ]
     }
