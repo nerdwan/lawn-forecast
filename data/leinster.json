@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-21T17:00:00+01:00",
-          "today": "Mostly cloudy with patchy light rain and drizzle this afternoon. However, drier, clearer conditions will follow from the south later on with some hazy sunshine developing in places. Light to moderate southerly winds.",
-          "tonight": "Tonight will be cloudy and humid with patches of mist and drizzle, but overall a lot of dry weather away from southern fringes. Another mild night, with lowest temperatures of 11 to 13 degrees, in just light to moderate southerly breezes.",
-          "tomorrow": "Friday will begin mild and cloudy with patches of mist and drizzle across the province. While sunny spells will gradually develop, some odd showers may occur. Mild with highest temperatures of 17 to 20 degrees generally, somewhat cooler though for southern part where sea fog may encroach. Southwest breezes will be just light to moderate.",
-          "pollen": "Low on Friday and Saturday.",
-          "solar_uv": "Moderate to high on Friday and Saturday."
+          "issued": "2026-05-22T05:30:00+01:00",
+          "today": "Mild and cloudy today with patches of mist and drizzle. Sunny spells will develop later on in the day, with the odd isolated shower falling. Light to moderate southerly winds, with highest temperatures of 14 to 18 degrees, cooler on southeast coasts.",
+          "tonight": "Cloudy and dry with mist and fog patches forming towards morning. Lowest temperatures of 7 to 10 degrees in mostly light southwest winds.",
+          "tomorrow": "Dry and warm with sunny spells.Highest temperatures of 17 to 21 degrees. Mostly light to southwest winds, fresh to strong along coasts.",
+          "pollen": "Low.",
+          "solar_uv": "Moderate to high."
         }
       ]
     }
