@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-23T03:00:00+01:00",
-          "today": "Dry and warm today with sunny spells. Highest temperatures of 16 to 22 degrees. Mostly light to moderate south-west winds, possibly fresh at times along coasts.",
-          "tonight": "Dry tonight with clear periods. A few mist or fog patches forming in light or variable southerly breezes. Lowest temperatures of 6 to 12 degrees.",
-          "tomorrow": "Tomorrow, Sunday will bring another warm day with spells of sunshine. Meanwhile, sea fog may persist for a time on southern coasts in the morning.Highest temperatures of 19 to 23 degrees, in just light southerly or variable breezes.",
-          "pollen": "Low.",
-          "solar_uv": "Moderate to high on Saturday, high on Sunday."
+          "issued": "2026-05-23T12:00:00+01:00",
+          "today": "Dry today with hazy spells of sunshine and light to moderate southwesterly winds. Highest temperatures of 18 to 21 degrees generally, but it will be cooler in coastal parts of the southeast.",
+          "tonight": "It will be dry tonight with clear spells. A few mist or fog patches will form in light south to southwesterly winds. Lowest temperatures will range from 7 to 12 degrees.",
+          "tomorrow": "Mist and fog will clear in the morning and tomorrow will be a warm day with sunny spells. Highest temperatures of 19 to 23 degrees, with light southerly winds.",
+          "pollen": "Low today. Moderate on Sunday.",
+          "solar_uv": "Moderate to high today, high on Sunday."
         }
       ]
     }
