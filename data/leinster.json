@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-24T12:00:00+01:00",
-          "today": "Warm, dry and sunny today. Highest temperatures will range from 19 to 24 degrees with light or moderate south to southwesterly winds.",
+          "issued": "2026-05-24T16:00:00+01:00",
+          "today": "Warm, dry and sunny this evening, with light or moderate south to southwesterly winds.",
           "tonight": "Tonight will be dry and clear. A few patches of mist and fog will develop in light and variable winds. Lowest temperatures will range from 7 to 12 degrees.",
           "tomorrow": "Mist and fog patches will clear tomorrow morning, and it will be another dry and sunny day. Warm or very warm, with highest temperatures of 23 to 27 degrees, in a light southerly or variable breeze.",
-          "pollen": "Moderate today and on Monday.",
-          "solar_uv": "High today and on Monday."
+          "pollen": "Moderate on Monday and Tuesday.",
+          "solar_uv": "High on Monday and Tuesday."
         }
       ]
     }
