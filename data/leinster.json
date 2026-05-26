@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-25T18:00:00+01:00",
-          "today": "Dry and mostly sunny this evening in light winds.",
-          "tonight": "Dry and mild tonight with clear skies. Slight risk of mist. Lowest temperatures of 12 to 15 degrees, with light winds.",
-          "tomorrow": "Another dry and very warm day tomorrow with long spells of sunshine. Highest temperatures of 23 to 27 or 28 degrees, slightly cooler near coasts, with a light to moderate northeasterly breeze.",
-          "pollen": "Moderate.",
-          "solar_uv": "High."
+          "issued": "2026-05-26T17:30:00+01:00",
+          "today": "Dry, warm and sunny this evening with a light to moderate northeasterly breeze.",
+          "tonight": "Mild and dry tonight with mostly clear skies. Lowest temperatures of 13 to 17 degrees in a light to moderate northeasterly breeze.",
+          "tomorrow": "Tomorrow will see a continuation of the warm spell of weather and it'll be a mainly dry and sunny day. Later in the day, however, there is a chance of a few heavy showers breaking out. Highest temperatures of 22 to 28 degrees, hottest in the midlands and south, and a little less warm in coastal parts of the east with light to moderate easterly winds.",
+          "pollen": "Moderate on Tuesday and Wednesday.",
+          "solar_uv": "High on Tuesday and Wednesday."
         }
       ]
     }
