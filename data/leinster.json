@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-26T17:30:00+01:00",
-          "today": "Dry, warm and sunny this evening with a light to moderate northeasterly breeze.",
-          "tonight": "Mild and dry tonight with mostly clear skies. Lowest temperatures of 13 to 17 degrees in a light to moderate northeasterly breeze.",
-          "tomorrow": "Tomorrow will see a continuation of the warm spell of weather and it'll be a mainly dry and sunny day. Later in the day, however, there is a chance of a few heavy showers breaking out. Highest temperatures of 22 to 28 degrees, hottest in the midlands and south, and a little less warm in coastal parts of the east with light to moderate easterly winds.",
-          "pollen": "Moderate on Tuesday and Wednesday.",
-          "solar_uv": "High on Tuesday and Wednesday."
+          "issued": "2026-05-27T12:00:00+01:00",
+          "today": "Very warm or hot today. Generally dry and sunny until later in the afternoon, when scattered thunderstorms move up from the south. While many areas will escape these, where they do hit, they could be severe with lightning, hail and strong gusts. Top temperatures of 22 to 29 degrees, hottest in the southwest of the province and a little lower for some eastern coasts due to a moderate easterly breeze.",
+          "tonight": "Clear spells and the potential for further scattered thunderstorms early tonight, but it will then become largely dry. Cloud developing in the south of the province by morning. Mild with temperatures of 12 to 15 degrees in light to moderate east or southeast breezes.",
+          "tomorrow": "Sunny spells tomorrow morning but cloud will continue to build from the southwest bringing patchy light rain, drizzle and mist. However, there will still be a lot of dry weather and limited sunny spells will break through. Highest temperatures of 17 to 23 degrees generally, reaching up to 24 degrees in parts of the east. Moderate southeasterly winds will veer southwesterly in the afternoon.",
+          "pollen": "Moderate Wednesday and Thursday.",
+          "solar_uv": "High Wednesday. Moderate to high Thursday."
         }
       ]
     }
