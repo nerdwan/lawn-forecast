@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-27T17:00:00+01:00",
-          "today": "Very warm or hot today. Generally dry and sunny, but scattered thunderstorms in the south will spread slowly northwards. While many areas will escape these, where they do hit, they could be severe with lightning, hail and strong gusts. Top temperatures of 22 to 29 degrees, hottest in the southwest of the province and a little lower for some eastern coasts due to a moderate easterly breeze.",
-          "tonight": "Clear spells and the potential for further scattered thunderstorms early tonight, but it will then become largely dry. Cloud developing in the south of the province by morning. Mild with temperatures of 12 to 15 degrees in light to moderate east or southeast breezes.",
-          "tomorrow": "Sunny spells tomorrow morning but cloud will continue to build from the southwest bringing patchy light rain, drizzle and mist. However, there will still be a lot of dry weather and limited sunny spells will break through. Highest temperatures of 17 to 23 degrees generally, reaching up to 24 degrees in parts of the east. Moderate southeasterly winds will veer southwesterly in the afternoon.",
-          "pollen": "Moderate Thursday and Friday.",
-          "solar_uv": "Moderate to high Thursday and Friday."
+          "issued": "2026-05-28T17:00:00+01:00",
+          "today": "Cloud increasing with patchy light rain and drizzle spreading northwards this evening. Light to moderate southeasterly breezes will veer southwesterly this evening.",
+          "tonight": "Mostly dry with a mix of cloud and clear spells, with some patchy light rain or drizzle at first. Mild with lowest temperatures of 11 to 14 degrees in light to moderate southwesterly winds.",
+          "tomorrow": "Dry with plenty of sunshine, after some cloudy periods in the morning. Highest temperatures of 19 to 23 degrees in light to moderate westerly breezes.",
+          "pollen": "Moderate on Friday and Saturday.",
+          "solar_uv": "High on Friday. Moderate to high on Saturday."
         }
       ]
     }
