@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-28T17:00:00+01:00",
-          "today": "Cloud increasing with patchy light rain and drizzle spreading northwards this evening. Light to moderate southeasterly breezes will veer southwesterly this evening.",
-          "tonight": "Mostly dry with a mix of cloud and clear spells, with some patchy light rain or drizzle at first. Mild with lowest temperatures of 11 to 14 degrees in light to moderate southwesterly winds.",
-          "tomorrow": "Dry with plenty of sunshine, after some cloudy periods in the morning. Highest temperatures of 19 to 23 degrees in light to moderate westerly breezes.",
+          "issued": "2026-05-29T05:30:00+01:00",
+          "today": "Cloudy periods with the odd spot of light rain or drizzle at first today, Friday, but long spells of sunshine will develop this afternoon. Highest temperatures of 19 to 23 degrees in light to moderate westerly breezes.",
+          "tonight": "Dry with variable cloud and clear spells at first tonight. Cloud will build from the west overnight patchy rain and drizzle possible towards morning. Lowest temperatures of 9 to 13 degrees with a few mist and fog patches forming in the light southerly breezes.",
+          "tomorrow": "Some sunny spells tomorrow, Saturday, but a good deal of cloud overall with occasional rain or showers, some possibly heavy in the north of province later. Highest temperatures of 17 to 21 degrees in light to moderate southerly breezes.",
           "pollen": "Moderate on Friday and Saturday.",
-          "solar_uv": "High on Friday. Moderate to high on Saturday."
+          "solar_uv": "Moderate to high on Friday. High in any sunshine on Saturday, otherwise low."
         }
       ]
     }
