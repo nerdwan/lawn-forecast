@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-30T07:00:00+01:00",
-          "today": "Today will start off dry in east Leinster. Rain in the west of the province will extend eastwards to all areas by noon. Sunshine and scattered showers will follow through the afternoon and evening. Highest temperatures of 15 to 18 degrees, with light to moderate southerly breezes.",
-          "tonight": "Tonight will bring a mix of clear spells and scattered showers. They'll become isolated overnight. Lowest temperatures of 10 to 13 degrees with mostly light southwesterly breezes.",
-          "tomorrow": "Sunday will bring bright or sunny spells and well scattered showers. Highest temperatures of 16 to 19 degrees with light to moderate west to south-west breezes.",
-          "pollen": "Moderate today and Sunday",
-          "solar_uv": "High in sunshine today and Sunday"
+          "issued": "2026-05-30T16:30:00+01:00",
+          "today": "A mix of cloud and sunny spells for the rest of today with scattered showers. A few may turn heavy Light to moderate southerly breezes will veer southwest later. Winds may be fresh at times near the south coast.",
+          "tonight": "Tonight will bring cloud and clear spells. Scattered showers will become more isolated overnight and a few mist patches may develop. Lowest temperatures of 9 to 13 degrees with mostly light southwesterly breezes. Mildest along parts of the east coast.",
+          "tomorrow": "Sunny spells on Sunday, hazy at times, and some well scattered showers. The showers will die out in the afternoon. Highest temperatures of 16 to 20 degrees with light to moderate west to southwest winds. Again, winds may be fresh at times near the south coast.",
+          "pollen": "Moderate on Sunday and Monday",
+          "solar_uv": "High in sunshine on Sunday and Monday, otherwise moderate on Sunday and low to moderate on Monday."
         }
       ]
     }
