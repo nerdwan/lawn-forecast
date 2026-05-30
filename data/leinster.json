@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-29T16:30:00+01:00",
-          "today": "Dry and mostly sunny for the rest of today in light to moderate westerly winds.",
-          "tonight": "Dry with variable cloud and clear spells at first tonight. Cloud will build from the west overnight, and may bring patchy rain to southern and western parts towards morning. A few mist and fog patches will form also. Lowest temperatures of 9 to 13 degrees in light southerly breezes.",
-          "tomorrow": "Some sunny spells on Saturday, but a good deal of cloud overall with occasional showers or longer spells of rain. A few heavy bursts are possible in the afternoon and evening, with a chance of isolated thunderstorms in northern parts later. Highest temperatures of 16 to 20 degrees in light to moderate southerly breezes. Coolest near the south coast.",
-          "pollen": "Moderate on Saturday and Sunday.",
-          "solar_uv": "High in any sunshine on Saturday, otherwise low. Moderate to high on Sunday."
+          "issued": "2026-05-30T07:00:00+01:00",
+          "today": "Today will start off dry in east Leinster. Rain in the west of the province will extend eastwards to all areas by noon. Sunshine and scattered showers will follow through the afternoon and evening. Highest temperatures of 15 to 18 degrees, with light to moderate southerly breezes.",
+          "tonight": "Tonight will bring a mix of clear spells and scattered showers. They'll become isolated overnight. Lowest temperatures of 10 to 13 degrees with mostly light southwesterly breezes.",
+          "tomorrow": "Sunday will bring bright or sunny spells and well scattered showers. Highest temperatures of 16 to 19 degrees with light to moderate west to south-west breezes.",
+          "pollen": "Moderate today and Sunday",
+          "solar_uv": "High in sunshine today and Sunday"
         }
       ]
     }
