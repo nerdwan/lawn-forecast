@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-30T16:30:00+01:00",
-          "today": "A mix of cloud and sunny spells for the rest of today with scattered showers. A few may turn heavy Light to moderate southerly breezes will veer southwest later. Winds may be fresh at times near the south coast.",
-          "tonight": "Tonight will bring cloud and clear spells. Scattered showers will become more isolated overnight and a few mist patches may develop. Lowest temperatures of 9 to 13 degrees with mostly light southwesterly breezes. Mildest along parts of the east coast.",
-          "tomorrow": "Sunny spells on Sunday, hazy at times, and some well scattered showers. The showers will die out in the afternoon. Highest temperatures of 16 to 20 degrees with light to moderate west to southwest winds. Again, winds may be fresh at times near the south coast.",
-          "pollen": "Moderate on Sunday and Monday",
-          "solar_uv": "High in sunshine on Sunday and Monday, otherwise moderate on Sunday and low to moderate on Monday."
+          "issued": "2026-05-31T06:00:00+01:00",
+          "today": "Generally dry today with a mix of cloud and sunny spells and just well-scattered light showers. Highest temperatures of 17 to 20 degrees, mildest, driest and brightest further east. Southwesterly breezes will be no more than moderate in strength.",
+          "tonight": "Cloudy outbreaks of rain and drizzle to extend across the province during Sunday night, turning heavy at times. Hill, mist and coastal fog too. Lowest temperatures of 10 to 13 degrees, in a mostly moderate southerly wind.",
+          "tomorrow": "Monday will start off mostly dull and wet with further outbreaks of rain. Rain will give way to more showery conditions for the afternoon with some sunny spells breaking through. However, odd heavy shower will follow later. Highest temperatures of 17 to 19 degrees, best values again further east, with moderate southwest to west winds.",
+          "pollen": "Moderate on Sunday and Monday.",
+          "solar_uv": "Moderate to high on Sunday. Locally high in sunshine on Monday, otherwise low to moderate."
         }
       ]
     }
