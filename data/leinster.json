@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-31T06:00:00+01:00",
-          "today": "Generally dry today with a mix of cloud and sunny spells and just well-scattered light showers. Highest temperatures of 17 to 20 degrees, mildest, driest and brightest further east. Southwesterly breezes will be no more than moderate in strength.",
-          "tonight": "Cloudy outbreaks of rain and drizzle to extend across the province during Sunday night, turning heavy at times. Hill, mist and coastal fog too. Lowest temperatures of 10 to 13 degrees, in a mostly moderate southerly wind.",
-          "tomorrow": "Monday will start off mostly dull and wet with further outbreaks of rain. Rain will give way to more showery conditions for the afternoon with some sunny spells breaking through. However, odd heavy shower will follow later. Highest temperatures of 17 to 19 degrees, best values again further east, with moderate southwest to west winds.",
-          "pollen": "Moderate on Sunday and Monday.",
-          "solar_uv": "Moderate to high on Sunday. Locally high in sunshine on Monday, otherwise low to moderate."
+          "issued": "2026-05-31T16:00:00+01:00",
+          "today": "It will be mostly cloudy this evening with isolated showers and a few sunny spells, in light to moderate southwesterly winds.",
+          "tonight": "Cloudy tonight with outbreaks of rain and drizzle extending eastwards across the province, possibly turning heavy for a time. Patches of mist will develop along with some hill and coastal fog. Lowest temperatures of 10 to 13 degrees, with mostly moderate southerly winds.",
+          "tomorrow": "It will be a dull and wet start to tomorrow, Monday, with further outbreaks of rain in the morning. The rain will give way to more showery conditions in the afternoon with some sunny spells breaking through. A few heavy showers will develop in the evening. Highest temperatures of 17 to 19 degrees, with moderate southwest to westerly winds.",
+          "pollen": "Moderate on Monday and Tuesday.",
+          "solar_uv": "Low to moderate, locally high in sunshine on Monday an Tuesday."
         }
       ]
     }
