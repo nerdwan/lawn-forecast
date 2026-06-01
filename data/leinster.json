@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-05-31T16:00:00+01:00",
-          "today": "It will be mostly cloudy this evening with isolated showers and a few sunny spells, in light to moderate southwesterly winds.",
-          "tonight": "Cloudy tonight with outbreaks of rain and drizzle extending eastwards across the province, possibly turning heavy for a time. Patches of mist will develop along with some hill and coastal fog. Lowest temperatures of 10 to 13 degrees, with mostly moderate southerly winds.",
-          "tomorrow": "It will be a dull and wet start to tomorrow, Monday, with further outbreaks of rain in the morning. The rain will give way to more showery conditions in the afternoon with some sunny spells breaking through. A few heavy showers will develop in the evening. Highest temperatures of 17 to 19 degrees, with moderate southwest to westerly winds.",
-          "pollen": "Moderate on Monday and Tuesday.",
-          "solar_uv": "Low to moderate, locally high in sunshine on Monday an Tuesday."
+          "issued": "2026-06-01T17:30:00+01:00",
+          "today": "Mostly cloudy with limited sunny spells, and showers spreading from the west, some heavy with isolated thunderstorms. Light to moderate southwest winds.",
+          "tonight": "Tonight will be cloudy with limited clear spells and continued showers, some heavy. Lowest temperatures of 10 to 12 degrees in a light southwesterly breeze.",
+          "tomorrow": "Cloudy tomorrow morning but dry for most with isolated showers. More widespread showers will spread from the west in the afternoon, with sunny spells developing also. Showers will clear in the evening. Highest temperatures of 16 to 19 degrees in light to moderate westerly winds.",
+          "pollen": "Moderate Tuesday and Wednesday.",
+          "solar_uv": "Moderate on Tuesday and Wednesday."
         }
       ]
     }
