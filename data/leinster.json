@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-01T17:30:00+01:00",
-          "today": "Mostly cloudy with limited sunny spells, and showers spreading from the west, some heavy with isolated thunderstorms. Light to moderate southwest winds.",
-          "tonight": "Tonight will be cloudy with limited clear spells and continued showers, some heavy. Lowest temperatures of 10 to 12 degrees in a light southwesterly breeze.",
-          "tomorrow": "Cloudy tomorrow morning but dry for most with isolated showers. More widespread showers will spread from the west in the afternoon, with sunny spells developing also. Showers will clear in the evening. Highest temperatures of 16 to 19 degrees in light to moderate westerly winds.",
-          "pollen": "Moderate Tuesday and Wednesday.",
-          "solar_uv": "Moderate on Tuesday and Wednesday."
+          "issued": "2026-06-02T12:30:00+01:00",
+          "today": "Today will bring scattered showers and some sunny intervals, but the showers will become isolated later in the day. Highest temperatures of 16 to 19 degrees with a moderate westerly breeze.",
+          "tonight": "After a dry start with some clear spells, it will become cloudy and wet overnight as rain moves in from the southwest. Lowest temperatures of 9 to 12 degrees with a moderate to fresh south to southwest breeze.",
+          "tomorrow": "Rain will clear away to the northeast tomorrow morning and will be followed by scattered showers for the rest of the day. Some of the showers may be heavy and thundery. Highest temperatures of 14 to 18 degrees with a moderate to fresh south to southwest breeze.",
+          "pollen": "Moderate.",
+          "solar_uv": "Moderate."
         }
       ]
     }
