@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-06T05:30:00+01:00",
-          "today": "A wet start with spells of rain, heavy at times, but gradually easing. The rain will clear to the northeast through the afternoon, with some bright spells following. Highest temperatures of 13 to 16 degrees in moderate to fresh southeasterly winds, becoming moderate westerly as the rain clears.",
-          "tonight": "Generally cloudy but dry tonight, with a few clearer breaks at times. A few scattered outbreaks of rain and drizzle will feed in from the west towards morning. Lowest temperatures of 8 to 11 degrees in moderate southerly winds.",
-          "tomorrow": "Another cloudy in day instore with rain and drizzle becoming more persistent through the morning, with heavy falls at times. Highest temperatures of 13 to 18 degrees in moderate to fresh southwest winds.",
+          "issued": "2026-06-06T12:30:00+01:00",
+          "today": "Today will be cloudy with patchy rain and drizzle at first this afternoon gradually clearing to the northeast. Bright or sunny spells will follow into the south and west of the province later. Highest temperatures of 13 to 16 degrees in moderate westerly winds.",
+          "tonight": "Tonight will be dry and cloudy with limited clear breaks. Isolated patches of drizzle will develop towards morning. Lowest temperatures of 9 to 11 degrees in moderate southerly winds.",
+          "tomorrow": "Tomorrow will be another dull day. After a dry start for most, patches of rain and drizzle will spread from the west, becoming more persistent through the afternoon. The rain will occasionally turn heavy tomorrow evening. Highest temperatures of 14 to 17 degrees in moderate southwest winds, fresh near southeast coasts.",
           "pollen": "Moderate.",
-          "solar_uv": "Moderate to high."
+          "solar_uv": "Low to moderate, high in any sunshine."
         }
       ]
     }
