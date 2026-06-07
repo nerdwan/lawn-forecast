@@ -1,59 +1,11 @@
 {
-  "issued": "2026-06-07T16:44:58.593971+00:00",
+  "issued": "2026-06-07T22:18:39.164963+00:00",
   "location": {
     "lat": 53.7263,
     "long": -6.8779,
     "name": "Kells, Co. Meath"
   },
   "hours": [
-    {
-      "time": "2026-06-07T17:00:00Z",
-      "temp_c": 14.3,
-      "wind_kmh": 23.4,
-      "cloud_pct": 87.1,
-      "humidity_pct": 86.1,
-      "precip_mm": 0.3
-    },
-    {
-      "time": "2026-06-07T18:00:00Z",
-      "temp_c": 14.1,
-      "wind_kmh": 19.8,
-      "cloud_pct": 58.1,
-      "humidity_pct": 90.7,
-      "precip_mm": 0.2
-    },
-    {
-      "time": "2026-06-07T19:00:00Z",
-      "temp_c": 13.4,
-      "wind_kmh": 22.0,
-      "cloud_pct": 57.8,
-      "humidity_pct": 92.8,
-      "precip_mm": 0.2
-    },
-    {
-      "time": "2026-06-07T20:00:00Z",
-      "temp_c": 12.8,
-      "wind_kmh": 21.6,
-      "cloud_pct": 73.3,
-      "humidity_pct": 94.0,
-      "precip_mm": 0.1
-    },
-    {
-      "time": "2026-06-07T21:00:00Z",
-      "temp_c": 12.1,
-      "wind_kmh": 24.5,
-      "cloud_pct": 25.9,
-      "humidity_pct": 94.4,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-06-07T22:00:00Z",
-      "temp_c": 10.9,
-      "wind_kmh": 22.7,
-      "cloud_pct": 32.7,
-      "humidity_pct": 94.1,
-      "precip_mm": 0.0
-    },
     {
       "time": "2026-06-07T23:00:00Z",
       "temp_c": 10.0,
