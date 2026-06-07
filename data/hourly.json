@@ -1,91 +1,11 @@
 {
-  "issued": "2026-06-07T07:14:04.895321+00:00",
+  "issued": "2026-06-07T16:44:58.593971+00:00",
   "location": {
     "lat": 53.7263,
     "long": -6.8779,
     "name": "Kells, Co. Meath"
   },
   "hours": [
-    {
-      "time": "2026-06-07T07:00:00Z",
-      "temp_c": 12.6,
-      "wind_kmh": 22.3,
-      "cloud_pct": 98.8,
-      "humidity_pct": 88.5,
-      "precip_mm": 0.1
-    },
-    {
-      "time": "2026-06-07T08:00:00Z",
-      "temp_c": 13.5,
-      "wind_kmh": 23.8,
-      "cloud_pct": 98.8,
-      "humidity_pct": 85.1,
-      "precip_mm": 0.2
-    },
-    {
-      "time": "2026-06-07T09:00:00Z",
-      "temp_c": 13.7,
-      "wind_kmh": 24.5,
-      "cloud_pct": 98.8,
-      "humidity_pct": 87.3,
-      "precip_mm": 0.2
-    },
-    {
-      "time": "2026-06-07T10:00:00Z",
-      "temp_c": 13.8,
-      "wind_kmh": 29.9,
-      "cloud_pct": 98.8,
-      "humidity_pct": 89.4,
-      "precip_mm": 0.3
-    },
-    {
-      "time": "2026-06-07T11:00:00Z",
-      "temp_c": 13.7,
-      "wind_kmh": 19.1,
-      "cloud_pct": 99.0,
-      "humidity_pct": 92.6,
-      "precip_mm": 0.6
-    },
-    {
-      "time": "2026-06-07T12:00:00Z",
-      "temp_c": 13.7,
-      "wind_kmh": 21.6,
-      "cloud_pct": 98.4,
-      "humidity_pct": 91.7,
-      "precip_mm": 0.5
-    },
-    {
-      "time": "2026-06-07T13:00:00Z",
-      "temp_c": 13.8,
-      "wind_kmh": 25.2,
-      "cloud_pct": 98.8,
-      "humidity_pct": 88.0,
-      "precip_mm": 0.4
-    },
-    {
-      "time": "2026-06-07T14:00:00Z",
-      "temp_c": 14.2,
-      "wind_kmh": 23.8,
-      "cloud_pct": 97.3,
-      "humidity_pct": 85.4,
-      "precip_mm": 0.4
-    },
-    {
-      "time": "2026-06-07T15:00:00Z",
-      "temp_c": 15.0,
-      "wind_kmh": 27.0,
-      "cloud_pct": 98.3,
-      "humidity_pct": 79.5,
-      "precip_mm": 0.6
-    },
-    {
-      "time": "2026-06-07T16:00:00Z",
-      "temp_c": 14.6,
-      "wind_kmh": 20.5,
-      "cloud_pct": 77.3,
-      "humidity_pct": 84.5,
-      "precip_mm": 0.4
-    },
     {
       "time": "2026-06-07T17:00:00Z",
       "temp_c": 14.3,
