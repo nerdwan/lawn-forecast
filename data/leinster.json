@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-06-08T12:00:00+01:00",
-          "today": "A mix of sunny spells and showers today. The showers will become more frequent this afternoon, some possibly heavy. Highest temperatures of 14 to 16 degrees, with moderate southwest to west winds.",
+          "issued": "2026-06-08T17:00:00+01:00",
+          "today": "A mix of sunny spells and showers, some possibly heavy. Moderate southwest to west winds.",
           "tonight": "Clear spells with just a few showers feeding in from the west. Lowest temperatures of 5 to 8 degrees, with light to moderate southwest to west winds.",
-          "tomorrow": "Another day of sunshine and showers, some possibly heavy in the north of the province, with cloudier conditions developing there in the evening. Highest temperatures of 14 to 16 degrees, with moderate westerly winds.",
+          "tomorrow": "Another day of sunshine and showers, some possibly heavy in the north of the province with isolated thunderstorms, with cloudier conditions developing there in the evening. Highest temperatures of 14 to 16 degrees, with moderate westerly winds.",
           "pollen": "Moderate.",
           "solar_uv": "Moderate."
         }
