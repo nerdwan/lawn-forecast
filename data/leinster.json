@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-07T17:30:00+01:00",
-          "today": "Outbreaks of rain, becoming more persistent and heavy through the evening.",
-          "tonight": "Rain this evening will clear eastwards by early tonight. Long clear spells will develop. Lowest temperatures of 6 to 9 degrees in light southwest to west winds.",
-          "tomorrow": "A bright start to the week on Monday with sunshine. Showers will spread from the west.Highest temperatures of 14 to 16 degrees in moderate west to southwest winds.",
+          "issued": "2026-06-08T06:00:00+01:00",
+          "today": "A mix of sunny spells and showers today. While it will be a dry morning for most, the showers will become more frequent through the day. Highest temperatures of 14 to 16 degrees, with moderate southwest to west winds.",
+          "tonight": "Clear spells with just a few showers feeding in from the west. Lowest temperatures of 5 to 8 degrees, with light to moderate southwest to west winds.",
+          "tomorrow": "Another day of sunshine and showers. Cloudier conditions will develop over the northern half of the province in the evening. Highest temperatures of 14 to 16 degrees, with moderate westerly winds.",
           "pollen": "Moderate.",
-          "solar_uv": "Low to moderate, high in any sunshine."
+          "solar_uv": "Moderate."
         }
       ]
     }
