@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-08T17:00:00+01:00",
-          "today": "A mix of sunny spells and showers, some possibly heavy. Moderate southwest to west winds.",
-          "tonight": "Clear spells with just a few showers feeding in from the west. Lowest temperatures of 5 to 8 degrees, with light to moderate southwest to west winds.",
-          "tomorrow": "Another day of sunshine and showers, some possibly heavy in the north of the province with isolated thunderstorms, with cloudier conditions developing there in the evening. Highest temperatures of 14 to 16 degrees, with moderate westerly winds.",
-          "pollen": "Moderate.",
-          "solar_uv": "Moderate."
+          "issued": "2026-06-09T07:00:00+01:00",
+          "today": "Today will bring sunshine and showers across Leinster, some heavy with a chance of hail and isolated thunderstorms. Cool for this time of year with highest temperatures of 13 to 16 degrees and moderate to fresh, gusty westerly winds.",
+          "tonight": "Clear spells and showers tonight, the showers heaviest and most frequent over the western half of the region. Chilly with lowest temperatures of 4 to 8 degrees, and light southwesterly breezes.",
+          "tomorrow": "Wednesday will be bright with sunny spells and scattered showers, which will gradually die out by early evening. Cloud will increase from the west through the evening. Highest temperatures of 14 to 16 degrees with moderate westerly winds.",
+          "pollen": "Moderate today and Wednesday",
+          "solar_uv": "Moderate today and Wednesday"
         }
       ]
     }
