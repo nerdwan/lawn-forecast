@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-06-10T05:30:00+01:00",
-          "today": "Today will be a bright day with sunny spells and scattered showers. Showers will become more isolated through the afternoon. Highest temperatures of 13 to 15 degrees in light to moderate westerly winds.",
-          "tonight": "Dry with clear spells at first tonight. It will turn cloudier overnight with rain and drizzle spreading from the southwest. Lowest temperatures of 8 to 10 degrees with light westerly winds becoming moderate southerly with the rain.",
-          "tomorrow": "A dull and wet morning tomorrow with widespread rain at first. Rain will become patchier through the morning but it will remain cloudy and damp through the day with some mist and hill fog. Highest temperatures of 14 to 17 degrees with moderate southerly winds veering westerly by afternoon.",
+          "issued": "2026-06-10T12:00:00+01:00",
+          "today": "A mix of sunny spells and scattered showers. Showers will become more isolated through the afternoon. Highest temperatures of 13 to 15 degrees in light to moderate westerly winds.",
+          "tonight": "Dry with clear spells at first tonight. It will turn cloudier overnight with outbreaks of rain spreading from the west, with heavier bursts by dawn. Lowest temperatures of 8 to 10 degrees with light westerly winds becoming moderate southerly with the rain.",
+          "tomorrow": "A dull and wet morning with widespread rain at first. Rain will become patchier through the morning, but it will remain cloudy and damp through the day with some mist and hill fog. Highest temperatures of 14 to 17 degrees with moderate to fresh southwest winds.",
           "pollen": "Moderate.",
           "solar_uv": "Moderate on Wednesday. Low to moderate on Thursday."
         }
