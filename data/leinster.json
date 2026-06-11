@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-06-10T17:00:00+01:00",
-          "today": "A mix of sunny spells and isolated showers. Light to moderate westerly winds.",
-          "tonight": "Dry with clear spells at first tonight. It will turn cloudier overnight with outbreaks of rain spreading from the west, with heavier bursts by dawn. Lowest temperatures of 8 to 10 degrees with light westerly winds becoming moderate southerly with the rain.",
-          "tomorrow": "A dull and wet morning with widespread rain at first. Rain will become patchier through the morning, but it will remain cloudy and damp through the day with some mist and hill fog. Highest temperatures of 14 to 17 degrees with moderate to fresh southwest winds, easing by evening.",
+          "issued": "2026-06-11T06:00:00+01:00",
+          "today": "Dull and wet for Thursday morning with widespread rain, with some heavy bursts, especially for eastern counties. While the rain will become patchy later on in the morning, it will be dull, damp and breezy for most of the day. A humid day with highest temperatures of 15 to 18 degrees with moderate to fresh southwest winds, easing by evening.",
+          "tonight": "Tonight will bring further patches of drizzle and mist but also longer drier spells. Hill and coastal fog too. A mild, humid night with lowest temperatures of 11 to 14 degrees. Moderate westerly winds will freshen again overnight.",
+          "tomorrow": "Mostly cloudy and rather breezy on Friday with lingering patchy outbreaks of light rain or drizzle, mainly confined to southern fringes later in the afternoon. Some sunny spells will break through in places later too. Highest temperatures of 17 to 20 degrees, mildest further to the southeast, all in a fresh westerly wind.",
           "pollen": "Moderate.",
           "solar_uv": "Low to moderate on Thursday. Moderate to high on Friday."
         }
