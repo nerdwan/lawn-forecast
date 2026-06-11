@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-11T13:30:00+01:00",
-          "today": "Mainly cloudy, breezy and humid today with a few patches of drizzle. Highest temperatures of 15 to 18 degrees with moderate to fresh southwest winds.",
-          "tonight": "Tonight will bring further patches of drizzle and mist but also longer drier spells. Hill and coastal fog too. A mild, humid night with lowest temperatures of 11 to 14 degrees. Moderate westerly winds will freshen again overnight.",
-          "tomorrow": "Cloudy with patchy drizzle to start on Friday, but this will begin to clear in the morning with brighter spells developing through the day. A chance of mist or fog lingering on southeast coasts into the afternoon. Highest temperatures of 17 to 20 degrees, mildest further to the southeast, all in a fresh westerly wind.",
+          "issued": "2026-06-11T18:00:00+01:00",
+          "today": "Cloudy and breezy this evening with a few patches of drizzle. Winds easing a little as the evening goes on.",
+          "tonight": "Tonight will be cloudy with further patchy drizzle as well as hill and coastal fog. A mild, humid night with lowest temperatures of 11 to 14 degrees. Westerly winds will freshen again overnight.",
+          "tomorrow": "Cloudy with patchy drizzle to start on Friday, but it will begin to clear in the morning with brighter, blustery conditions following. A chance of mist or fog lingering on southeast coasts into the afternoon. Highest temperatures of 17 to 20 degrees, mildest further to the southeast, all in a fresh westerly wind.",
           "pollen": "Moderate.",
-          "solar_uv": "Low to moderate on Thursday. Moderate to high on Friday."
+          "solar_uv": "Moderate to high on Friday and Saturday."
         }
       ]
     }
