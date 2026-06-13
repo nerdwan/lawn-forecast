@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-12T17:00:00+01:00",
-          "today": "Mainly dry and breezy this evening with bright or sunny spells, these at their best in the south of the province with cloudier periods further north, all in a moderate to fresh and gusty westerly wind.",
-          "tonight": "Dry tonight with variable amounts of cloud and clear spells. Continuing breezy with moderate to fresh westerly winds but the winds will ease in the south overnight. Lowest temperatures of 7 to 11 degrees.",
-          "tomorrow": "Saturday will be a dry day with a mix of cloud and warm spells of hazy sunshine. Highest temperatures of 16 to 20 degrees in light to moderate west to northwest winds.",
-          "pollen": "Moderate.",
-          "solar_uv": "Moderate to high."
+          "issued": "2026-06-13T05:30:00+01:00",
+          "today": "Today will be dry, and after a mostly cloudy start, hazy sunny spells will develop as the day goes on. Highest temperatures of 17 to 21 degrees with a light to moderate westerly wind.",
+          "tonight": "Tonight will be dry with clear spells. Lowest temperatures of 9 to 12 degrees with light and variable winds.",
+          "tomorrow": "Mostly dry tomorrow with spells of hazy sunshine. Cloud will build at times, bringing a chance of the odd spot of drizzle. Highest temperatures of 15 to 19 degrees, coolest near the east coast due to a light to moderate easterly breeze.",
+          "pollen": "Moderate on Saturday and Sunday.",
+          "solar_uv": "High or Moderate on Saturday and Sunday."
         }
       ]
     }
