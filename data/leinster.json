@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-13T12:00:00+01:00",
-          "today": "Dry today with a mix of cloud and sunny spells. The sunshine will be hazy at times. Highest temperatures of 17 to 20 or 21 degrees with light to moderate westerly winds.",
-          "tonight": "Mostly dry tonight with isolated patches of mist and the odd spot of drizzle possible in northern parts. Some clear spells also. Lowest temperatures of 8 to 12 degrees with light and variable winds.",
-          "tomorrow": "Any mist and drizzle will clear during the morning. Dry for the rest of the day with sunny spells, hazy at times. Highest temperatures of 15 to 20 degrees with light to moderate easterly winds developing during the morning. Coolest near the east coast.",
-          "pollen": "Moderate today and on Sunday.",
-          "solar_uv": "High in sunshine today and Sunday, otherwise moderate."
+          "issued": "2026-06-13T16:30:00+01:00",
+          "today": "Dry for the rest of today with sunny spells, hazy at times, in light to moderate westerly winds.",
+          "tonight": "Dry in most parts tonight with isolated patches of mist. The odd spot of drizzle possible in northern parts. Some clear spells also. Lowest temperatures of 8 to 12 degrees with light and variable winds.",
+          "tomorrow": "Any mist and drizzle will clear during the morning. Dry for the rest of the day with sunny spells, hazy at times. Highest temperatures of 15 to 21 degrees with light to moderate easterly winds developing during the morning. Coolest near the coast.",
+          "pollen": "Moderate on Sunday and Monday.",
+          "solar_uv": "High in sunshine on Sunday, otherwise moderate. Low to moderate on Monday."
         }
       ]
     }
