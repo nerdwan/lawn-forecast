@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-14T06:00:00+01:00",
-          "today": "It'll be mainly dry today with warm spells of sunshine, which will be hazy generally due to high cloud. Highest temperatures generally of 17 to 21 degrees, though it'll be a little cooler in coastal parts due to a light to moderate easterly breeze.",
-          "tonight": "Dry for most tonight with a mix of cloud and clear spells. There's just the chance of a few isolated shower in the East. Lowest temperatures of 9 to 12 degrees in light to moderate easterly or variable breezes.",
-          "tomorrow": "Tomorrow, Monday, will continue to bring a good lot of dry weather, with some hazy spells of sunshine for a time, but becoming rather cloudy from the West through the morning.A few showers are possible in the morning and a little bit of mostly patchy light rain or drizzle will gradually spread from the southwest, mainly through the afternoon and evening, but amounts will be fairly minimal for most. There is the just the chance of more moderate showery falls of rain later in parts of the East. Highest temperatures of 16 to 19 or 20 degrees, in light to moderate mainly southeasterly winds, gradually veering southwesterly for most.",
-          "pollen": "Moderate on Sunday and Monday.",
-          "solar_uv": "High in sunshine on Sunday, otherwise moderate. Low to moderate on Monday."
+          "issued": "2026-06-14T18:00:00+01:00",
+          "today": "Dry this evening with hazy sunshine and light winds.",
+          "tonight": "Mainly dry tonight with a mix of cloud and clear spells. There's just the chance of a few isolated showers later in the night. Lowest temperatures of 9 to 12 degrees in light to moderate easterly or variable breezes.",
+          "tomorrow": "Tomorrow, Monday, will continue to bring a good lot of dry weather, with some hazy spells of sunshine in the morning. Becoming cloudier from the west as the day goes on, bringing a little light rain or drizzle. Highest temperatures of 17 to 20 degrees in light to moderate mainly southeasterly winds, gradually veering southwesterly.",
+          "pollen": "Moderate on Monday and Tuesday.",
+          "solar_uv": "Generally low to moderate on Monday and Tuesday, but high in sunshine."
         }
       ]
     }
