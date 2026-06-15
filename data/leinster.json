@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-14T18:00:00+01:00",
-          "today": "Dry this evening with hazy sunshine and light winds.",
-          "tonight": "Mainly dry tonight with a mix of cloud and clear spells. There's just the chance of a few isolated showers later in the night. Lowest temperatures of 9 to 12 degrees in light to moderate easterly or variable breezes.",
-          "tomorrow": "Tomorrow, Monday, will continue to bring a good lot of dry weather, with some hazy spells of sunshine in the morning. Becoming cloudier from the west as the day goes on, bringing a little light rain or drizzle. Highest temperatures of 17 to 20 degrees in light to moderate mainly southeasterly winds, gradually veering southwesterly.",
-          "pollen": "Moderate on Monday and Tuesday.",
-          "solar_uv": "Generally low to moderate on Monday and Tuesday, but high in sunshine."
+          "issued": "2026-06-15T06:00:00+01:00",
+          "today": "Starting off dry with spells of hazy sunshine. However, cloud will thicken from the south and west through the morning and afternoon, bringing a few patches of light rain and drizzle. Some sunny spells will develop over the southern half of the province in the evening. Highest temperatures of 16 to 19 degrees, with mostly light southeasterly winds veering southwesterly through the day.",
+          "tonight": "Mostly dry tonight with a mix of cloud and clear spells, and just the odd spot of light rain or drizzle. There will be some coastal and hill mist and fog too. Lowest temperatures of 10 to 14 degrees, with light southerly or variable breezes.",
+          "tomorrow": "Mostly cloudy with just limited sunny spells. While there will be just a few patchy outbreaks of light rain and drizzle at first, more persistent rain and drizzle will develop through the late afternoon and evening. Some hill and coastal mist and fog too. Highest temperatures of 16 to 20 degrees, with light to moderate south to southwest winds.",
+          "pollen": "Moderate.",
+          "solar_uv": "Moderate."
         }
       ]
     }
