@@ -3,11 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-16T17:00:00+01:00",
-          "tonight": "Patchy rain and drizzle will clear eastwards tonight, with a mix of cloud and clear spells following for a time, along with isolated showers. Further patches of rain and drizzle will spread from the Atlantic overnight. There\u2019ll be areas of mist and fog also. Lowest temperatures of 11 to 14 degrees, with light to moderate southerly winds, veering southwesterly.",
-          "tomorrow": "Brighter overall tomorrow, Wednesday, with any residual overnight rain and drizzle soon clearing eastwards in the morning, followed by a mix of cloudy periods, bright or sunny spells, and a scattering of light showers. Highest temperatures of 17 to 20 degrees, with light to moderate southwest winds.",
-          "pollen": "Moderate.",
-          "solar_uv": "Moderate under cloud. High in sunshine."
+          "issued": "2026-06-17T05:30:00+01:00",
+          "today": "A brighter day overall with any residual overnight rain and drizzle quickly clearing eastwards early this morning, followed by a mix of cloudy periods, sunny spells, and a scattering of light showers. Highest temperatures of 17 to 21 or 22 degrees, with light to moderate southwest winds.",
+          "tonight": "A mainly dry start with well scattered showers and the odd clear spell before cloud and outbreaks of rain spread from the west and southwest through the night. Lowest temperatures of 11 to 13 degrees in light to moderate southerly winds.",
+          "tomorrow": "A rather wet start to the day, though the rain will become patchier and more intermittent during the afternoon. Highest temperatures of 15 to 21 degrees in light to moderate southerly winds.",
+          "pollen": "Moderate on Wednesday and Thursday.",
+          "solar_uv": "Moderate to high on Wednesday. Low on Thursday."
         }
       ]
     }
