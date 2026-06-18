@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-18T13:30:00+01:00",
-          "today": "Today will be mostly cloudy across Leinster with outbreaks of rain and drizzle. There'll be some drier intervals also. Highest temperatures of 16 to 21 degrees with moderate south to southwest winds.",
+          "issued": "2026-06-18T17:30:00+01:00",
+          "today": "Scattered heavy showers over the north of Leinster this evening, drier further south, in light to moderate southwest winds.",
           "tonight": "Tonight will be cloudy with rain moving northwards, heavy at times, especially in the south. A mild and humid night with lowest temperatures of 14 or 15 degrees and light to moderate southerly winds.",
-          "tomorrow": "Friday morning will be wet with rain in all areas. Through the afternoon, rain will gradually clear eastwards with heavy showers following from the west. Highest temperatures of 18 or 19 degrees with light to moderate southerly winds.",
+          "tomorrow": "Friday morning will be wet with rain in all areas. Through the afternoon, the rain will become patchy and gradually clear eastwards with heavy showers following from the west. Highest temperatures of 18 to 20 degrees with light to moderate southwest winds.",
           "pollen": "High today, high or very high on Friday",
-          "solar_uv": "Mostly low or moderate today, but high in any sunshine.\\n\\nModerate at first on Friday, increasing high in sunshine"
+          "solar_uv": "Mostly low or moderate today, but high in any sunshine. Moderate at first on Friday, increasing high in sunshine"
         }
       ]
     }
