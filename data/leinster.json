@@ -3,11 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-19T17:00:00+01:00",
-          "tonight": "A mix of clear spells and scattered showers this evening, but becoming largely dry tonight. Winds will be light and variable. Cooler and fresher than recent nights with lowest temperatures of 7 to 11 degrees.",
-          "tomorrow": "Tomorrow will be dry and warm with spells of sunshine. Highest temperatures of 18 to 22 degrees with light to moderate westerly or variable winds.",
-          "pollen": "Very High on Friday and Saturday.",
-          "solar_uv": "High or Moderate on Friday and Saturday."
+          "issued": "2026-06-20T06:00:00+01:00",
+          "today": "\\n\\nA pleasant summer's day with long spells of sunshine - just the slight chance of a light shower to begin. Top temperatures of 18 to 21 degrees, warmest further east, in just light westerly or variable breezes.",
+          "tonight": "Tonight will be dry and calm with clear spells. Patches of mist and fog will form. Lowest temperatures of 7 to 11 degrees.",
+          "tomorrow": "Sunday will be rather warm with long spells of sunshine, turning hazy later. Top temperatures of 19 to 24 degrees, best values further west, in a mostly light easterly breeze.",
+          "pollen": "Very high this weekend.",
+          "solar_uv": "High or moderate this weekend."
         }
       ]
     }
