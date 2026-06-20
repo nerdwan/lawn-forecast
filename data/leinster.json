@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-20T06:00:00+01:00",
-          "today": "\\n\\nA pleasant summer's day with long spells of sunshine - just the slight chance of a light shower to begin. Top temperatures of 18 to 21 degrees, warmest further east, in just light westerly or variable breezes.",
-          "tonight": "Tonight will be dry and calm with clear spells. Patches of mist and fog will form. Lowest temperatures of 7 to 11 degrees.",
-          "tomorrow": "Sunday will be rather warm with long spells of sunshine, turning hazy later. Top temperatures of 19 to 24 degrees, best values further west, in a mostly light easterly breeze.",
-          "pollen": "Very high this weekend.",
-          "solar_uv": "High or moderate this weekend."
+          "issued": "2026-06-20T12:30:00+01:00",
+          "today": "Dry and sunny. Top temperatures of 18 to 22 degrees, warmest further inland, in just light variable or sea breezes.",
+          "tonight": "Dry with clear skies. Lowest temperatures of 8 to 12 degrees.",
+          "tomorrow": "Warm and sunny. Some high cloud developing later in the day. Top temperatures of 19 to 24 degrees, warmest further inland, in a mostly light easterly breeze.",
+          "pollen": "Very high.",
+          "solar_uv": "High."
         }
       ]
     }
