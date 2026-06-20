@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-20T12:30:00+01:00",
-          "today": "Dry and sunny. Top temperatures of 18 to 22 degrees, warmest further inland, in just light variable or sea breezes.",
-          "tonight": "Dry with clear skies. Lowest temperatures of 8 to 12 degrees.",
+          "issued": "2026-06-20T17:00:00+01:00",
+          "today": "Dry and sunny with some fair weather cloud this evening. Light variable or sea breezes.",
+          "tonight": "Dry with clear skies. Lowest temperatures of 8 to 12 degrees with light and variable winds.",
           "tomorrow": "Warm and sunny. Some high cloud developing later in the day. Top temperatures of 19 to 24 degrees, warmest further inland, in a mostly light easterly breeze.",
-          "pollen": "Very high.",
-          "solar_uv": "High."
+          "pollen": "Very high Sunday and Monday.",
+          "solar_uv": "High Sunday and Monday."
         }
       ]
     }
