@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-21T12:30:00+01:00",
-          "today": "Warm and sunny. Some high cloud developing later in the day turning the sunshine hazy. Highest temperatures of 19 to 24 degrees, warmest further inland, in a mostly light easterly breeze.",
+          "issued": "2026-06-21T18:00:00+01:00",
+          "today": "Sunny, with some high cloud in places. Light easterly breezes.",
           "tonight": "Dry with clear spells. Lowest temperatures of 11 to 15 degrees with light and variable winds.",
           "tomorrow": "Humid with a mix of cloud and long spells of sunshine. While it will continue dry in most places, a few sharp showers are possible in the southeast and east. Highest temperatures of 22 to 27 degrees in just light easterly breezes.",
-          "pollen": "Very high on Sunday and Monday.",
-          "solar_uv": "High on Sunday and Monday."
+          "pollen": "Very high on Monday and Tuesday.",
+          "solar_uv": "High on Monday, high or very high on Tuesday."
         }
       ]
     }
