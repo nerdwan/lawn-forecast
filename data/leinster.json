@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-21T18:00:00+01:00",
-          "today": "Sunny, with some high cloud in places. Light easterly breezes.",
-          "tonight": "Dry with clear spells. Lowest temperatures of 11 to 15 degrees with light and variable winds.",
-          "tomorrow": "Humid with a mix of cloud and long spells of sunshine. While it will continue dry in most places, a few sharp showers are possible in the southeast and east. Highest temperatures of 22 to 27 degrees in just light easterly breezes.",
-          "pollen": "Very high on Monday and Tuesday.",
-          "solar_uv": "High on Monday, high or very high on Tuesday."
+          "issued": "2026-06-22T05:30:00+01:00",
+          "today": "Mostly dry today with a mix of cloud and sunny spells but with better spells of sunshine developing during the afternoon. There is a slight chance of a few sharp thundery showers developing. Highest temperatures of 22 to 25 degrees, a little cooler near coasts with light easterly or variable breezes, occasionally moderate near coasts.",
+          "tonight": "Mild, dry and largely clear tonight in light variable breezes. Temperatures will not fall below 13 to 17 degrees.",
+          "tomorrow": "Dry tomorrow with long spells of sunshine. Highest temperatures of 24 to 29 degrees in light westerly or variable breezes.",
+          "pollen": "Very high Monday and Tuesday.",
+          "solar_uv": "High Monday and very high Tuesday."
         }
       ]
     }
