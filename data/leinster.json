@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-22T05:30:00+01:00",
-          "today": "Mostly dry today with a mix of cloud and sunny spells but with better spells of sunshine developing during the afternoon. There is a slight chance of a few sharp thundery showers developing. Highest temperatures of 22 to 25 degrees, a little cooler near coasts with light easterly or variable breezes, occasionally moderate near coasts.",
-          "tonight": "Mild, dry and largely clear tonight in light variable breezes. Temperatures will not fall below 13 to 17 degrees.",
-          "tomorrow": "Dry tomorrow with long spells of sunshine. Highest temperatures of 24 to 29 degrees in light westerly or variable breezes.",
-          "pollen": "Very high Monday and Tuesday.",
-          "solar_uv": "High Monday and very high Tuesday."
+          "issued": "2026-06-22T16:30:00+01:00",
+          "today": "Warm and dry for the rest of today with long sunny spells in light easterly or variable breezes. Winds will increase moderate at times near the south and southeast coasts.",
+          "tonight": "Mild, dry and largely clear tonight in light variable breezes. A few isolated fog patches may form. Temperatures will not fall below 14 to 17 degrees.",
+          "tomorrow": "Warm or very warm and dry tomorrow, Tuesday, with long spells of sunshine. Highest temperatures of 24 to 28 or 29 degrees in light westerly breezes. A little cooler near coasts, where an onshore breeze will develop.",
+          "pollen": "Very high on Tuesday and Wednesday.",
+          "solar_uv": "High to very high on Tuesday. High on Wednesday."
         }
       ]
     }
