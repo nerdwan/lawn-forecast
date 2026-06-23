@@ -3,10 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-23T06:00:00+01:00",
-          "today": "Very warm and humid and dry for most today with plenty of sunshine and just the chance of an isolated shower. Highest temperatures of 24 to 29 degrees, in light, occasionally moderate, westerly breezes, though a touch lower in coastal parts, with onshore breezes developing.",
-          "tonight": "Continuing dry in most places tonight with some clear spells and a few isolated mist and fog patches. Becoming a bit cloudier across northern parts of the province overnight. Lowest temperatures of 13 degrees in western parts of the province to a more humid and mild 18 degrees further east. Winds will be light and variable.",
-          "tomorrow": "Tomorrow, Wednesday, will be dry for most and while it's likely be fairly cloudy to begin across northern parts of the province, it'll be sunnier further south and the sunshine will become more widespread through the day. There's just the chance of the odd isolated light shower. Very warm or hot and humid, with highest temperatures generally of 24 to 29 degrees, warmest in inland southern parts, a little lower in some coastal parts, in light easterly or variable breezes."
+          "issued": "2026-06-23T12:00:00+01:00",
+          "today": "Warm or very warm and humid today with long spells of sunshine. Dry for most, but there is a slight chance of an isolated shower. Highest temperatures generally of 24 to 28 degrees in light westerly or variable breezes, moderate at times near the south coast. Warmest in the south and east but a little cooler near the coast, where onshore breezes develop.",
+          "tonight": "Dry tonight with clear spells. It will become cloudier in northern parts and western parts of the province overnight. Light variable winds will allow a few isolated mist and fog patches to form. Mild and humid with lows ranging from 12 or 13 degrees in western parts to 16 or 17 degrees further east and south.",
+          "tomorrow": "Wednesday will start off mostly cloudy in northern and western parts, with sunny spells elsewhere. Sunshine will become more widespread through the day, but may turn hazy at times. A dry day. Warm or very warm and humid day with highest temperatures generally of 23 to 27 degrees in light easterly or variable breezes. Cooler near the east coast with highs of 20 to 22 degrees. A few mist patches are possible near coasts.",
+          "pollen": "Very high today and on Wednesday.",
+          "solar_uv": "High or very high today and on Wednesday."
         }
       ]
     }
