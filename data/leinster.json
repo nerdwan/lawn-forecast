@@ -3,12 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-06-22T16:30:00+01:00",
-          "today": "Warm and dry for the rest of today with long sunny spells in light easterly or variable breezes. Winds will increase moderate at times near the south and southeast coasts.",
-          "tonight": "Mild, dry and largely clear tonight in light variable breezes. A few isolated fog patches may form. Temperatures will not fall below 14 to 17 degrees.",
-          "tomorrow": "Warm or very warm and dry tomorrow, Tuesday, with long spells of sunshine. Highest temperatures of 24 to 28 or 29 degrees in light westerly breezes. A little cooler near coasts, where an onshore breeze will develop.",
-          "pollen": "Very high on Tuesday and Wednesday.",
-          "solar_uv": "High to very high on Tuesday. High on Wednesday."
+          "issued": "2026-06-23T06:00:00+01:00",
+          "today": "Very warm and humid and dry for most today with plenty of sunshine and just the chance of an isolated shower. Highest temperatures of 24 to 29 degrees, in light, occasionally moderate, westerly breezes, though a touch lower in coastal parts, with onshore breezes developing.",
+          "tonight": "Continuing dry in most places tonight with some clear spells and a few isolated mist and fog patches. Becoming a bit cloudier across northern parts of the province overnight. Lowest temperatures of 13 degrees in western parts of the province to a more humid and mild 18 degrees further east. Winds will be light and variable.",
+          "tomorrow": "Tomorrow, Wednesday, will be dry for most and while it's likely be fairly cloudy to begin across northern parts of the province, it'll be sunnier further south and the sunshine will become more widespread through the day. There's just the chance of the odd isolated light shower. Very warm or hot and humid, with highest temperatures generally of 24 to 29 degrees, warmest in inland southern parts, a little lower in some coastal parts, in light easterly or variable breezes."
         }
       ]
     }
