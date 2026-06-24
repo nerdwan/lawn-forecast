@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-06-24T05:30:00+01:00",
-          "today": "Mostly cloudy with mist and fog patches in the north and west of Leinster to start today, with sunny spells elsewhere. Sunshine will become more widespread through the day, but may turn hazy at times. Very warm and humid with highest temperatures of 23 to 27 degrees, though a degree or two cooler near the east coast, in light variable breezes.",
-          "tonight": "Dry tonight with long clear spells. Continuing warm and humid with lowest temperatures of 15 to 18 degrees in light easterly or variable breezes.",
-          "tomorrow": "Exceptionally hot and humid tomorrow, with good sunshine and mostly dry conditions. Highest temperatures of 27 to 30 degrees, with light to moderate east to southeast breezes.",
+          "issued": "2026-06-24T12:00:00+01:00",
+          "today": "Warm and humid today, with long spells of sunshine developing. Highest temperatures of 23 to 27 degrees, though a degree or two cooler near the east coast, in light and variable winds.",
+          "tonight": "Dry tonight with long clear spells. Staying warm and humid with lowest temperatures of 15 to 18 degrees in a light and variable breeze.",
+          "tomorrow": "It will be hot and humid tomorrow, with long sunny spells and mostly dry conditions. Highest temperatures of 27 to 30 degrees, with light or moderate east to southeast winds.",
           "pollen": "Very high on Wednesday and Thursday.",
           "solar_uv": "High on Wednesday and Thursday."
         }
