@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-23T16:30:00+01:00",
-          "today": "Warm, dry and humid for the rest of today with long spells of sunshine in light westerly or variable breezes.",
-          "tonight": "Dry tonight with clear spells. It will become cloudier in northern parts and western parts of the province overnight. Light variable winds will allow a few isolated mist and fog patches to form. Mild and humid with lows ranging from 12 or 13 degrees in western parts to 16 or 17 degrees further east and south.",
-          "tomorrow": "A dry day on Wednesday. It will start off mostly cloudy in northern and western parts, with sunny spells elsewhere. Sunshine will become more widespread through the day, but may turn hazy at times. Warm or very warm and humid with highest temperatures generally of 23 to 27 degrees in light easterly or variable breezes. Cooler near the east coast with highs of 20 to 22 degrees. Winds will increase moderate at times neat the south and southeast coasts later in the day.",
-          "pollen": "Very high today and on Wednesday.",
-          "solar_uv": "High or very high today and on Wednesday."
+          "issued": "2026-06-24T05:30:00+01:00",
+          "today": "Mostly cloudy with mist and fog patches in the north and west of Leinster to start today, with sunny spells elsewhere. Sunshine will become more widespread through the day, but may turn hazy at times. Very warm and humid with highest temperatures of 23 to 27 degrees, though a degree or two cooler near the east coast, in light variable breezes.",
+          "tonight": "Dry tonight with long clear spells. Continuing warm and humid with lowest temperatures of 15 to 18 degrees in light easterly or variable breezes.",
+          "tomorrow": "Exceptionally hot and humid tomorrow, with good sunshine and mostly dry conditions. Highest temperatures of 27 to 30 degrees, with light to moderate east to southeast breezes.",
+          "pollen": "Very high on Wednesday and Thursday.",
+          "solar_uv": "High on Wednesday and Thursday."
         }
       ]
     }
