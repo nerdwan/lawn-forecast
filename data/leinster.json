@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-24T15:30:00+01:00",
-          "today": "Warm and humid this evening with long spells of sunshine and light, easterly or variable winds. It will be mostly dry, but a few showers may develop in the far west of the province.",
-          "tonight": "Dry tonight with long clear spells. Staying warm and humid with lowest temperatures of 15 to 18 degrees in a light and variable breeze.",
-          "tomorrow": "It will be hot and humid tomorrow, with long sunny spells and mostly dry conditions. Highest temperatures of 27 to 30 degrees, with light or moderate east to southeast winds.",
-          "pollen": "Very high on Thursday and Friday.",
-          "solar_uv": "High to very high on Thursday. Moderate, high in sunshine on Friday."
+          "issued": "2026-06-25T05:00:00+01:00",
+          "today": "Hot and humid today, Thursday, with long sunny spells and mostly dry conditions. Highest temperatures of 27 to 30 degrees, with light or moderate east to southeast winds.",
+          "tonight": "Warm and muggy tonight with a mix of cloud and clear spells. A few showers will develop overnight, possibly heavy and thundery. Lowest temperatures of 17 to 20 degrees with mainly light, variable breezes.",
+          "tomorrow": "Continuing warm and humid tomorrow, Friday, with sunny spells and showers. Some of the showers may be heavy and thundery, with a chance of spot flooding, Cloud, mist and coastal fog will develop near the south coast from late morning. Highest temperatures of 24 to 29 degrees, but a few degrees cooler near the south coast. Light variable breezes will become mostly moderate southerly by evening.",
+          "pollen": "Very High.",
+          "solar_uv": "High or very high on Thursday, Moderate to high on Friday."
         }
       ]
     }
