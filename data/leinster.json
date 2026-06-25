@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-25T12:30:00+01:00",
-          "today": "A hot and humid day with long sunny spells. Highest temperatures of 27 to 30 degrees, with light or moderate east to southeast winds.",
+          "issued": "2026-06-25T16:00:00+01:00",
+          "today": "Very warm and humid this evening with long sunny spells and light or moderate east to southeast winds.",
           "tonight": "Warm and muggy tonight with a mix of cloud and clear spells. Some showers will develop overnight, possibly turning heavy and thundery. Lowest temperatures of 17 to 20 degrees with mainly light and variable winds.",
-          "tomorrow": "Staying warm and humid tomorrow, Friday, with sunny spells and showers. Some of the showers may be heavy and thundery, with a chance of localised flooding, Cloud, mist and fog will develop in southern coastal areas from late morning. Highest temperatures of 24 to 29 degrees, but a few degrees cooler in coastal parts of the south. Light and variable winds will become mostly moderate southerly by evening.",
-          "pollen": "Very High.",
-          "solar_uv": "High or very high on Thursday, Moderate to high on Friday."
+          "tomorrow": "Tomorrow, Friday, will be very warm and humid with sunny spells and showers. Some of the showers may be heavy and thundery, with a chance of localised flooding, Cloud, mist and fog will develop in southern coastal areas from late morning. Highest temperatures of 24 to 29 degrees, but a few degrees cooler in coastal parts of the south. Light and variable winds will become mostly moderate southerly by evening.",
+          "pollen": "Very high on Friday and Saturday.",
+          "solar_uv": "Moderate to high on Friday. Moderate on Saturday."
         }
       ]
     }
