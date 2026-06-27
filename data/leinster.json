@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-26T18:00:00+01:00",
-          "today": "A mainly dry and warm evening with sunny spells. Cloudier towards the south in light to moderate winds.",
-          "tonight": "Turning cloudy overnight but staying mostly dry overall. Lows of 14 to 17 degrees in moderate southerly winds.",
-          "tomorrow": "Quite cloudy tomorrow with occasional showery rain, possibly heavy in the afternoon. Some sunshine breaking through at times. Less warm and humid than previous days with highest temperatures of 19 to 23 degrees with moderate to fresh southerly winds.",
-          "pollen": "Very high",
-          "solar_uv": "Moderate to high"
+          "issued": "2026-06-27T06:00:00+01:00",
+          "today": "Cloudier than previous days, starting off mostly dry before patchy outbreaks of rain develop through the morning. The rain will turn more persistent in the evening. Cooler too with highest temperatures of 18 to 22 degrees, with moderate to fresh south to southwest winds easing through the day.",
+          "tonight": "Starting off cloudy with any remaining outbreaks of rain clearing the east coast, before clear spells develop from the west with just the odd shower. Lowest temperatures of 11 to 14 degrees, mildest in the east, with light to moderate southwesterly winds.",
+          "tomorrow": "Sunny spells with just a few showers in the west and north of the province. Cooler again, with highest temperatures of16 to 20 degrees, with moderate to fresh southwesterly winds, easing later in the day.",
+          "pollen": "Very high.",
+          "solar_uv": "Mostly moderate."
         }
       ]
     }
