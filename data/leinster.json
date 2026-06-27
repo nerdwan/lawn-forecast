@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-27T06:00:00+01:00",
-          "today": "Cloudier than previous days, starting off mostly dry before patchy outbreaks of rain develop through the morning. The rain will turn more persistent in the evening. Cooler too with highest temperatures of 18 to 22 degrees, with moderate to fresh south to southwest winds easing through the day.",
-          "tonight": "Starting off cloudy with any remaining outbreaks of rain clearing the east coast, before clear spells develop from the west with just the odd shower. Lowest temperatures of 11 to 14 degrees, mildest in the east, with light to moderate southwesterly winds.",
-          "tomorrow": "Sunny spells with just a few showers in the west and north of the province. Cooler again, with highest temperatures of16 to 20 degrees, with moderate to fresh southwesterly winds, easing later in the day.",
+          "issued": "2026-06-27T17:30:00+01:00",
+          "today": "Mainly cloudy this evening with scattered outbreaks of rain moving in from the west, possibly heavy in places. Moderate to fresh south to southwest winds.",
+          "tonight": "Cloudy to start with patchy rain, then clearer spells following later in the night. A cooler night than of late with lowest temperatures of 11 to 14 degrees, with light to moderate southwesterly winds.",
+          "tomorrow": "Bright and breezy tomorrow with sunny spells and well scattered passing showers. A fresher day with highest temperatures of 16 to 19 degrees, with moderate to fresh southwesterly winds, easing later in the day.",
           "pollen": "Very high.",
-          "solar_uv": "Mostly moderate."
+          "solar_uv": "Moderate to high"
         }
       ]
     }
