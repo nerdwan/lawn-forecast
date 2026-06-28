@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-28T07:30:00+01:00",
-          "today": "Today will be bright and breezy across Leinster with sunny spells. After a dry start, scattered showers will extend eastwards to all areas by around noon. They'll continue this afternoon will die out early this evening. Highest temperatures of 16 degrees to 20 degrees with moderate to fresh, gusty southwesterly winds.",
-          "tonight": "Tonight will be dry with clear spells. Lowest temperatures of 9 to 12 degrees with moderate southwest breezes.",
-          "tomorrow": "Monday will start off dry with bright or sunny spells. Cloud will increase from the west through the day. Rain will spread eastwards through the evening. Highest temperatures of 18 to 21 degrees with light to moderate south to southwest winds.",
-          "pollen": "Very high today and Monday",
-          "solar_uv": "High today and Monday"
+          "issued": "2026-06-28T17:00:00+01:00",
+          "today": "Dry and bright this evening apart from one of two showers in the west and north of the province. Winds gradually easing.",
+          "tonight": "Tonight will be mainly dry with clear spells. Lowest temperatures of 9 to 12 degrees with moderate southwest breezes.",
+          "tomorrow": "Monday will start off mainly dry with bright or sunny spells. Cloud will increase with a few showers developing in the afternoon, these possibly turning heavy and merging to longer spells of rain for a time in the evening. Highest temperatures of 16 to 20 degrees with light to moderate south to southwest winds.",
+          "pollen": "Very high on Monday and Tuesday.",
+          "solar_uv": "Moderate to high on Monday and Tuesday."
         }
       ]
     }
