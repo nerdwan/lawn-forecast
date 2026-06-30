@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-29T17:30:00+01:00",
-          "today": "Showers will develop over northern parts this evening with more persistent rain in the south and midlands.",
-          "tonight": "Rain will ease for a time tonight but it will be cloudy with outbreaks of rain returning. Lowest temperatures of 11 to 15 degrees, with moderate southerly winds.",
-          "tomorrow": "Tomorrow will start off cloudy with outbreaks of rain. Rain will clear eastwards with sunshine and scattered showers following. Highest temperatures of 17 to 20 degrees with light to moderate southwesterly winds veering westerly.",
-          "pollen": "Very high on Monday and Tuesday.",
-          "solar_uv": "Moderate to high on Monday and Tuesday."
+          "issued": "2026-06-30T05:30:00+01:00",
+          "today": "Cloudy to start with outbreaks of rain and drizzle through the morning. Scattered showers will develop later in the day with sunny spells.Highest temperatures of 17 to 20 or 21 degrees, warmest further south.Light to moderate southerly winds veering west to northwesterly.",
+          "tonight": "Tonight will be a mix of cloud and clear spells, but staying mostly dry apart. Lowest temperatures of 13 to 15 degrees. Moderate west to northwest winds.",
+          "tomorrow": "Tomorrow will start off dry and cloudy, with a brighter start in the south. Light rain from the west will move in through the afternoon. Highest temperatures of 17 to 20 degrees. Light to moderate west to southwest winds.",
+          "pollen": "Very high.",
+          "solar_uv": "Moderate to high."
         }
       ]
     }
