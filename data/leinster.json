@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-06-30T17:30:00+01:00",
-          "today": "Dry with sunny spells in south Leinster, with showers clearing from northern parts this evening. Moderate northwesterly winds.",
-          "tonight": "Becoming mainly dry tonight in all areas with clear spells. Lowest temperatures of 13 to 15 degrees in moderate westerly winds.",
-          "tomorrow": "Dry for much of tomorrow with a few sunny spells early in the day and cloud increasing later. Becoming breezy in the evening with outbreaks of rain or drizzle pushing in from the west. Highest temperatures of 19 to 21 degrees. Light to moderate southwest winds strengthening fresh later.",
-          "pollen": "Very high.",
-          "solar_uv": "Moderate to high."
+          "issued": "2026-07-01T05:00:00+01:00",
+          "today": "Isolated showers and some early sunny spells this morning before becoming mostly cloudy. Mostly dry but some rain or drizzle is possible in the early afternoon and again in the evening. Becoming breezy as light to moderate southwesterly winds increase moderate to fresh in the evening. Highest temperatures of 17 to 20 degrees.",
+          "tonight": "Cloudy at first tonight with rain and drizzle, becoming patchier as it gradually clears eastwards with some clear spells developing later. Lowest temperatures of 11 to 14 degrees as fresh and gusty southwest to west winds ease through the night.",
+          "tomorrow": "Largely dry tomorrow with a mix of cloud and sunny spells. Highest temperatures of 17 to 22 degrees in light to moderate westerly breezes.",
+          "pollen": "High Wednesday and Thursday.",
+          "solar_uv": "High or very high in any sunshine Wednesday. High on Thursday."
         }
       ]
     }
