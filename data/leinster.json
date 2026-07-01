@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-07-01T05:00:00+01:00",
-          "today": "Isolated showers and some early sunny spells this morning before becoming mostly cloudy. Mostly dry but some rain or drizzle is possible in the early afternoon and again in the evening. Becoming breezy as light to moderate southwesterly winds increase moderate to fresh in the evening. Highest temperatures of 17 to 20 degrees.",
-          "tonight": "Cloudy at first tonight with rain and drizzle, becoming patchier as it gradually clears eastwards with some clear spells developing later. Lowest temperatures of 11 to 14 degrees as fresh and gusty southwest to west winds ease through the night.",
-          "tomorrow": "Largely dry tomorrow with a mix of cloud and sunny spells. Highest temperatures of 17 to 22 degrees in light to moderate westerly breezes.",
+          "issued": "2026-07-01T13:30:00+01:00",
+          "today": "Mostly dry today, just a few patches of light rain early this afternoon with some more persistent light rain and drizzle later this evening. Becoming breezy as southwesterly winds strengthen moderate to fresh this evening. Highest temperatures of 17 to 20 degrees.",
+          "tonight": "Light rain and drizzle clearing early tonight, becoming dry overnight. Lowest temperatures of 12 to 14 degrees with fresh and gusty westerly winds easing by morning.",
+          "tomorrow": "Largely dry tomorrow and becoming increasingly sunny as the day progresses. Highest temperatures of 17 to 21 degrees in a light to moderate westerly breeze.",
           "pollen": "High Wednesday and Thursday.",
-          "solar_uv": "High or very high in any sunshine Wednesday. High on Thursday."
+          "solar_uv": "Moderate to high Wednesday. High on Thursday."
         }
       ]
     }
