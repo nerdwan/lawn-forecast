@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-07-01T17:30:00+01:00",
-          "today": "Mainly dry early this evening, but some light rain and drizzle will push down from the north later. Becoming breezy as southwesterly winds strengthen moderate to fresh.",
-          "tonight": "Light rain and drizzle clearing early tonight, becoming dry overnight. Lowest temperatures of 12 to 14 degrees with fresh and gusty westerly winds easing by morning.",
-          "tomorrow": "Largely dry tomorrow and becoming increasingly sunny as the day progresses. Highest temperatures of 17 to 21 degrees in a light to moderate westerly breeze.",
-          "pollen": "High Wednesday and Thursday.",
-          "solar_uv": "Moderate to high Wednesday. High on Thursday."
+          "issued": "2026-07-02T05:00:00+01:00",
+          "today": "A mix of sunny spells and scattered cloud this morning. Dry weather mostly too with more sunshine arriving later this afternoon. Westerly breezes and highs of 17 to 20 degrees.",
+          "tonight": "A mix of cloud and clear spells this evening but overnight the cloud will clear away. Dry weather too with light winds and lows with some light patchy drizzle lingering in the northwest. Staying mostly dry further south with lowest temperatures of 10 to 13 degrees.",
+          "tomorrow": "Generally becoming cloudier from later in the morning but it will stay largely dry with light westerly winds and highs of 20 to 23 degrees.",
+          "pollen": "High",
+          "solar_uv": "Moderate to high"
         }
       ]
     }
