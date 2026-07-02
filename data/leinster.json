@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-07-02T12:30:00+01:00",
-          "today": "Dry with a mix of cloud and sunny spells. Cloud clearing this afternoon to warm sunshine. Highest temperatures of 17 to 22 degrees in light to moderate westerly winds.",
+          "issued": "2026-07-02T17:00:00+01:00",
+          "today": "Dry with a mix of cloud and sunny spells. Mainly sunny in the south of the province. Light to moderate westerly winds.",
           "tonight": "Dry with long clear spells, some cloud in the north of the province. Lowest temperatures of 8 to 13 degrees with light westerly breezes.",
           "tomorrow": "Dry and sunny to start, cloud spreading from the west in the afternoon. Highest temperares of 18 to 23 degrees with light to moderate southwest winds.",
-          "pollen": "High",
-          "solar_uv": "Moderate to high"
+          "pollen": "High.",
+          "solar_uv": "Moderate to high Friday and Saturday."
         }
       ]
     }
