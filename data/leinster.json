@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-07-05T05:45:00+01:00",
-          "today": "A few spots of drizzle possible this morning but otherwise dry today. Hazy sunny spells will develop in many areas, although cloud may persist in some northern parts of the province. Highest temperatures of 18 to 24 degrees, warmest in the south and east, with light to moderate westerly winds.",
+          "issued": "2026-07-05T12:00:00+01:00",
+          "today": "Largely dry today, with sunny spells developing through the day, although cloud may persist in some northern parts of the province. Highest temperatures of 18 to 24 degrees, warmest in the south and east, with light to moderate westerly winds.",
           "tonight": "Tonight will be mostly cloudy and dry. Lowest temperatures of 11 to 15 degrees with light to moderate west to southwest winds.",
-          "tomorrow": "Tomorrow will be dry, with sunny spells in the south at first, extending further north as the day goes on. Highest temperatures of 19 to 24 degrees with light to moderate westerly winds.",
-          "pollen": "High on Sunday and Monday.",
-          "solar_uv": "High or Moderate on Sunday and Monday."
+          "tomorrow": "Tomorrow will be dry and cloudy at first, with sunny spells in the south, extending north as the day goes on. Highest temperatures of 19 to 24 degrees with light to moderate westerly winds.",
+          "pollen": "High on Monday and Tuesday.",
+          "solar_uv": "High or Moderate on Monday and Tuesday."
         }
       ]
     }
