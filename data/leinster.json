@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-07-05T16:00:00+01:00",
-          "today": "Dry this afternoon and evening, with sunny spells, although cloud may persist in some northern parts of the province, with light to moderate westerly winds.",
-          "tonight": "Tonight will be mostly cloudy and dry. Lowest temperatures of 11 to 15 degrees with light to moderate west to southwest winds.",
-          "tomorrow": "Tomorrow will be dry and cloudy at first, with sunny spells in the south, extending north as the day goes on. Highest temperatures of 19 to 24 degrees with light to moderate westerly winds.",
+          "issued": "2026-07-06T02:00:00+01:00",
+          "today": "Dry today with any mist and fog clearing this morning. While it'll be rather cloudy in many areas to begin, it'll become sunnier through the morning and afternoon, the sunshine hazy at times. Highest temperatures will generally range from 20 to 25 degrees, warmest in the south and east, maybe a little higher locally further south. Winds will be mostly moderate westerly, a little lighter in the south.",
+          "tonight": "Dry tonight, and while cloud will increase from the west, some clear spells will persist, especially further to the south and east. A few isolated mist and fog patches are possible. Lowest temperatures of 11 to 15 degrees in mostly light to moderate west to southwest winds.",
+          "tomorrow": "Tomorrow, Tuesday, will be dry with plenty of sunshine developing. Temperatures will generally rise to the mid-twenties, a little higher in parts of the east and south, where temperatures will possibly reach 27 or 28 degrees. Winds will be light to moderate westerly.",
           "pollen": "High on Monday and Tuesday.",
-          "solar_uv": "High or Moderate on Monday and Tuesday."
+          "solar_uv": "High in sunshine on Monday and Tuesday. Otherwise moderate."
         }
       ]
     }
