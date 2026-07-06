@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-07-06T02:00:00+01:00",
-          "today": "Dry today with any mist and fog clearing this morning. While it'll be rather cloudy in many areas to begin, it'll become sunnier through the morning and afternoon, the sunshine hazy at times. Highest temperatures will generally range from 20 to 25 degrees, warmest in the south and east, maybe a little higher locally further south. Winds will be mostly moderate westerly, a little lighter in the south.",
-          "tonight": "Dry tonight, and while cloud will increase from the west, some clear spells will persist, especially further to the south and east. A few isolated mist and fog patches are possible. Lowest temperatures of 11 to 15 degrees in mostly light to moderate west to southwest winds.",
-          "tomorrow": "Tomorrow, Tuesday, will be dry with plenty of sunshine developing. Temperatures will generally rise to the mid-twenties, a little higher in parts of the east and south, where temperatures will possibly reach 27 or 28 degrees. Winds will be light to moderate westerly.",
+          "issued": "2026-07-06T12:10:00+01:00",
+          "today": "Dry and warm today with sunny spells, which will be hazy at times. Highest temperatures will range from 20 to 25 or 26 degrees in mostly moderate west or southwest winds. Generally warmest in southern parts of Leinster, away from the south coast.",
+          "tonight": "Dry overnight. While cloud will increase from the west overnight, some clear spells will persist, especially further to the south and east. A few isolated mist and fog patches are possible. Lowest temperatures of 11 to 15 degrees in light, locally moderate, west or northwest winds. Coolest where clear skies persist the longest.",
+          "tomorrow": "Tuesday will be another warm and dry day. Cloudy in many parts at first. Sunshine, hazy at times, will develop in all parts during the morning. Highest temperatures will range from 22 to 26 degrees generally but a little higher in parts of the east and south with highs of 27 or 28 degrees. Light to moderate westerly winds for most but onshore winds will develop near some coasts in the afternoon.",
           "pollen": "High on Monday and Tuesday.",
-          "solar_uv": "High in sunshine on Monday and Tuesday. Otherwise moderate."
+          "solar_uv": "High, locally moderate under cloud, today and on Tuesday."
         }
       ]
     }
