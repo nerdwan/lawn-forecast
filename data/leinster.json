@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-07-07T12:00:00+01:00",
-          "today": "Warm or very warm today. Dry and mostly sunny. The sunshine will be hazy at times. Highest temperatures of 24 to 28 degrees in mostly light westerly winds. Onshore breezes will develop along parts of the coasts this afternoon, resulting in slightly cooler conditions there.",
+          "issued": "2026-07-07T16:30:00+01:00",
+          "today": "Warm, dry and sunny the rest of today. The sunshine will be hazy at times. Winds will be mostly light westerly, but there will be onshore winds along parts of the coast.",
           "tonight": "Continuing dry tonight. Clear skies for a time, but cloud will tend to increase from the west overnight. Patches of mist and fog will develop also. Mild with lowest temperatures of 11 to 15 degrees in light westerly or variable breezes.",
-          "tomorrow": "Mist and fog with clear during the morning to leave another dry day with long sunny spells developing. Warm or very warm with highest temperatures of 22 to 28 degrees in light westerly or variable winds. Again, onshore breezes will develop along parts of the coast, resulting in slightly cooler conditions there.",
-          "pollen": "High today and on Wednesday.",
+          "tomorrow": "Mist and fog with clear on Wednesday morning to leave another dry day with long sunny spells developing. Warm or very warm with highest temperatures of 22 to 28 degrees in light westerly or variable winds. Again, onshore breezes will develop along parts of the coast, resulting in slightly cooler conditions there.",
+          "pollen": "High on Wednesday and Thursday.",
           "solar_uv": "High today and on Wednesday."
         }
       ]
