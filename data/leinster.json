@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-07-06T16:30:00+01:00",
-          "today": "Dry and warm for the rest of today with sunny spells, which will be hazy at times, in mostly moderate west or southwest winds. Mist and low cloud may drift on to the south coast at times.",
-          "tonight": "Dry overnight. While cloud will increase from the west overnight, some clear spells will persist, especially further to the south and east. A few isolated mist and fog patches are possible also. Lowest temperatures of 11 to 15 degrees in light, locally moderate, west or northwest winds. Coolest where clear skies persist the longest.",
-          "tomorrow": "Tuesday will be another warm and dry day. Cloudy in many parts at first. Sunshine, hazy at times, will spread from the south and east during the morning. Highest temperatures will range from 22 to 26 degrees generally, but a little higher in parts of the east and south with highs of 27 or 28 degrees. Light to moderate westerly winds for most but onshore winds will develop near some parts of coast in the afternoon.",
-          "pollen": "High on Tuesday and Wednesday.",
-          "solar_uv": "High, locally moderate under cloud, on Tuesday and Wednesday."
+          "issued": "2026-07-07T06:00:00+01:00",
+          "today": "Dry today with spells of sunshine through the morning. Very warm or hot with highest temperatures of 24 to 28 degrees in light westerly winds.",
+          "tonight": "Remaining dry tonight with clear skies at first. Cloud will increase from the west later. Some mist and fog will develop also. Mild with lowest temperatures of 12 to 15 degrees in a light variable breeze.",
+          "tomorrow": "Quite cloudy at first tomorrow with mist and fog patches. These will quickly clear to leave a dry day with spells of sunshine. Very warm with highest temperatures of 24 to 28 degrees, possibly higher locally, in light variable winds.",
+          "pollen": "High.",
+          "solar_uv": "High."
         }
       ]
     }
