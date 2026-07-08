@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-07-08T06:00:00+01:00",
-          "today": "Patches of mist locally, in a light southwesterly breeze. However, sunnier skies will gradually develop as low cloud burns away. Another very warm or hot day with highs of 23 to 28C.",
-          "tonight": "A dry night with clear spells, though mist and fog locally will develop overnight. Mild and humid with temperatures not falling below 12 to 16C, in a light southwest or variable breeze.",
-          "tomorrow": "Patches of mist or fog in places starting out, in a light southwesterly breeze. High summer sunshine will develop widely though, as cloud quickly lifts. Very warm or hot with highs of 24 to 28C all in a light southwest breeze.",
+          "issued": "2026-07-08T18:00:00+01:00",
+          "today": "Dry and warm this evening with light winds.",
+          "tonight": "A dry night with clear spells at first, then cloudier later with mist and fog patches developing. Mild and humid with temperatures not falling below 13 to 16 degrees, in light variable breezes.",
+          "tomorrow": "Any mist or fog will soon lift in the morning with spells of summer sunshine developing widely. Very warm or hot with highs of 23 to 27 degrees. Winds will be mostly light southwesterly but local sea breezes will develop in the afternoon.",
           "pollen": "High on Wednesday and Thursday.",
           "solar_uv": "High in sunshine on Wednesday and Thursday, otherwise moderate."
         }
