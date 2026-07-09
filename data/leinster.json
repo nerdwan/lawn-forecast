@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-07-09T05:30:00+01:00",
-          "today": "Cloudy to start in places this morning with patches of mist or fog. Clearing to be a very warm or hot day with sunny spells and highest temperatures of 20 to 25 degrees, in light westerly or variable breezes. Sea fog may encroach on Eastern coastal fringes at times today.",
-          "tonight": "Clear and dry tonight. Staying very mild and humid overnight with temperatures of 13 to 17 degrees. Light northerly or variable breezes.",
-          "tomorrow": "Another very warm or hot day with plenty of sunshine. Hazy at times, and possibly cloudier along the coasts, where sea fog may encroach at times. Highest temperatures of 24 to 28 degrees, with light northerly breezes.",
+          "issued": "2026-07-09T12:30:00+01:00",
+          "today": "Cloud breaking up this afternoon to give a very warm day with sunny spells. Highest temperatures of 21 to 27 degrees, in light westerly or variable breezes. Sea fog may encroach onto coasts at times.",
+          "tonight": "Clear and dry tonight. Mild and humid overnight lows of 13 to 17 degrees in light northerly or variable breezes.",
+          "tomorrow": "Another very warm or hot day with plenty of sunshine, hazy at times. Highest temperatures of 24 to 28 degrees, with light northerly breezes.",
           "pollen": "High.",
           "solar_uv": "Mostly high. Occasionally moderate under cloudy skies."
         }
