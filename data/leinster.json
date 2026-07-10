@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-07-09T16:30:00+01:00",
-          "today": "Warm this evening with sunny spells and light winds. Sea fog may drift onto coasts at times.",
-          "tonight": "Clear and dry tonight with a chance of mist and fog patches. Mild and humid with overnight lows of 13 to 17 degrees in light northerly or variable breezes.",
-          "tomorrow": "Another very warm or hot day with plenty of sunshine, hazy at times. Highest temperatures of 24 to 28 degrees, with light northerly breezes.",
-          "pollen": "High.",
-          "solar_uv": "Mostly high. Occasionally moderate under cloudy skies."
+          "issued": "2026-07-10T05:00:00+01:00",
+          "today": "A very warm or hot day today. Dry with hazy sunny spells though sea fog may encroach along coasts at times. Highest temperatures of 22 to 29 degrees, warmest in the south, with light, occasionally moderate north or northeast breezes.",
+          "tonight": "Dry tonight with clear spells. Temperatures will not fall below 13 to 17 degrees with light, occasionally moderate northerly breezes.",
+          "tomorrow": "Dry and sunny tomorrow with highest temperatures of 22 to 28 or 29 degrees in mostly light to moderate northerly breezes.",
+          "pollen": "High Friday and Saturday.",
+          "solar_uv": "High Friday and Saturday."
         }
       ]
     }
