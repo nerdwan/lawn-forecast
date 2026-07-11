@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-07-11T06:30:00+01:00",
-          "today": "It'll be dry, mostly sunny and very warm or hot today. Highest temperatures of 24 to 29 degrees generally, warmest in the south, in mostly moderate northerly breezes.",
-          "tonight": "Dry tonight with mostly clear skies. Lowest temperatures of 15 to 18 degrees in light, occasionally moderate, north to northeast or variable breezes.",
-          "tomorrow": "Tomorrow, Sunday, will be a dry and a mostly sunny day. Warm or very warm generally with highest temperatures of 23 to 27 degrees generally. It'll be a little cooler by the east coast, due to the moderating effect of an onshore mostly moderate, occasionally fresh, easterly wind.",
+          "issued": "2026-07-11T17:00:00+01:00",
+          "today": "Sunny and warm in most areas this evening.",
+          "tonight": "Dry tonight with mostly clear skies. Lowest temperatures of 15 to 18 degrees in light, occasionally moderate, north to northeast breezes.",
+          "tomorrow": "Tomorrow, Sunday, will be a dry and mostly sunny day. Warm or very warm with highest temperatures of 23 to 27 degrees. It'll be a little cooler by the east coast, due to an onshore moderate, occasionally fresh, easterly wind.",
           "pollen": "High on Saturday and Sunday.",
           "solar_uv": "High on Saturday and Sunday."
         }
