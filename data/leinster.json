@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-07-13T18:00:00+01:00",
-          "today": "Dry and sunny this evening a moderate northeast breeze.",
-          "tonight": "Tonight will be dry and clear, with lowest temperatures of 13 to 16 degrees, in light to moderate easterly breezes.",
-          "tomorrow": "Tomorrow will be dry and sunny. Highest temperatures of 21 to 25 degrees, warmest away from the east coast in moderate easterly winds.",
-          "pollen": "High.",
-          "solar_uv": "High."
+          "issued": "2026-07-14T05:20:00+01:00",
+          "today": "Today will be dry and sunny. Highest temperatures of 22 to 26 degrees, a little cooler near the east coast due to a light to moderate east to northeast breeze.",
+          "tonight": "Tonight will be dry and warm with clear spells. Lowest temperatures of 14 to 19 degrees with a light to moderate east to northeast breeze.",
+          "tomorrow": "Tomorrow will be dry and sunny. It will be very warm or hot in most places with temperatures reaching 24 to 29 degrees, but a little cooler near the east coast as a light to moderate easterly breeze continues.",
+          "pollen": "High on Tuesday and Wednesday.",
+          "solar_uv": "High on Tuesday and Wednesday."
         }
       ]
     }
