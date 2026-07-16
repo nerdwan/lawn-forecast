@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-07-16T07:00:00+01:00",
-          "today": "Today will be very warm and dry across Leinster with plenty of sunshine. Highest temperatures of 22 to 27 or 28 degrees with light northeast or variable breezes. It will be coolest along the east coast and warmest in the midlands.",
+          "issued": "2026-07-16T17:00:00+01:00",
+          "today": "Very warm and dry across Leinster with plenty of sunshine this afternoon and evening,coolest along the east coast and warmest in the midlands, with light northeast or variable breezes.",
           "tonight": "Tonight will be dry with clear spells and possibly some patches of mist and fog. Lowest temperatures of 12 to 15 degrees in light to moderate northerly winds.",
           "tomorrow": "Friday will be dry with sunny spells and light to moderate northerly breezes. Highest temperatures of 24 to 28 degrees, warmest in the south of the region.",
-          "pollen": "High today and on Friday",
-          "solar_uv": "High today and on Friday"
+          "pollen": "High on Friday and Saturday.",
+          "solar_uv": "High on Friday and Saturday."
         }
       ]
     }
