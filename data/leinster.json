@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-07-18T05:30:00+01:00",
-          "today": "Today will be sunny and warm in a light to moderate northerly breeze. Highest temperatures from 22 degrees in the north of the region to 26 degrees further south.",
-          "tonight": "Tonight will be dry and clear with isolated mist patches possible. Fresher than recent nights with lowest temperatures of 10 to 12 degrees in a light northerly or variable breeze.",
-          "tomorrow": "Tomorrow will be another dry and warm day with hazy sunshine. Highest temperatures of 23 to 26 degrees in a light northerly breeze.",
-          "pollen": "High on Saturday and Sunday.",
-          "solar_uv": "High on Saturday and Sunday."
+          "issued": "2026-07-18T16:00:00+01:00",
+          "today": "Warm and sunny this evening with light or moderate north to northeasterly winds.",
+          "tonight": "Tonight will be dry and clear with isolated mist patches possible. Cooler than recent nights, with lowest temperatures of 10 to 12 degrees in a light northerly or variable breeze.",
+          "tomorrow": "Tomorrow will be another warm and dry day with hazy sunshine. Highest temperatures of 23 to 26 degrees in a light or moderate north to northeasterly breeze.",
+          "pollen": "High on Sunday and Monday.",
+          "solar_uv": "High on Sunday and Monday."
         }
       ]
     }
