@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-07-19T05:00:00+01:00",
-          "today": "Dry today with sunshine, hazy at times. Highest temperatures of 20 to 26 degrees in light, occasionally moderate northerly breezes.",
-          "tonight": "Dry with long clear spells tonight. Lowest temperatures of 8 to 13 degrees in mostly light northerly breezes.",
-          "tomorrow": "Turning rather cloudy over the northern half of the province tomorrow morning with a few spots of drizzle possible. Dry with sunny spells further south. Through the afternoon and evening, the cloud will break up to sunny spells. Highest temperatures of 20 to 24 degrees with light northerly breezes.",
-          "pollen": "High Sunday and Monday.",
-          "solar_uv": "High Sunday and Monday."
+          "issued": "2026-07-19T16:00:00+01:00",
+          "today": "Dry, warm and sunny this evening in light, occasionally moderate north to northeasterly winds.",
+          "tonight": "Dry with long clear spells tonight. Lowest temperatures of 8 to 13 degrees in mostly light northerly winds.",
+          "tomorrow": "It will be a rather cloudy start to tomorrow over the northern half of the province with a few spots of drizzle possible. Dry with sunny spells further south. Through the afternoon and evening, the cloud will break up and sunny spells will develop more widely. Highest temperatures of 20 to 24 degrees with light northerly winds.",
+          "pollen": "High on Monday and Tuesday.",
+          "solar_uv": "Moderate to high on Monday and Tuesday."
         }
       ]
     }
