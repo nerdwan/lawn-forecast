@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-07-22T17:30:00+01:00",
-          "today": "Dry with sunny spells this evening.",
-          "tonight": "Dry with clear spells tonight. It\u2019ll turn cloudier overnight. Lowest temperatures of 10 to 13 degrees in light northerly or variable breezes.",
-          "tomorrow": "Rather cloudy to begin tomorrow, Thursday. Sunny spells will develop more widely as the day goes on. Highest temperatures of 21 to 23 degrees in a light, occasionally moderate, northerly breeze.",
-          "pollen": "High.",
-          "solar_uv": "Mostly high today; Moderate to high tomorrow."
+          "issued": "2026-07-23T05:30:00+01:00",
+          "today": "Today will be dry with a mix of cloud and sunny spells. Highest temperatures of 19 to 23 degrees, warmest in the south, with light north to northwest winds.",
+          "tonight": "Tonight will be dry with a mix of cloud and clear spells. Lowest temperatures of 11 to 14 degrees with light and variable winds.",
+          "tomorrow": "Tomorrow will start mostly cloudy but some sunny spells will develop as the day goes on, turning hazy later. Highest temperatures of 20 to 24 degrees, warmest in the south, with a light to moderate west to northwest breeze.",
+          "pollen": "High on Thursday and Friday.",
+          "solar_uv": "High or Moderate on Thursday and Friday."
         }
       ]
     }
