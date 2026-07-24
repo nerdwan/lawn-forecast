@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-07-24T05:30:00+01:00",
-          "today": "Today will start mostly cloudy but some sunny spells will develop as the day goes on, turning hazy later. Highest temperatures of 19 to 24 degrees, warmest in the south, with a light to moderate west to northwest breeze.",
-          "tonight": "Dry tonight with a mix of cloud and clear spells. Lowest temperatures of 12 to 15 degrees in light to moderate westerly winds, fresh at times in the northwest.",
-          "tomorrow": "Tomorrow will start out bright before cloud builds from the west with scattered outbreaks of drizzle possible through the afternoon and evening. Some hill mist also. A cooler day with highest temperatures of 16 to 21 degrees. Breezier than recent days with a moderate and occasionally fresh westerly wind.",
+          "issued": "2026-07-24T12:00:00+01:00",
+          "today": "Today will start mostly cloudy but some sunny spells will develop as the day goes on. Highest temperatures of 19 to 24 degrees, warmest in the south, with a light to moderate west to northwest breeze.",
+          "tonight": "Dry tonight with a mix of cloud and clear spells. Lowest temperatures of 12 to 15 degrees in light to moderate westerly winds.",
+          "tomorrow": "Tomorrow will start out bright before cloud builds from the west with scattered outbreaks of light rain or drizzle possible through the afternoon and evening. A cooler day with highest temperatures of 16 to 21 degrees. Breezier than recent days with a moderate and occasionally fresh westerly wind.",
           "pollen": "Moderate on Friday and Saturday.",
-          "solar_uv": "Moderate to high on Friday and low but high in any sunny spells on Saturday."
+          "solar_uv": "Moderate to high on Friday and low on Saturday."
         }
       ]
     }
