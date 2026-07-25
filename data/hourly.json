@@ -1,5 +1,5 @@
 {
-  "issued": "2026-07-25T05:56:47.668290+00:00",
+  "issued": "2026-07-25T10:44:57.535720+00:00",
   "location": {
     "lat": 53.7263,
     "long": -6.8779,
@@ -7,75 +7,35 @@
   },
   "hours": [
     {
-      "time": "2026-07-25T06:00:00Z",
-      "temp_c": 16.2,
-      "wind_kmh": 24.8,
-      "cloud_pct": 99.8,
-      "humidity_pct": 68.4,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-25T07:00:00Z",
-      "temp_c": 16.7,
-      "wind_kmh": 23.4,
-      "cloud_pct": 100.0,
-      "humidity_pct": 69.2,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-25T08:00:00Z",
-      "temp_c": 16.2,
-      "wind_kmh": 23.4,
-      "cloud_pct": 100.0,
-      "humidity_pct": 74.7,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-25T09:00:00Z",
-      "temp_c": 15.7,
-      "wind_kmh": 20.9,
-      "cloud_pct": 100.0,
-      "humidity_pct": 83.7,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-25T10:00:00Z",
-      "temp_c": 15.4,
-      "wind_kmh": 19.4,
-      "cloud_pct": 100.0,
-      "humidity_pct": 89.9,
-      "precip_mm": 0.0
-    },
-    {
       "time": "2026-07-25T11:00:00Z",
-      "temp_c": 15.7,
-      "wind_kmh": 19.4,
+      "temp_c": 15.4,
+      "wind_kmh": 19.8,
       "cloud_pct": 100.0,
-      "humidity_pct": 91.4,
+      "humidity_pct": 93.6,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-25T12:00:00Z",
-      "temp_c": 16.0,
-      "wind_kmh": 18.7,
+      "temp_c": 15.6,
+      "wind_kmh": 18.4,
       "cloud_pct": 100.0,
-      "humidity_pct": 91.5,
+      "humidity_pct": 94.1,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-25T13:00:00Z",
-      "temp_c": 16.1,
-      "wind_kmh": 18.4,
+      "temp_c": 15.8,
+      "wind_kmh": 17.3,
       "cloud_pct": 100.0,
-      "humidity_pct": 92.1,
+      "humidity_pct": 93.6,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-25T14:00:00Z",
-      "temp_c": 16.1,
-      "wind_kmh": 17.3,
+      "temp_c": 16.0,
+      "wind_kmh": 16.9,
       "cloud_pct": 100.0,
-      "humidity_pct": 92.9,
+      "humidity_pct": 92.6,
       "precip_mm": 0.0
     },
     {
@@ -83,775 +43,871 @@
       "temp_c": 16.1,
       "wind_kmh": 17.6,
       "cloud_pct": 100.0,
-      "humidity_pct": 92.1,
+      "humidity_pct": 92.2,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-25T16:00:00Z",
-      "temp_c": 16.1,
-      "wind_kmh": 17.6,
+      "temp_c": 15.9,
+      "wind_kmh": 19.1,
       "cloud_pct": 100.0,
-      "humidity_pct": 92.1,
+      "humidity_pct": 92.4,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-25T17:00:00Z",
-      "temp_c": 15.6,
-      "wind_kmh": 17.3,
-      "cloud_pct": 88.3,
-      "humidity_pct": 93.0,
+      "temp_c": 15.9,
+      "wind_kmh": 14.8,
+      "cloud_pct": 27.1,
+      "humidity_pct": 91.1,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-25T18:00:00Z",
-      "temp_c": 16.7,
-      "wind_kmh": 16.2,
+      "temp_c": 17.0,
+      "wind_kmh": 15.1,
       "cloud_pct": 100.0,
-      "humidity_pct": 84.6,
+      "humidity_pct": 85.4,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-25T19:00:00Z",
-      "temp_c": 16.4,
+      "temp_c": 16.6,
       "wind_kmh": 12.6,
-      "cloud_pct": 100.0,
-      "humidity_pct": 88.2,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-25T20:00:00Z",
-      "temp_c": 16.4,
-      "wind_kmh": 15.1,
       "cloud_pct": 100.0,
       "humidity_pct": 87.6,
       "precip_mm": 0.0
     },
     {
+      "time": "2026-07-25T20:00:00Z",
+      "temp_c": 16.6,
+      "wind_kmh": 13.3,
+      "cloud_pct": 99.9,
+      "humidity_pct": 86.6,
+      "precip_mm": 0.0
+    },
+    {
       "time": "2026-07-25T21:00:00Z",
-      "temp_c": 16.1,
-      "wind_kmh": 11.5,
+      "temp_c": 16.4,
+      "wind_kmh": 12.2,
       "cloud_pct": 100.0,
-      "humidity_pct": 87.3,
+      "humidity_pct": 86.0,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-25T22:00:00Z",
-      "temp_c": 16.0,
-      "wind_kmh": 11.5,
+      "temp_c": 16.4,
+      "wind_kmh": 14.8,
       "cloud_pct": 100.0,
-      "humidity_pct": 87.2,
+      "humidity_pct": 85.6,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-25T23:00:00Z",
       "temp_c": 16.2,
-      "wind_kmh": 20.2,
+      "wind_kmh": 21.2,
       "cloud_pct": 100.0,
-      "humidity_pct": 91.3,
+      "humidity_pct": 91.9,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-26T00:00:00Z",
-      "temp_c": 16.0,
-      "wind_kmh": 20.2,
+      "temp_c": 15.9,
+      "wind_kmh": 21.2,
       "cloud_pct": 100.0,
-      "humidity_pct": 94.0,
+      "humidity_pct": 94.5,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-26T01:00:00Z",
-      "temp_c": 16.0,
-      "wind_kmh": 22.0,
+      "temp_c": 15.7,
+      "wind_kmh": 22.7,
       "cloud_pct": 100.0,
-      "humidity_pct": 92.7,
+      "humidity_pct": 93.9,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-26T02:00:00Z",
-      "temp_c": 15.5,
+      "temp_c": 15.4,
       "wind_kmh": 22.0,
       "cloud_pct": 100.0,
-      "humidity_pct": 95.0,
+      "humidity_pct": 94.3,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-26T03:00:00Z",
-      "temp_c": 15.3,
-      "wind_kmh": 19.8,
+      "temp_c": 15.2,
+      "wind_kmh": 20.9,
       "cloud_pct": 100.0,
-      "humidity_pct": 94.1,
+      "humidity_pct": 93.8,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-26T04:00:00Z",
-      "temp_c": 14.7,
-      "wind_kmh": 23.0,
-      "cloud_pct": 99.9,
-      "humidity_pct": 90.6,
+      "temp_c": 14.9,
+      "wind_kmh": 18.0,
+      "cloud_pct": 100.0,
+      "humidity_pct": 92.6,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-26T05:00:00Z",
-      "temp_c": 13.9,
-      "wind_kmh": 21.2,
+      "temp_c": 14.4,
+      "wind_kmh": 23.8,
       "cloud_pct": 99.9,
-      "humidity_pct": 90.0,
+      "humidity_pct": 89.1,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-26T06:00:00Z",
-      "temp_c": 13.5,
-      "wind_kmh": 19.8,
+      "temp_c": 13.8,
+      "wind_kmh": 20.2,
       "cloud_pct": 100.0,
-      "humidity_pct": 88.8,
+      "humidity_pct": 88.5,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-26T07:00:00Z",
-      "temp_c": 13.5,
-      "wind_kmh": 17.6,
-      "cloud_pct": 100.0,
-      "humidity_pct": 90.3,
+      "temp_c": 13.4,
+      "wind_kmh": 18.0,
+      "cloud_pct": 36.1,
+      "humidity_pct": 88.6,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-26T08:00:00Z",
-      "temp_c": 14.0,
-      "wind_kmh": 21.6,
+      "temp_c": 14.2,
+      "wind_kmh": 20.9,
       "cloud_pct": 100.0,
-      "humidity_pct": 87.3,
+      "humidity_pct": 85.3,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-26T09:00:00Z",
       "temp_c": 13.7,
-      "wind_kmh": 18.4,
-      "cloud_pct": 100.0,
-      "humidity_pct": 90.0,
+      "wind_kmh": 18.7,
+      "cloud_pct": 99.9,
+      "humidity_pct": 90.1,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-26T10:00:00Z",
-      "temp_c": 15.4,
-      "wind_kmh": 23.4,
+      "temp_c": 14.8,
+      "wind_kmh": 20.5,
       "cloud_pct": 100.0,
-      "humidity_pct": 84.4,
+      "humidity_pct": 86.2,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-26T11:00:00Z",
-      "temp_c": 15.6,
-      "wind_kmh": 23.4,
-      "cloud_pct": 91.7,
-      "humidity_pct": 82.7,
+      "temp_c": 16.2,
+      "wind_kmh": 21.6,
+      "cloud_pct": 82.9,
+      "humidity_pct": 77.8,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-26T12:00:00Z",
-      "temp_c": 15.6,
-      "wind_kmh": 18.0,
-      "cloud_pct": 97.1,
-      "humidity_pct": 81.2,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-26T13:00:00Z",
-      "temp_c": 16.4,
-      "wind_kmh": 16.6,
-      "cloud_pct": 99.7,
-      "humidity_pct": 76.8,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-26T14:00:00Z",
-      "temp_c": 15.8,
-      "wind_kmh": 16.6,
-      "cloud_pct": 92.5,
-      "humidity_pct": 77.2,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-26T15:00:00Z",
-      "temp_c": 17.6,
-      "wind_kmh": 18.4,
-      "cloud_pct": 100.0,
-      "humidity_pct": 67.7,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-26T16:00:00Z",
-      "temp_c": 17.2,
-      "wind_kmh": 20.2,
-      "cloud_pct": 100.0,
-      "humidity_pct": 69.5,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-26T17:00:00Z",
-      "temp_c": 15.2,
-      "wind_kmh": 16.6,
-      "cloud_pct": 29.1,
-      "humidity_pct": 74.4,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-26T18:00:00Z",
-      "temp_c": 16.0,
-      "wind_kmh": 18.0,
-      "cloud_pct": 100.0,
-      "humidity_pct": 74.0,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-26T19:00:00Z",
       "temp_c": 15.5,
-      "wind_kmh": 18.7,
-      "cloud_pct": 99.0,
-      "humidity_pct": 74.7,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-26T20:00:00Z",
-      "temp_c": 15.4,
-      "wind_kmh": 18.4,
+      "wind_kmh": 20.5,
       "cloud_pct": 100.0,
-      "humidity_pct": 74.3,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-26T21:00:00Z",
-      "temp_c": 15.1,
-      "wind_kmh": 17.6,
-      "cloud_pct": 100.0,
-      "humidity_pct": 75.6,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-26T22:00:00Z",
-      "temp_c": 14.8,
-      "wind_kmh": 14.8,
-      "cloud_pct": 99.6,
-      "humidity_pct": 78.4,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-26T23:00:00Z",
-      "temp_c": 14.7,
-      "wind_kmh": 13.0,
-      "cloud_pct": 99.9,
       "humidity_pct": 79.2,
       "precip_mm": 0.0
     },
     {
+      "time": "2026-07-26T13:00:00Z",
+      "temp_c": 14.8,
+      "wind_kmh": 18.7,
+      "cloud_pct": 100.0,
+      "humidity_pct": 79.9,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-26T14:00:00Z",
+      "temp_c": 16.3,
+      "wind_kmh": 21.6,
+      "cloud_pct": 100.0,
+      "humidity_pct": 72.7,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-26T15:00:00Z",
+      "temp_c": 15.7,
+      "wind_kmh": 20.5,
+      "cloud_pct": 100.0,
+      "humidity_pct": 75.4,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-26T16:00:00Z",
+      "temp_c": 16.6,
+      "wind_kmh": 19.1,
+      "cloud_pct": 67.0,
+      "humidity_pct": 71.5,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-26T17:00:00Z",
+      "temp_c": 17.7,
+      "wind_kmh": 20.9,
+      "cloud_pct": 95.2,
+      "humidity_pct": 66.3,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-26T18:00:00Z",
+      "temp_c": 17.1,
+      "wind_kmh": 19.4,
+      "cloud_pct": 100.0,
+      "humidity_pct": 66.8,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-26T19:00:00Z",
+      "temp_c": 15.9,
+      "wind_kmh": 16.2,
+      "cloud_pct": 100.0,
+      "humidity_pct": 75.5,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-26T20:00:00Z",
+      "temp_c": 15.5,
+      "wind_kmh": 15.8,
+      "cloud_pct": 99.6,
+      "humidity_pct": 74.1,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-26T21:00:00Z",
+      "temp_c": 14.9,
+      "wind_kmh": 13.0,
+      "cloud_pct": 99.3,
+      "humidity_pct": 80.3,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-26T22:00:00Z",
+      "temp_c": 14.3,
+      "wind_kmh": 10.4,
+      "cloud_pct": 100.0,
+      "humidity_pct": 77.7,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-26T23:00:00Z",
+      "temp_c": 14.1,
+      "wind_kmh": 9.4,
+      "cloud_pct": 100.0,
+      "humidity_pct": 79.7,
+      "precip_mm": 0.0
+    },
+    {
       "time": "2026-07-27T00:00:00Z",
-      "temp_c": 14.7,
+      "temp_c": 14.2,
       "wind_kmh": 14.0,
-      "cloud_pct": 59.2,
-      "humidity_pct": 77.2,
+      "cloud_pct": 99.8,
+      "humidity_pct": 80.0,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T01:00:00Z",
-      "temp_c": 13.5,
-      "wind_kmh": 16.9,
-      "cloud_pct": 15.0,
-      "humidity_pct": 79.0,
+      "temp_c": 14.0,
+      "wind_kmh": 14.8,
+      "cloud_pct": 79.6,
+      "humidity_pct": 80.3,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T02:00:00Z",
-      "temp_c": 12.7,
-      "wind_kmh": 15.8,
-      "cloud_pct": 28.5,
-      "humidity_pct": 83.8,
+      "temp_c": 13.5,
+      "wind_kmh": 15.1,
+      "cloud_pct": 36.2,
+      "humidity_pct": 78.4,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T03:00:00Z",
-      "temp_c": 12.7,
-      "wind_kmh": 14.4,
-      "cloud_pct": 55.7,
+      "temp_c": 11.9,
+      "wind_kmh": 10.8,
+      "cloud_pct": 15.6,
       "humidity_pct": 85.7,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T04:00:00Z",
-      "temp_c": 13.1,
-      "wind_kmh": 13.3,
-      "cloud_pct": 94.5,
-      "humidity_pct": 87.1,
+      "temp_c": 11.4,
+      "wind_kmh": 10.8,
+      "cloud_pct": 100.0,
+      "humidity_pct": 90.2,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T05:00:00Z",
-      "temp_c": 13.6,
-      "wind_kmh": 15.1,
-      "cloud_pct": 60.2,
-      "humidity_pct": 86.8,
+      "temp_c": 12.5,
+      "wind_kmh": 10.4,
+      "cloud_pct": 100.0,
+      "humidity_pct": 90.3,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T06:00:00Z",
-      "temp_c": 14.4,
-      "wind_kmh": 16.9,
-      "cloud_pct": 89.5,
-      "humidity_pct": 84.5,
+      "temp_c": 13.4,
+      "wind_kmh": 10.4,
+      "cloud_pct": 100.0,
+      "humidity_pct": 88.8,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T07:00:00Z",
-      "temp_c": 15.1,
-      "wind_kmh": 17.3,
-      "cloud_pct": 98.8,
-      "humidity_pct": 81.5,
+      "temp_c": 13.8,
+      "wind_kmh": 10.4,
+      "cloud_pct": 100.0,
+      "humidity_pct": 86.8,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T08:00:00Z",
-      "temp_c": 15.6,
-      "wind_kmh": 18.7,
-      "cloud_pct": 98.8,
-      "humidity_pct": 81.0,
-      "precip_mm": 0.0
+      "temp_c": 14.0,
+      "wind_kmh": 12.2,
+      "cloud_pct": 100.0,
+      "humidity_pct": 88.3,
+      "precip_mm": 0.1
     },
     {
       "time": "2026-07-27T09:00:00Z",
-      "temp_c": 17.0,
-      "wind_kmh": 22.7,
-      "cloud_pct": 98.8,
-      "humidity_pct": 78.9,
+      "temp_c": 14.5,
+      "wind_kmh": 15.1,
+      "cloud_pct": 100.0,
+      "humidity_pct": 89.6,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T10:00:00Z",
-      "temp_c": 18.1,
-      "wind_kmh": 25.2,
-      "cloud_pct": 98.8,
-      "humidity_pct": 79.3,
+      "temp_c": 15.0,
+      "wind_kmh": 16.2,
+      "cloud_pct": 100.0,
+      "humidity_pct": 91.7,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T11:00:00Z",
-      "temp_c": 19.2,
-      "wind_kmh": 28.1,
-      "cloud_pct": 98.8,
-      "humidity_pct": 78.3,
+      "temp_c": 15.6,
+      "wind_kmh": 15.8,
+      "cloud_pct": 100.0,
+      "humidity_pct": 94.6,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T12:00:00Z",
-      "temp_c": 20.2,
-      "wind_kmh": 27.4,
-      "cloud_pct": 78.8,
-      "humidity_pct": 74.1,
+      "temp_c": 16.1,
+      "wind_kmh": 12.6,
+      "cloud_pct": 99.2,
+      "humidity_pct": 98.4,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T13:00:00Z",
-      "temp_c": 21.8,
-      "wind_kmh": 29.2,
-      "cloud_pct": 69.2,
-      "humidity_pct": 64.8,
+      "temp_c": 22.1,
+      "wind_kmh": 30.2,
+      "cloud_pct": 83.2,
+      "humidity_pct": 60.2,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T14:00:00Z",
-      "temp_c": 22.4,
-      "wind_kmh": 27.4,
-      "cloud_pct": 75.2,
-      "humidity_pct": 60.5,
+      "temp_c": 22.7,
+      "wind_kmh": 29.9,
+      "cloud_pct": 78.9,
+      "humidity_pct": 55.6,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T15:00:00Z",
-      "temp_c": 22.8,
-      "wind_kmh": 28.1,
-      "cloud_pct": 81.3,
-      "humidity_pct": 57.8,
+      "temp_c": 22.6,
+      "wind_kmh": 29.2,
+      "cloud_pct": 91.4,
+      "humidity_pct": 56.0,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T16:00:00Z",
-      "temp_c": 22.6,
-      "wind_kmh": 26.6,
-      "cloud_pct": 98.5,
-      "humidity_pct": 58.3,
+      "temp_c": 22.1,
+      "wind_kmh": 27.7,
+      "cloud_pct": 90.4,
+      "humidity_pct": 57.6,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T17:00:00Z",
-      "temp_c": 21.8,
-      "wind_kmh": 24.5,
-      "cloud_pct": 95.4,
-      "humidity_pct": 62.7,
+      "temp_c": 21.2,
+      "wind_kmh": 27.4,
+      "cloud_pct": 98.8,
+      "humidity_pct": 61.9,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T18:00:00Z",
-      "temp_c": 20.9,
-      "wind_kmh": 23.8,
-      "cloud_pct": 98.8,
-      "humidity_pct": 69.7,
+      "temp_c": 20.4,
+      "wind_kmh": 26.3,
+      "cloud_pct": 88.4,
+      "humidity_pct": 68.7,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T19:00:00Z",
-      "temp_c": 20.1,
-      "wind_kmh": 21.6,
-      "cloud_pct": 98.0,
-      "humidity_pct": 74.7,
+      "temp_c": 19.6,
+      "wind_kmh": 22.3,
+      "cloud_pct": 89.8,
+      "humidity_pct": 72.7,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T20:00:00Z",
-      "temp_c": 19.3,
-      "wind_kmh": 20.5,
-      "cloud_pct": 96.1,
-      "humidity_pct": 78.8,
+      "temp_c": 18.9,
+      "wind_kmh": 19.8,
+      "cloud_pct": 98.2,
+      "humidity_pct": 76.6,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T21:00:00Z",
-      "temp_c": 18.7,
-      "wind_kmh": 16.9,
+      "temp_c": 18.3,
+      "wind_kmh": 18.0,
       "cloud_pct": 98.8,
       "humidity_pct": 80.7,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T22:00:00Z",
-      "temp_c": 18.7,
-      "wind_kmh": 18.4,
-      "cloud_pct": 98.8,
-      "humidity_pct": 80.7,
+      "temp_c": 17.7,
+      "wind_kmh": 15.5,
+      "cloud_pct": 88.7,
+      "humidity_pct": 84.1,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-27T23:00:00Z",
-      "temp_c": 18.4,
-      "wind_kmh": 18.0,
-      "cloud_pct": 98.8,
-      "humidity_pct": 82.2,
+      "temp_c": 17.0,
+      "wind_kmh": 15.1,
+      "cloud_pct": 91.3,
+      "humidity_pct": 88.6,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-28T00:00:00Z",
-      "temp_c": 18.1,
-      "wind_kmh": 17.3,
-      "cloud_pct": 89.7,
-      "humidity_pct": 83.9,
+      "temp_c": 17.0,
+      "wind_kmh": 16.6,
+      "cloud_pct": 96.2,
+      "humidity_pct": 88.8,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-28T01:00:00Z",
-      "temp_c": 16.9,
-      "wind_kmh": 15.5,
-      "cloud_pct": 98.0,
-      "humidity_pct": 90.7,
+      "temp_c": 16.7,
+      "wind_kmh": 18.7,
+      "cloud_pct": 98.5,
+      "humidity_pct": 89.9,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-28T02:00:00Z",
       "temp_c": 17.1,
-      "wind_kmh": 15.5,
+      "wind_kmh": 19.1,
       "cloud_pct": 98.8,
-      "humidity_pct": 90.4,
+      "humidity_pct": 88.0,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-28T03:00:00Z",
       "temp_c": 17.3,
-      "wind_kmh": 15.8,
+      "wind_kmh": 19.4,
       "cloud_pct": 98.8,
-      "humidity_pct": 89.9,
+      "humidity_pct": 87.3,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-28T04:00:00Z",
-      "temp_c": 17.3,
-      "wind_kmh": 16.2,
+      "temp_c": 17.4,
+      "wind_kmh": 19.8,
       "cloud_pct": 98.8,
-      "humidity_pct": 90.0,
+      "humidity_pct": 87.1,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-28T05:00:00Z",
-      "temp_c": 17.7,
-      "wind_kmh": 18.0,
+      "temp_c": 17.5,
+      "wind_kmh": 22.0,
       "cloud_pct": 98.8,
-      "humidity_pct": 88.4,
+      "humidity_pct": 85.0,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-28T06:00:00Z",
-      "temp_c": 17.9,
-      "wind_kmh": 17.6,
+      "temp_c": 17.8,
+      "wind_kmh": 23.8,
       "cloud_pct": 98.8,
-      "humidity_pct": 88.3,
+      "humidity_pct": 82.8,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-28T07:00:00Z",
+      "temp_c": 18.1,
+      "wind_kmh": 22.7,
+      "cloud_pct": 98.8,
+      "humidity_pct": 80.8,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-28T08:00:00Z",
+      "temp_c": 18.8,
+      "wind_kmh": 25.6,
+      "cloud_pct": 98.8,
+      "humidity_pct": 77.9,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-28T09:00:00Z",
-      "temp_c": 20.7,
-      "wind_kmh": 24.5,
-      "cloud_pct": 97.6,
-      "humidity_pct": 72.7,
+      "temp_c": 19.6,
+      "wind_kmh": 32.0,
+      "cloud_pct": 98.8,
+      "humidity_pct": 76.1,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-28T10:00:00Z",
+      "temp_c": 19.8,
+      "wind_kmh": 32.4,
+      "cloud_pct": 98.8,
+      "humidity_pct": 76.7,
+      "precip_mm": 0.1
+    },
+    {
+      "time": "2026-07-28T11:00:00Z",
+      "temp_c": 19.8,
+      "wind_kmh": 31.3,
+      "cloud_pct": 61.8,
+      "humidity_pct": 78.0,
       "precip_mm": 0.0
     },
     {
       "time": "2026-07-28T12:00:00Z",
-      "temp_c": 22.2,
-      "wind_kmh": 25.6,
-      "cloud_pct": 96.6,
-      "humidity_pct": 65.5,
-      "precip_mm": 0.27
+      "temp_c": 21.8,
+      "wind_kmh": 32.0,
+      "cloud_pct": 38.8,
+      "humidity_pct": 68.9,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-28T13:00:00Z",
+      "temp_c": 22.3,
+      "wind_kmh": 29.2,
+      "cloud_pct": 18.2,
+      "humidity_pct": 66.1,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-28T14:00:00Z",
+      "temp_c": 23.2,
+      "wind_kmh": 28.4,
+      "cloud_pct": 53.2,
+      "humidity_pct": 58.5,
+      "precip_mm": 0.0
     },
     {
       "time": "2026-07-28T15:00:00Z",
-      "temp_c": 23.2,
-      "wind_kmh": 27.0,
-      "cloud_pct": 76.1,
-      "humidity_pct": 63.1,
-      "precip_mm": 0.23
-    },
-    {
-      "time": "2026-07-28T18:00:00Z",
-      "temp_c": 21.6,
-      "wind_kmh": 21.2,
-      "cloud_pct": 57.9,
-      "humidity_pct": 71.4,
-      "precip_mm": 0.33
-    },
-    {
-      "time": "2026-07-28T21:00:00Z",
-      "temp_c": 18.7,
-      "wind_kmh": 11.5,
-      "cloud_pct": 98.8,
-      "humidity_pct": 90.3,
-      "precip_mm": 0.5
-    },
-    {
-      "time": "2026-07-29T00:00:00Z",
-      "temp_c": 17.3,
-      "wind_kmh": 11.5,
-      "cloud_pct": 76.6,
-      "humidity_pct": 95.9,
+      "temp_c": 23.3,
+      "wind_kmh": 28.4,
+      "cloud_pct": 55.1,
+      "humidity_pct": 56.2,
       "precip_mm": 0.0
     },
     {
-      "time": "2026-07-29T03:00:00Z",
-      "temp_c": 15.3,
-      "wind_kmh": 14.0,
-      "cloud_pct": 86.2,
-      "humidity_pct": 95.6,
+      "time": "2026-07-28T16:00:00Z",
+      "temp_c": 22.9,
+      "wind_kmh": 27.4,
+      "cloud_pct": 94.9,
+      "humidity_pct": 56.4,
       "precip_mm": 0.0
     },
     {
-      "time": "2026-07-29T06:00:00Z",
-      "temp_c": 15.5,
-      "wind_kmh": 14.0,
-      "cloud_pct": 98.8,
-      "humidity_pct": 95.8,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-29T09:00:00Z",
-      "temp_c": 18.0,
-      "wind_kmh": 17.3,
-      "cloud_pct": 98.8,
-      "humidity_pct": 86.7,
-      "precip_mm": 0.33
-    },
-    {
-      "time": "2026-07-29T12:00:00Z",
-      "temp_c": 19.9,
-      "wind_kmh": 15.5,
-      "cloud_pct": 54.2,
-      "humidity_pct": 79.0,
-      "precip_mm": 0.4
-    },
-    {
-      "time": "2026-07-29T15:00:00Z",
-      "temp_c": 19.7,
-      "wind_kmh": 16.2,
-      "cloud_pct": 92.1,
-      "humidity_pct": 76.6,
-      "precip_mm": 0.73
-    },
-    {
-      "time": "2026-07-29T18:00:00Z",
-      "temp_c": 17.5,
-      "wind_kmh": 15.5,
-      "cloud_pct": 89.9,
-      "humidity_pct": 90.3,
-      "precip_mm": 0.17
-    },
-    {
-      "time": "2026-07-29T21:00:00Z",
-      "temp_c": 15.0,
-      "wind_kmh": 14.0,
-      "cloud_pct": 28.0,
-      "humidity_pct": 95.3,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-30T00:00:00Z",
-      "temp_c": 12.4,
-      "wind_kmh": 11.2,
-      "cloud_pct": 3.4,
-      "humidity_pct": 94.1,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-30T03:00:00Z",
-      "temp_c": 11.1,
-      "wind_kmh": 12.6,
-      "cloud_pct": 2.6,
-      "humidity_pct": 96.3,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-30T06:00:00Z",
-      "temp_c": 11.3,
-      "wind_kmh": 15.1,
-      "cloud_pct": 5.3,
-      "humidity_pct": 96.4,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-30T09:00:00Z",
-      "temp_c": 15.2,
-      "wind_kmh": 20.9,
-      "cloud_pct": 22.6,
-      "humidity_pct": 80.3,
-      "precip_mm": 0.23
-    },
-    {
-      "time": "2026-07-30T12:00:00Z",
-      "temp_c": 17.7,
-      "wind_kmh": 20.5,
-      "cloud_pct": 35.1,
-      "humidity_pct": 68.3,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-30T18:00:00Z",
-      "temp_c": 16.8,
-      "wind_kmh": 20.2,
-      "cloud_pct": 19.7,
-      "humidity_pct": 60.7,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-31T00:00:00Z",
-      "temp_c": 11.1,
-      "wind_kmh": 9.4,
-      "cloud_pct": 10.3,
-      "humidity_pct": 90.2,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-31T06:00:00Z",
-      "temp_c": 10.8,
-      "wind_kmh": 14.4,
-      "cloud_pct": 8.2,
-      "humidity_pct": 90.7,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-07-31T12:00:00Z",
-      "temp_c": 16.9,
-      "wind_kmh": 22.0,
-      "cloud_pct": 41.2,
-      "humidity_pct": 59.9,
-      "precip_mm": 0.1
-    },
-    {
-      "time": "2026-07-31T18:00:00Z",
-      "temp_c": 16.1,
-      "wind_kmh": 22.3,
-      "cloud_pct": 18.1,
+      "time": "2026-07-28T17:00:00Z",
+      "temp_c": 21.5,
+      "wind_kmh": 26.3,
+      "cloud_pct": 69.9,
       "humidity_pct": 59.4,
       "precip_mm": 0.0
     },
     {
-      "time": "2026-08-01T00:00:00Z",
+      "time": "2026-07-28T18:00:00Z",
+      "temp_c": 20.8,
+      "wind_kmh": 24.1,
+      "cloud_pct": 53.8,
+      "humidity_pct": 60.9,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-28T21:00:00Z",
+      "temp_c": 17.6,
+      "wind_kmh": 16.9,
+      "cloud_pct": 41.0,
+      "humidity_pct": 76.7,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-29T00:00:00Z",
+      "temp_c": 15.7,
+      "wind_kmh": 15.5,
+      "cloud_pct": 73.5,
+      "humidity_pct": 88.4,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-29T03:00:00Z",
+      "temp_c": 14.6,
+      "wind_kmh": 13.0,
+      "cloud_pct": 86.1,
+      "humidity_pct": 95.4,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-29T06:00:00Z",
+      "temp_c": 15.3,
+      "wind_kmh": 16.2,
+      "cloud_pct": 92.3,
+      "humidity_pct": 91.2,
+      "precip_mm": 0.1
+    },
+    {
+      "time": "2026-07-29T09:00:00Z",
+      "temp_c": 16.3,
+      "wind_kmh": 6.8,
+      "cloud_pct": 98.8,
+      "humidity_pct": 84.1,
+      "precip_mm": 0.37
+    },
+    {
+      "time": "2026-07-29T12:00:00Z",
+      "temp_c": 16.5,
+      "wind_kmh": 10.8,
+      "cloud_pct": 81.0,
+      "humidity_pct": 83.0,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-29T15:00:00Z",
+      "temp_c": 18.6,
+      "wind_kmh": 15.8,
+      "cloud_pct": 92.9,
+      "humidity_pct": 66.9,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-29T18:00:00Z",
+      "temp_c": 18.6,
+      "wind_kmh": 15.5,
+      "cloud_pct": 98.8,
+      "humidity_pct": 56.1,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-29T21:00:00Z",
+      "temp_c": 15.5,
+      "wind_kmh": 10.1,
+      "cloud_pct": 98.8,
+      "humidity_pct": 69.5,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-30T00:00:00Z",
+      "temp_c": 14.3,
+      "wind_kmh": 9.4,
+      "cloud_pct": 98.8,
+      "humidity_pct": 81.3,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-30T03:00:00Z",
+      "temp_c": 12.3,
+      "wind_kmh": 7.6,
+      "cloud_pct": 70.1,
+      "humidity_pct": 90.1,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-30T06:00:00Z",
+      "temp_c": 11.4,
+      "wind_kmh": 11.2,
+      "cloud_pct": 7.9,
+      "humidity_pct": 93.8,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-30T09:00:00Z",
+      "temp_c": 15.8,
+      "wind_kmh": 17.3,
+      "cloud_pct": 14.1,
+      "humidity_pct": 66.6,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-30T12:00:00Z",
+      "temp_c": 18.5,
+      "wind_kmh": 16.6,
+      "cloud_pct": 76.3,
+      "humidity_pct": 51.9,
+      "precip_mm": 0.13
+    },
+    {
+      "time": "2026-07-30T15:00:00Z",
+      "temp_c": 19.3,
+      "wind_kmh": 18.4,
+      "cloud_pct": 48.3,
+      "humidity_pct": 49.7,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-30T18:00:00Z",
+      "temp_c": 17.8,
+      "wind_kmh": 19.8,
+      "cloud_pct": 8.5,
+      "humidity_pct": 54.3,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-30T21:00:00Z",
+      "temp_c": 13.7,
+      "wind_kmh": 14.0,
+      "cloud_pct": 7.0,
+      "humidity_pct": 73.2,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-31T00:00:00Z",
       "temp_c": 11.0,
-      "wind_kmh": 11.9,
-      "cloud_pct": 3.7,
-      "humidity_pct": 86.3,
+      "wind_kmh": 9.4,
+      "cloud_pct": 2.3,
+      "humidity_pct": 87.6,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-31T06:00:00Z",
+      "temp_c": 9.5,
+      "wind_kmh": 8.6,
+      "cloud_pct": 1.0,
+      "humidity_pct": 91.0,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-31T12:00:00Z",
+      "temp_c": 17.5,
+      "wind_kmh": 17.6,
+      "cloud_pct": 57.8,
+      "humidity_pct": 51.9,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-07-31T18:00:00Z",
+      "temp_c": 17.7,
+      "wind_kmh": 18.4,
+      "cloud_pct": 50.0,
+      "humidity_pct": 49.4,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-08-01T00:00:00Z",
+      "temp_c": 11.6,
+      "wind_kmh": 11.5,
+      "cloud_pct": 73.9,
+      "humidity_pct": 81.7,
       "precip_mm": 0.0
     },
     {
       "time": "2026-08-01T06:00:00Z",
-      "temp_c": 10.5,
-      "wind_kmh": 14.0,
-      "cloud_pct": 23.8,
-      "humidity_pct": 92.0,
+      "temp_c": 10.2,
+      "wind_kmh": 12.2,
+      "cloud_pct": 4.8,
+      "humidity_pct": 90.2,
       "precip_mm": 0.0
     },
     {
       "time": "2026-08-01T12:00:00Z",
-      "temp_c": 17.1,
-      "wind_kmh": 21.6,
-      "cloud_pct": 69.0,
-      "humidity_pct": 61.1,
+      "temp_c": 17.4,
+      "wind_kmh": 17.6,
+      "cloud_pct": 98.6,
+      "humidity_pct": 55.1,
       "precip_mm": 0.0
     },
     {
       "time": "2026-08-01T18:00:00Z",
-      "temp_c": 17.7,
-      "wind_kmh": 18.4,
-      "cloud_pct": 76.5,
-      "humidity_pct": 54.9,
+      "temp_c": 18.3,
+      "wind_kmh": 18.7,
+      "cloud_pct": 44.1,
+      "humidity_pct": 49.1,
       "precip_mm": 0.0
     },
     {
       "time": "2026-08-02T00:00:00Z",
-      "temp_c": 13.4,
-      "wind_kmh": 6.8,
-      "cloud_pct": 98.8,
-      "humidity_pct": 81.7,
-      "precip_mm": 0.23
+      "temp_c": 11.4,
+      "wind_kmh": 6.1,
+      "cloud_pct": 8.3,
+      "humidity_pct": 87.8,
+      "precip_mm": 0.0
     },
     {
       "time": "2026-08-02T06:00:00Z",
-      "temp_c": 13.0,
-      "wind_kmh": 4.3,
-      "cloud_pct": 98.8,
-      "humidity_pct": 93.6,
-      "precip_mm": 0.35
+      "temp_c": 10.3,
+      "wind_kmh": 11.2,
+      "cloud_pct": 0.8,
+      "humidity_pct": 90.3,
+      "precip_mm": 0.0
     },
     {
       "time": "2026-08-02T12:00:00Z",
-      "temp_c": 15.2,
-      "wind_kmh": 7.2,
-      "cloud_pct": 99.0,
-      "humidity_pct": 86.5,
-      "precip_mm": 0.2
+      "temp_c": 17.3,
+      "wind_kmh": 10.4,
+      "cloud_pct": 96.6,
+      "humidity_pct": 56.0,
+      "precip_mm": 0.0
     },
     {
       "time": "2026-08-02T18:00:00Z",
-      "temp_c": 15.4,
-      "wind_kmh": 11.9,
-      "cloud_pct": 98.6,
-      "humidity_pct": 90.4,
+      "temp_c": 18.8,
+      "wind_kmh": 11.2,
+      "cloud_pct": 85.8,
+      "humidity_pct": 47.7,
       "precip_mm": 0.0
     },
     {
       "time": "2026-08-03T00:00:00Z",
-      "temp_c": 13.1,
-      "wind_kmh": 10.4,
-      "cloud_pct": 98.8,
-      "humidity_pct": 94.6,
+      "temp_c": 12.2,
+      "wind_kmh": 9.0,
+      "cloud_pct": 1.2,
+      "humidity_pct": 82.1,
       "precip_mm": 0.0
     },
     {
       "time": "2026-08-03T06:00:00Z",
-      "temp_c": 13.7,
-      "wind_kmh": 12.2,
+      "temp_c": 10.6,
+      "wind_kmh": 8.6,
+      "cloud_pct": 25.0,
+      "humidity_pct": 91.3,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-08-03T12:00:00Z",
+      "temp_c": 18.4,
+      "wind_kmh": 7.9,
+      "cloud_pct": 66.4,
+      "humidity_pct": 51.8,
+      "precip_mm": 0.0
+    },
+    {
+      "time": "2026-08-03T18:00:00Z",
+      "temp_c": 19.5,
+      "wind_kmh": 9.0,
       "cloud_pct": 98.8,
-      "humidity_pct": 95.1,
+      "humidity_pct": 43.8,
       "precip_mm": 0.0
     }
   ]
