@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-07-26T07:00:00+01:00",
-          "today": "Today will be mostly cloudy across Leinster with some patchy light rain, drizzle and mist, mainly over the northern half of the region. It will be mainly dry further south. Some sunny spells will develop through the day, the best of these in the south and east of the region. Breezy with moderate to fresh westerly winds. Highest temperatures of 17 to 21 degrees, warmest in the south.",
-          "tonight": "Tonight will be mainly dry with clear spells and some patchy drizzle and mist. Cloud will increase from the west overnight. Lowest temperatures of 10 to 12 degrees with moderate westerly breezes decreasing light southwesterly",
+          "issued": "2026-07-26T16:30:00+01:00",
+          "today": "This evening will remain mostly cloudy across Leinster with some patchy drizzle in places, mainly over the northern half of the region. Staying drier further south. Some sunny spells will also occur, the best of these in the south and east. Breezy with moderate to fresh, gusting strong to near gale at times, west to north-westerly winds.",
+          "tonight": "Tonight will be dry for some with a mixture of clear spells and cloud. However, there will be some patchy drizzle and mist in places. Cloud will increase from the west overnight. Lowest temperatures of 10 to 12 degrees with moderate westerly breezes decreasing light southwesterly.",
           "tomorrow": "Monday will be mostly cloudy with some light rain or drizzle in the north of the province. Drier further south with just patchy drizzle and some brighter intervals. Highest temperatures of 17 to 22 degrees with moderate southwest breezes, warmest in the south.",
-          "pollen": "Moderate today and on Monday",
-          "solar_uv": "High in sunshine today and on Monday"
+          "pollen": "Moderate on Monday and Tuesday.",
+          "solar_uv": "Moderate on Monday and Tuesday."
         }
       ]
     }
