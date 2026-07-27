@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-07-26T16:30:00+01:00",
-          "today": "This evening will remain mostly cloudy across Leinster with some patchy drizzle in places, mainly over the northern half of the region. Staying drier further south. Some sunny spells will also occur, the best of these in the south and east. Breezy with moderate to fresh, gusting strong to near gale at times, west to north-westerly winds.",
-          "tonight": "Tonight will be dry for some with a mixture of clear spells and cloud. However, there will be some patchy drizzle and mist in places. Cloud will increase from the west overnight. Lowest temperatures of 10 to 12 degrees with moderate westerly breezes decreasing light southwesterly.",
-          "tomorrow": "Monday will be mostly cloudy with some light rain or drizzle in the north of the province. Drier further south with just patchy drizzle and some brighter intervals. Highest temperatures of 17 to 22 degrees with moderate southwest breezes, warmest in the south.",
-          "pollen": "Moderate on Monday and Tuesday.",
-          "solar_uv": "Moderate on Monday and Tuesday."
+          "issued": "2026-07-27T05:30:00+01:00",
+          "today": "Mostly cloudy today with limited sunny spells and just a few patches of light rain or drizzle. Humid with highest temperatures 17 to 23, warmest in the southeast, with a light to moderate southwesterly breeze.",
+          "tonight": "Mild and humid tonight. Remaining mostly dry with a mix of cloud and some clear spells.Lowest temperatures of 14 to 18 degrees, with light to moderate southwest winds.",
+          "tomorrow": "Warm and humid today. Staying mostly dry with just the odd spot of light rain or drizzle possible. While it will be quite cloudy, sunny spells should improve as the day goes on. Highest temperatures of 20 to 25 degrees, with mostly moderate, occasionally fresh, southwesterly winds.",
+          "pollen": "Moderate.",
+          "solar_uv": "Mostly low to moderate."
         }
       ]
     }
