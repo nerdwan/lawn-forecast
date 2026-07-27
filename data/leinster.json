@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-07-27T13:30:00+01:00",
-          "today": "Mostly cloudy today with limited sunny spells and just a few patches of light rain or drizzle. Humid with highest temperatures 17 to 23, warmest in the south-east, with a light to moderate southwesterly breeze.",
-          "tonight": "Mild and humid tonight. Remaining mostly dry with a mix of cloud and a few clear spells. Lowest temperatures of 14 to 18 degrees, with light to moderate southwest winds.",
+          "issued": "2026-07-27T17:00:00+01:00",
+          "today": "It will remain mostly cloudy this evening with limited sunny spells and just a few patches of light rain or drizzle. Feeling humid with a light to moderate southwesterly breeze.",
+          "tonight": "Staying mild and humid tonight. Remaining mostly dry with a mix of cloud and a few clear spells. Lowest temperatures of 14 to 18 degrees, with light to moderate southwest winds.",
           "tomorrow": "Warm and humid on Tuesday and staying mostly dry. However, the odd spot of light rain or drizzle is possible. While it will be quite cloudy, bright or sunny spells will develop as the day goes on. Highest temperatures of 20 to 25 degrees, with mostly moderate, occasionally fresh, southwesterly winds.",
-          "pollen": "Moderate on Monday and Tuesday.",
-          "solar_uv": "Low to moderate on Monday. Moderate to high on Tuesday."
+          "pollen": "Moderate Tuesday and Wednesday.",
+          "solar_uv": "Moderate to high on Tuesday and Wednesday."
         }
       ]
     }
