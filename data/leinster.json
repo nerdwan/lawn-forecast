@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-07-29T07:00:00+01:00",
-          "today": "This morning will be mostly cloudy and mainly dry over Leinster with a few bright intervals. This afternoon and evening will become mostly cloudy as rain and drizzle move southeastwards over the region. Brighter weather will follow from the north this evening. Highest temperatures of 18 degrees in the north to 23 degrees in the south with light west to southwest breezes.",
+          "issued": "2026-07-29T12:00:00+01:00",
+          "today": "A few showers possible early this afternoon followed by a spell of rain later this afternoon and early evening. Highest temperatures of 18 degrees in the north to 23 degrees in the south with light west to southwest breezes.",
           "tonight": "Tonight will be mainly dry with clear spells. Cooler and less humid than recent nights with lowest temperatures of 7 to 10 degrees and light west to southwest breezes.",
           "tomorrow": "Thursday will be a bright day with sunny spells and well scattered showers in the north. Cooler and fresher with highest temperatures of 17 to 21 degrees with moderate westerly winds.",
           "pollen": "Moderate today and Thursday",
-          "solar_uv": "Moderate today and high in any sunshine.\\n\\nHigh on Thursday"
+          "solar_uv": "Moderate today and high in any sunshine.High on Thursday"
         }
       ]
     }
