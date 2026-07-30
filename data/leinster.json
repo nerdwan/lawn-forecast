@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-07-30T12:00:00+01:00",
-          "today": "A bright and mostly dry day with sunny spells. Isolated showers will drift across the north of the province this evening. Highest temperatures of 18 to 22 degrees in a light to moderate westerly breeze.",
+          "issued": "2026-07-30T16:00:00+01:00",
+          "today": "A bright evening with sunny spells and light to moderate westerly winds. It will be mostly dry, but there will be some isolated showers across the north of the province.",
           "tonight": "It will be mostly dry and largely clear tonight with just isolated showers in the north of the province. Lowest temperatures of 7 to 10 degrees in a light southwesterly breeze.",
           "tomorrow": "Tomorrow will be another bright day with sunny spells. After a dry start, scattered showers will spread from the west in the afternoon and evening. Highest temperatures of 17 to 21 degrees with light southwesterly winds increasing moderate westerly through the day.",
-          "pollen": "Moderate on Thursday and Friday.",
-          "solar_uv": "Moderate on Thursday and Friday, high in any sunshine."
+          "pollen": "Moderate on Friday and Saturday.",
+          "solar_uv": "Moderate to high on Friday and Saturday."
         }
       ]
     }
