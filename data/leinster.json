@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-07-31T16:00:00+01:00",
-          "today": "A bright evening with sunny spells and some well scattered showers, in light to moderate westerly winds.",
-          "tonight": "Mostly dry tonight with clear spells and just isolated showers. It will become cloudier over the north of the province later. Lowest temperatures of 8 to 11 degrees in a light southwesterly breeze.",
-          "tomorrow": "Tomorrow, Saturday, will be dry with sunny spells, turning hazier in the afternoon. Highest temperatures of 18 to 22 degrees in a light westerly breeze.",
-          "pollen": "Moderate on Saturday and Sunday.",
+          "issued": "2026-08-01T05:30:00+01:00",
+          "today": "Mostly dry today with isolated light showers and sunny spells, turning hazier through the day. Highest temperatures of 19 to 22 degrees in a light westerly breeze.",
+          "tonight": "Tonight will be dry with clear spells at first. Cloud will build from the southwest through the night. Lowest temperatures of 9 to 13 degrees with areas of mist and fog forming in light variable breezes.",
+          "tomorrow": "Tomorrow will be cloudy with scattered patches of light rain, drizzle and mist. Highest temperatures of 16 to 19 degrees in mostly light easterly breezes.",
+          "pollen": "Moderate.",
           "solar_uv": "Moderate to high on Saturday. Low to moderate on Sunday."
         }
       ]
