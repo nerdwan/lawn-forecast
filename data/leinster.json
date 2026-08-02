@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-01T17:00:00+01:00",
-          "today": "Dry and bright this evening.",
-          "tonight": "Tonight will be dry with clear spells at first. Cloud will build from the southwest through the night. Lowest temperatures of 9 to 12 degrees with patches of mist and fog forming in light variable breezes.",
-          "tomorrow": "Tomorrow will see cloud increase through the day, bringing a chance of light rain and drizzle at times in the afternoon and evening. Highest temperatures of 16 to 19 degrees in mostly light easterly breezes.",
-          "pollen": "Moderate.",
-          "solar_uv": "Low to moderate on Sunday and Monday."
+          "issued": "2026-08-02T05:30:00+01:00",
+          "today": "Cloudy today with the chance of light rain and drizzle at times in the afternoon and evening, most likely in western parts. Highest temperatures of 17 to 20 degrees in mostly light easterly breezes.",
+          "tonight": "Generally cloudy with some clear spells and mostly dry apart from the odd spot of drizzle. Milder than previous nights with lowest temperatures of 13 to 16 degrees in light to moderate northeasterly winds.",
+          "tomorrow": "A mix of sunny spells and cloudy periods tomorrow. Largely dry with the odd shower during the morning and afternoon. Turning heavier and more frequent by the evening with heavy downpours possible. Becoming humid with highest temperatures of 20 to 24 degrees in light to moderate southeasterly winds.",
+          "pollen": "Moderate on Sunday and Monday.",
+          "solar_uv": "Low on Sunday and Moderate on Monday."
         }
       ]
     }
