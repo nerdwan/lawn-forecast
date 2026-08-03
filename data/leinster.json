@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-02T17:00:00+01:00",
-          "today": "A largely cloudy evening with some patchy rain.",
-          "tonight": "Generally cloudy and dry apart from the odd spot of rain. Milder than previous nights with lowest temperatures of 14 to 16 degrees in light to moderate northeasterly winds.",
-          "tomorrow": "A mix of sunny spells and the odd shower during the morning and afternoon. Heavier rain moving up from the south in the evening bringing a risk of surface flooding. Becoming humid with highest temperatures of 21 to 24 degrees in light to moderate southeasterly winds.",
+          "issued": "2026-08-03T05:30:00+01:00",
+          "today": "A mix of cloud and bright or sunny spells for a time today, Monday, with scattered showers. Becoming mostly cloudy later with showers or longer spells of rain pushing up from the south this afternoon and evening. Some heavy, potentially thundery downpours are possible, bringing a risk of spot flooding, especially in southern parts. It\u2019ll be humid with highest temperatures of 20 to 24 degrees in light to moderate easterly winds becoming mainly southeast this afternoon.",
+          "tonight": "Heavy showers or downpours at first tonight will bring a continued risk of spot flooding. The showers will gradually ease from the southwest overnight. Lowest temperatures of 13 to 16 degrees in light southerly breezes.",
+          "tomorrow": "After a mostly cloudy and misty start to tomorrow, Tuesday, with patchy rain and drizzle possible, sunny spells will gradually develop, along with scattered showers, some heavy. Continuing humid with highest temperatures of 21 to 23 degrees in a light southwest breeze, veering moderate westerly in the evening.",
           "pollen": "Moderate.",
-          "solar_uv": "Moderate on Monday and Tuesday."
+          "solar_uv": "Moderate ot high today and tomorrow."
         }
       ]
     }
