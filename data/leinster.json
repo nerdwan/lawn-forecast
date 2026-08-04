@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-04T01:30:00+01:00",
-          "today": "Mostly cloudy and rather misty to begin with a little patchy light rain and drizzle in places. It'll brighten up with some sunny spells gradually developing, along with showers, some heavy. There's a chance of some thunderstorms too. Humid with highest temperatures of 20 to 23 or 24 degrees, with light to moderate southwest winds, becoming mostly moderate westerly.",
-          "tonight": "Mainly dry at first tonight with just isolated showers and with some clear spells. Cloud will increase overnight bringing a few scattered showers and with some persistent rain moving into northern parts of the province. Lowest temperatures of 10 to 14 degrees in mostly moderate westerly winds.",
-          "tomorrow": "Tomorrow, Wednesday, will be a rather windy day and fresher than recently. It'll be cloudy with outbreaks of rain and drizzle across northern parts of the province, accompanied by fresh to strong and occasionally gusty westerly winds. It'll be mainly dry and bright further south, with some sunny spells and a few well scattered showers and mostly moderate to fresh westerly winds, strong at times. Highest temperatures ranging from 15 to 19 or 20 degrees, warmest in the southeast.",
-          "pollen": "Moderate on Tuesday and Wednesday.",
-          "solar_uv": "Moderate on Tuesday and Wednesday."
+          "issued": "2026-08-04T18:00:00+01:00",
+          "today": "Scattered heavy showers clearing eastwards this evening. Risk of isolated thunderstorms. Moderate westerly winds.",
+          "tonight": "Mainly dry at first tonight with just isolated showers. Cloud will increase overnight, bringing some light rain later in the night to the northern half of Leinster. Lowest temperatures of 11 to 14 degrees with moderate to fresh westerly winds.",
+          "tomorrow": "Tomorrow will be a rather windy day and feeling fresher than recently with a mix of sunny spells and showers. Highest temperatures of 17 to 19 degrees in fresh and gusty westerly winds.",
+          "pollen": "Moderate Tuesday and Wednesday.",
+          "solar_uv": "Moderate Tuesday and Wednesday."
         }
       ]
     }
