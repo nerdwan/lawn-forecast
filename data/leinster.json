@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-05T05:30:00+01:00",
-          "today": "Windy with mix of sunny spells and scattered showers. Fresh compared to late with highs of 15 to 21 degrees, warmest in the south, in fresh and gusty westerly winds.",
-          "tonight": "Generally dry overnight with a mix of cloud and clear spells. Lowest temperatures of 11 to 13 degrees. Light to moderate westerly winds.",
-          "tomorrow": "A bright and dry day overall with sunshine, turning hazy towards the afternoon with highs of 18 to 21 degrees in light to moderate westerly winds.",
-          "pollen": "Medium.",
-          "solar_uv": "Moderate."
+          "issued": "2026-08-05T12:20:00+01:00",
+          "today": "A blustery day with a mix of cloud and sunny spells. Showers, frequent at first in northern parts, but well scattered elsewhere. Top temperatures of 15 to 20 degrees in moderate to fresh and gusty westerly winds, easing somewhat this evening. Mildest in the south.",
+          "tonight": "Largely dry tonight with clear spells and isolated showers. Cooler than recent nights with lowest temperatures of 7 to 11 degrees in light to moderate westerly winds.",
+          "tomorrow": "Mostly dry on Thursday with spells of sunshine, hazy at times. A few isolated showers are possible. Top temperatures of 17 to 21 degrees in light to moderate westerly winds. Mildest in the south and southeast.",
+          "pollen": "Moderate today and Thursday.",
+          "solar_uv": "Moderate today. Moderate to high on Thursday."
         }
       ]
     }
