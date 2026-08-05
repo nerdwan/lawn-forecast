@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-04T18:00:00+01:00",
-          "today": "Scattered heavy showers clearing eastwards this evening. Risk of isolated thunderstorms. Moderate westerly winds.",
-          "tonight": "Mainly dry at first tonight with just isolated showers. Cloud will increase overnight, bringing some light rain later in the night to the northern half of Leinster. Lowest temperatures of 11 to 14 degrees with moderate to fresh westerly winds.",
-          "tomorrow": "Tomorrow will be a rather windy day and feeling fresher than recently with a mix of sunny spells and showers. Highest temperatures of 17 to 19 degrees in fresh and gusty westerly winds.",
-          "pollen": "Moderate Tuesday and Wednesday.",
-          "solar_uv": "Moderate Tuesday and Wednesday."
+          "issued": "2026-08-05T05:30:00+01:00",
+          "today": "Windy with mix of sunny spells and scattered showers. Fresh compared to late with highs of 15 to 21 degrees, warmest in the south, in fresh and gusty westerly winds.",
+          "tonight": "Generally dry overnight with a mix of cloud and clear spells. Lowest temperatures of 11 to 13 degrees. Light to moderate westerly winds.",
+          "tomorrow": "A bright and dry day overall with sunshine, turning hazy towards the afternoon with highs of 18 to 21 degrees in light to moderate westerly winds.",
+          "pollen": "Medium.",
+          "solar_uv": "Moderate."
         }
       ]
     }
