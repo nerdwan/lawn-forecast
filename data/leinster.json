@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-06T05:30:00+01:00",
-          "today": "Mostly dry today with a mix of cloud and hazy sunny spells, and with just a few showers possible. Highest temperatures of 18 to 22 degrees with a light, occasionally moderate westerly breeze.",
-          "tonight": "Largely dry tonight with a mix of cloud and clear spells. Lowest temperatures of 7 to 11 degrees in a mostly light southwesterly or variable breeze with some mist and fog patches developing.",
-          "tomorrow": "Staying largely dry tomorrow with a mix of cloud and sunny spells and just isolated showers. Highest temperatures of 19 to 23 degrees in light to moderate southwesterly winds.",
-          "pollen": "Moderate Thursday and Friday.",
-          "solar_uv": "Moderate Thursday and Friday."
+          "issued": "2026-08-06T12:15:00+01:00",
+          "today": "Today will bring a mix of cloud and sunny spells, hazy at times. Mostly dry with some isolated showers. Highest temperatures of 18 to 21 or 22 degrees with light, locally moderate, west or southwest winds. Mildest in parts of the south and east. Winds may increase fresh at times along the south coast.",
+          "tonight": "Dry tonight with some clear spells, but a few mist patches may develop. Lowest temperatures of 6 to 11 degrees in light southwest or variable breezes.",
+          "tomorrow": "Largely dry on Friday with a mix of cloud and sunny spells. A few isolated showers are possible. Highest temperatures of 20 to 24 degrees in light to moderate west to southwest winds. Possibly backing south to southeast at times near the east coast.",
+          "pollen": "Moderate today and on Friday",
+          "solar_uv": "Moderate to high today and on Friday."
         }
       ]
     }
