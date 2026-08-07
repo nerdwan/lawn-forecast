@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-06T16:30:00+01:00",
-          "today": "Mostly dry for the rest of today with just isolated showers. A mix of cloud and hazy sunshine in light, locally moderate, west or southwest winds. Winds may be fresh at times near the south coast.",
-          "tonight": "Dry tonight with some clear spells, but a few mist patches may develop. Lowest temperatures of 6 to 11 degrees in light southwest or variable breezes. Coolest in the southwest of the province.",
-          "tomorrow": "Largely dry on Friday with a mix of cloud and sunny spells. A few isolated showers are possible. Highest temperatures of 20 to 24 degrees in light to moderate west to southwest winds. Possibly backing southeast at times near the east coast.",
-          "pollen": "Moderate onFriday and Saturday.",
-          "solar_uv": "Moderate to high on Friday. Low to moderate, but local high in sunshine, Saturday."
+          "issued": "2026-08-07T07:00:00+01:00",
+          "today": "Today will be warm and dry in Dublin with a mix of cloud and sunny spells. Highest temperatures of 23 to 25 degrees with light to moderate southwesterly winds.",
+          "tonight": "Tonight will be dry with clear spells. Lowest temperatures of 11 to 14 degrees with light southerly or variable breezes.",
+          "tomorrow": "Saturday will be dry with bright or sunny spells. Warm and humid with highest temperatures of 25 to 27 degrees and light to moderate south to southwest winds.",
+          "pollen": "Moderate today and Saturday",
+          "solar_uv": "High in sunshine today and Saturday"
         }
       ]
     }
