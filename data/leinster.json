@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-07T07:00:00+01:00",
-          "today": "Today will be warm and dry in Dublin with a mix of cloud and sunny spells. Highest temperatures of 23 to 25 degrees with light to moderate southwesterly winds.",
-          "tonight": "Tonight will be dry with clear spells. Lowest temperatures of 11 to 14 degrees with light southerly or variable breezes.",
-          "tomorrow": "Saturday will be dry with bright or sunny spells. Warm and humid with highest temperatures of 25 to 27 degrees and light to moderate south to southwest winds.",
-          "pollen": "Moderate today and Saturday",
-          "solar_uv": "High in sunshine today and Saturday"
+          "issued": "2026-08-07T16:30:00+01:00",
+          "today": "This evening will remain warm and dry across Leinster with a mix of cloud and sunny spells. Warmest and sunniest in southern parts. Highest temperatures of 20 to 23 degrees with light to moderate southwesterly winds.",
+          "tonight": "Tonight will be dry with plenty of clear spells. Lowest temperatures of 9 to 13 degrees with light southerly or variable breezes.",
+          "tomorrow": "Saturday will start fine and dry with plenty of bright or sunny spells and partly cloudy skies for most. However, further cloud will push into the northern parts of Leinster throughout the day, with perhaps some patchy rain in places. Highs of 20 to 25 degrees. All in light to moderate, mostly southerly winds, these stronger along eastern coasts later in the day.",
+          "pollen": "Moderate on Saturday and Sunday.",
+          "solar_uv": "Moderate to high on Saturday. Low to moderate on Sunday."
         }
       ]
     }
