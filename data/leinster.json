@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-06T12:15:00+01:00",
-          "today": "Today will bring a mix of cloud and sunny spells, hazy at times. Mostly dry with some isolated showers. Highest temperatures of 18 to 21 or 22 degrees with light, locally moderate, west or southwest winds. Mildest in parts of the south and east. Winds may increase fresh at times along the south coast.",
-          "tonight": "Dry tonight with some clear spells, but a few mist patches may develop. Lowest temperatures of 6 to 11 degrees in light southwest or variable breezes.",
-          "tomorrow": "Largely dry on Friday with a mix of cloud and sunny spells. A few isolated showers are possible. Highest temperatures of 20 to 24 degrees in light to moderate west to southwest winds. Possibly backing south to southeast at times near the east coast.",
-          "pollen": "Moderate today and on Friday",
-          "solar_uv": "Moderate to high today and on Friday."
+          "issued": "2026-08-06T16:30:00+01:00",
+          "today": "Mostly dry for the rest of today with just isolated showers. A mix of cloud and hazy sunshine in light, locally moderate, west or southwest winds. Winds may be fresh at times near the south coast.",
+          "tonight": "Dry tonight with some clear spells, but a few mist patches may develop. Lowest temperatures of 6 to 11 degrees in light southwest or variable breezes. Coolest in the southwest of the province.",
+          "tomorrow": "Largely dry on Friday with a mix of cloud and sunny spells. A few isolated showers are possible. Highest temperatures of 20 to 24 degrees in light to moderate west to southwest winds. Possibly backing southeast at times near the east coast.",
+          "pollen": "Moderate onFriday and Saturday.",
+          "solar_uv": "Moderate to high on Friday. Low to moderate, but local high in sunshine, Saturday."
         }
       ]
     }
