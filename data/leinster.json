@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-08-08T13:00:00+01:00",
-          "today": "This afternoon will remain dry with a mix of cloud and warm spells of sunshine. Highest temperatures of 21 to 25 degrees, warmest in the southeast with light to moderate southwest breezes.",
-          "tonight": "Tonight will bring some patchy rain and drizzle. Many southern counties will remain fully dry. Some mist and hill fog too. Very mild and humid with overnight minima holding between 13 and 16 degrees in mostly light southwesterly breezes.",
-          "tomorrow": "Sunday will be mostly dry with a mix of cloud and warm spells of sunshine. Patchy drizzle will develop during the evening hours with a few sharp bursts possible. Top temperatures of 19 to 26 degrees, warmest for the Southeast, with moderate west to southwest breezes.",
+          "issued": "2026-08-08T17:30:00+01:00",
+          "today": "Continuing largely dry for the rest of today with a mix of cloud and warm spells of sunshine with light to moderate southwest breezes. There is a chance of the odd spot of rain or drizzle in the far northwest of the region this evening.",
+          "tonight": "Mild and humid tonight with patchy rain and drizzle spreading from the northwest overnight. It will remain largely dry in the south of the region, however. There'll be some mist and hill fog around too. Lowest temperatures of 12 to 16 degrees, with a mostly light southwest or variable breeze.",
+          "tomorrow": "Mostly cloudy to begin on Sunday with a little patchy light rain and drizzle in places, but mainly dry further south with warm sunny spells developing there. Further rain and drizzle will spread from the northwest in the afternoon and evening, with a few sharp bursts possible, but many southern parts of the province will remain fully dry. Highest temperatures 18 to 25 degrees, with light to moderate westerly breezes.",
           "pollen": "Medium",
           "solar_uv": "Moderate to high in sunshine."
         }
