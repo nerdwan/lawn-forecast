@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-09T13:00:00+01:00",
-          "today": "Cloudy at times this afternoon, with bright and sunny spells further south. Rain and drizzle from the northwest will continue to spread southwards for the remainder of the evening, turning patchier as it does, with many areas in the south remaining dry. Highest temperatures of 18 to 25 degrees, warmest in the south, with light to moderate westerly breezes.",
-          "tonight": "Tonight will be dry for most with clear spells, after any lingering patches of rain and drizzle clear early on. Areas of mist and fog will form in light variable breezes or near calm conditions, with lowest temperatures of 9 to 13 degrees.",
-          "tomorrow": "Tomorrow, Monday, will be dry with sunny spells, turning hazy at times through the day. Highest temperatures of 18 to 24 degrees, warmest in the south midlands, with light southerly or variable breezes.",
-          "pollen": "Moderate.",
-          "solar_uv": "Mostly moderate, high in sunshine."
+          "issued": "2026-08-09T17:30:00+01:00",
+          "today": "A mix of cloud and some sunny spells this evening along with a little rain or drizzle, gradually clearing southeastwards. Light, occasionally moderate westerly breezes, veering northwesterly.",
+          "tonight": "Largely dry tonight with clear spells. Light variable breezes or near calm conditions will allow some mist and fog patches to develop. Lowest temperatures of 8 to 12 degrees.",
+          "tomorrow": "Dry with sunny spells, hazy at times. Highest temperatures of 18 to 24 degrees with a light southerly or variable breeze.",
+          "pollen": "Moderate Monday and Tuesday.",
+          "solar_uv": "High Monday and Tuesday."
         }
       ]
     }
