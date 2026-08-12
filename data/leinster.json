@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-11T16:00:00+01:00",
-          "today": "It will be warm and dry this evening with long spells of sunshine, turning hazy at times, in a light or moderate south to southeasterly breeze.",
-          "tonight": "There will be a mix of clear spells and well scattered light showers tonight. A few mist and fog patches will develop as the night progresses. It will be mild and muggy, with lowest temperatures of 15 to 18 degrees in mostly light and variable winds.",
-          "tomorrow": "Tomorrow, Wednesday, will be warm and humid with sunny spells and well scattered showers. Highest temperatures of 23 to 28 degrees in a light to moderate southerly breeze.",
-          "pollen": "Moderate on Wednesday and Thursday.",
-          "solar_uv": "Moderate to high on Wednesday and Thursday."
+          "issued": "2026-08-12T06:30:00+01:00",
+          "today": "Warm and humid today, Thursday. Rather cloudy at first with showery rain in the north, easing by early afternoon with sunny spells extending from the southeast. Highest temperatures of 23 to 29 degrees, in a light to moderate southerly breeze.",
+          "tonight": "Dry tonight with variable cloud and clear spells. A few patches of mist and fog are possible around dawn. Another mild and muggy night with lowest temperatures of 15 to 19 degrees in a light southerly or variable breeze.",
+          "tomorrow": "Tomorrow, Thursday, will be another warm or hot day with sunny spells. Isolated showers or thunderstorms may occur. Highest temperatures of 23 to 29 degrees in a light to moderate southwest to west breeze.",
+          "pollen": "Moderate.",
+          "solar_uv": "Moderate to high Wednesday and Thursday."
         }
       ]
     }
