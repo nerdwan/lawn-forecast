@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-08-12T16:00:00+01:00",
-          "today": "It will be warm and dry this evening with sunny spells, the best of these in the south and east of the province, in light or moderate south to southeasterly winds.",
-          "tonight": "Dry tonight with variable cloud and clear spells. A few patches of mist and fog are possible around dawn. Another mild and muggy night with lowest temperatures of 15 to 19 degrees in a light southerly or variable breeze.",
-          "tomorrow": "Tomorrow, Thursday, will be another very warm and humid day with sunny spells. It will be dry in the morning but scattered showers, some possibly heavy or thundery, may develop in the afternoon and evening. Highest temperatures of 23 to 29 degrees in a light or moderate southwest to westerly breeze.",
-          "pollen": "Moderate.",
+          "issued": "2026-08-13T05:30:00+01:00",
+          "today": "Today will be another humid and a generally very warm or hot day with sunny spells. Overall mainly dry for much of the day, though with some scattered showers and the chance of the odd isolated thunderstorm, mainly in the evening. Highest temperatures will generally range from 25 to 30 or 31 degrees, in light light to moderate southwest winds.",
+          "tonight": "Rather cloudy and humid for a time with scattered showers or showery outbreaks of rain and the chance a few thunderstorms. However, a clearance to fresher conditions will extend from the Atlantic overnight with clear spells and just a few isolated light showers to follow. Lowest temperatures of 13 to 17 degrees, in light to moderate southwest winds, veering west to northwest.",
+          "tomorrow": "Tomorrow, Friday, will be a fresher day, with a fair deal of cloud around, but some sunny spells too. It'll be dry for most, with a few isolated light showers around. Highest temperatures will range from 19 to 23 or 24 degrees, warmest in the southeast, in light to moderate northwest breezes.",
+          "pollen": "Moderate on Thursday and Friday.",
           "solar_uv": "Moderate to high on Thursday and Friday."
         }
       ]
