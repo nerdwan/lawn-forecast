@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-08-13T13:00:00+01:00",
-          "today": "Today will be another humid and very warm day with sunny spells. Overall mainly dry for much of the day, though with some scattered showers and the chance of the odd isolated thunderstorm, mainly in the evening. Highest temperatures will generally range from 25 to 30 or 31 degrees, in light to moderate southwest winds.",
-          "tonight": "Rather cloudy and humid with scattered showers and the chance a few thunderstorms. However, a clearance to fresher conditions will extend from the west later tonight. Lowest temperatures of 13 to 17 degrees, in light to moderate southwest winds, veering west to northwest.",
-          "tomorrow": "Tomorrow, Friday, will be a fresher day, with a fair deal of cloud around, but some sunny spells too. It'll be dry for most, with a few isolated light showers around. Highest temperatures will range from 19 to 23 or 24 degrees, warmest in the southeast, in light to moderate northwest breezes.",
+          "issued": "2026-08-13T17:30:00+01:00",
+          "today": "Mainly dry this evening, but possibly a few heavy showers later, in light to moderate southwest winds.",
+          "tonight": "Rather cloudy and humid tonight with scattered showers. However, a clearance to fresher conditions will extend from the west by morning. Lowest temperatures of 13 to 17 degrees, in light to moderate westerly winds.",
+          "tomorrow": "Tomorrow, Friday, will be a fresher day, with a fair deal of cloud around, but some sunny spells too. It'll be dry for most, with just a few isolated light showers around. Highest temperatures will range from 19 to 23 or 24 degrees, warmest in the southeast, in light to moderate northwest breezes.",
           "pollen": "Moderate on Thursday and Friday.",
           "solar_uv": "Moderate to high on Thursday and Friday."
         }
