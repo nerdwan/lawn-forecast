@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-08-14T05:30:00+01:00",
-          "today": "Any lingering showers will clear early, leaving a dry day with a mix of cloud and sunny spells. Highest temperatures ranging from 20 to 24 degrees, with a light to moderate northwesterly breeze.",
-          "tonight": "Dry with a mix of cloud and clear spells.Lowest temperatures of 11 to 15 degrees, with a light northwesterly breeze.",
-          "tomorrow": "Dry with sunny spells, turning hazy at times. Highest temperatures of 19 to 23 degrees, warmer further south, with a light northwesterly breeze.",
+          "issued": "2026-08-14T17:00:00+01:00",
+          "today": "Dry this evening with a mix of cloud and sunny spells in a light to moderate northwesterly breeze.",
+          "tonight": "Dry tonight with a mix of cloud and clear spells. Lowest temperatures of 11 to 15 degrees, with a light northwesterly breeze.",
+          "tomorrow": "Dry tomorrow with sunny spells, turning hazy at times. Highest temperatures of 19 to 23 degrees, warmest further south, with a light northwesterly breeze.",
           "pollen": "Moderate.",
           "solar_uv": "Moderate to high."
         }
