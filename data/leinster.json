@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-14T17:00:00+01:00",
-          "today": "Dry this evening with a mix of cloud and sunny spells in a light to moderate northwesterly breeze.",
-          "tonight": "Dry tonight with a mix of cloud and clear spells. Lowest temperatures of 11 to 15 degrees, with a light northwesterly breeze.",
-          "tomorrow": "Dry tomorrow with sunny spells, turning hazy at times. Highest temperatures of 19 to 23 degrees, warmest further south, with a light northwesterly breeze.",
-          "pollen": "Moderate.",
-          "solar_uv": "Moderate to high."
+          "issued": "2026-08-15T05:00:00+01:00",
+          "today": "Mostly dry today with a mix of cloud and hazy sunny spells and with the chance of the odd light shower. Highest temperatures of 19 to 23 degrees with light northwest to west breezes.",
+          "tonight": "Mostly dry tonight but becoming largely cloudy with limited clear spells. A few spots of drizzle are possible. Lowest temperatures of 11 to 14 degrees in light southwesterly or variable breezes.",
+          "tomorrow": "Mostly cloudy tomorrow with occasional rain and drizzle possible and just limited bright or sunny spells. Highest temperatures of 16 to 20 degrees in light, occasionally moderate southwesterly breezes.",
+          "pollen": "Moderate Saturday and Sunday.",
+          "solar_uv": "Moderate Saturday and moderate to high Sunday."
         }
       ]
     }
