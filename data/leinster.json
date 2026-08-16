@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-15T16:30:00+01:00",
-          "today": "Dry this evening with some good sunshine.",
-          "tonight": "Mostly dry tonight but becoming largely cloudy. A few spots of drizzle are possible. Lowest temperatures of 11 to 14 degrees in light southwesterly or variable breezes.",
-          "tomorrow": "Mostly cloudy tomorrow with occasional rain and drizzle possible. Highest temperatures of 16 to 20 degrees in light, occasionally moderate southwesterly breezes.",
-          "pollen": "Moderate Saturday and Sunday.",
-          "solar_uv": "Moderate Saturday and moderate to high Sunday."
+          "issued": "2026-08-16T07:00:00+01:00",
+          "today": "Today will be mostly cloudy across Connacht with outbreaks of rain and drizzle. This evening, drier weather with some bright intervals will extend from the west. Highest temperatures of 16 to 18 degrees with light to moderate southwest breezes.",
+          "tonight": "Tonight will be mild and mainly dry with a fair amount of cloud and some clear breaks. Some mist and fog patches may develop. Temperatures will not fall below 12 to 15 degrees with mostly light westerly breezes.",
+          "tomorrow": "Monday will be warm, humid and mostly cloudy with some rain or drizzle at times. Towards evening, rain will become heavier in the west and will move eastwards through the evening. Highest temperatures of 17 to 21 degrees with light to moderate westerly winds.",
+          "pollen": "Low today and on Monday",
+          "solar_uv": "Moderate today and on Monday"
         }
       ]
     }
