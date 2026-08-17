@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-16T16:00:00+01:00",
-          "today": "Cloudy this evening with further patchy outbreaks of light rain or drizzle, and light to moderate southwesterly winds.",
-          "tonight": "A mostly cloudy night with patchy rain and drizzle clearing early on. The rest of the night will be mostly dry with a few mist and fog patches developing. Lowest temperatures of 13 to 15 degrees with mostly light westerly winds.",
-          "tomorrow": "Tomorrow, Monday, will be mostly dry and after a cloudy start, some sunny spells will develop in the afternoon. Cloud will increase again in the evening and rain will gradually spread from the northwest around nightfall. A warm and humid day, with highest temperatures of 20 to 23 degrees in light to moderate westerly winds.",
-          "pollen": "Moderate on Monday and Tuesday",
-          "solar_uv": "Moderate, high in sunshine on Monday and Tuesday"
+          "issued": "2026-08-17T10:30:00+01:00",
+          "today": "It will be rather cloudy this morning with outbreaks of rain and drizzle across the north of the province, but becoming mostly dry by the afternoon, with some sunny spells developing. Cloud will increase again in the evening with rain gradually spreading from the northwest. A warm and humid day, with highest temperatures of 20 to 24 degrees in light to moderate westerly winds.",
+          "tonight": "Cloudy tonight with rain, drizzle and mist in the northwest spreading southeastwards early on, becoming lighter and patchier as they do. Drier conditions will follow towards morning. Mild with lowest temperatures of 14 to 17 degrees in light to moderate westerly breezes.",
+          "tomorrow": "Generally cloudy to start tomorrow with the odd light shower around. It will brighten up from the northwest through the afternoon with sunny spells developing. Cooler than recent days with highest temperatures of 17 to 20 degrees in light to moderate westerly breezes.",
+          "pollen": "Moderate.",
+          "solar_uv": "Moderate, high in sunshine."
         }
       ]
     }
