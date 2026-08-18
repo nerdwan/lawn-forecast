@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-17T16:00:00+01:00",
-          "today": "It will be mostly cloudy this evening with rain developing across the north and west of the province and gradually spreading eastwards, in light to moderate westerly winds.",
-          "tonight": "Cloudy tonight with rain, drizzle and mist continuing to spread eastwards, becoming lighter and patchier as they do. The rain and drizzle will clear to showers later. Mild, with lowest temperatures of 14 to 17 degrees in mostly moderate westerly winds.",
-          "tomorrow": "It will be a rather cloudy start to tomorrow, Tuesday, with some scattered showers in the morning. It will brighten up from the northwest through the afternoon with sunny spells developing. Cooler than recent days, with highest temperatures of 17 to 20 degrees in moderate westerly winds.",
+          "issued": "2026-08-18T05:30:00+01:00",
+          "today": "A cloudy start today with just isolated showers. Some sunny spells will develop through the morning but it will turn cloudier through the afternoon with some patches of drizzle developing later in the evening. Highest temperatures of 17 to 20 degrees in light to moderate westerly winds.",
+          "tonight": "Cloudy at first tonight with scattered outbreaks of rain and drizzle. The rain will clear eastwards overnight with clear spells and isolated showers following. Lowest temperatures of 11 to 13 degrees in light to moderate southwest winds.",
+          "tomorrow": "A dry start tomorrow but widespread showers will develop through the afternoon, some of which will be heavy with the chance of isolated thunderstorms. Showers will become more isolated in the evening. Highest temperatures of 17 to 20 degrees in moderate, occasionally fresh, west to southwest winds.",
           "pollen": "Moderate on Tuesday and Wednesday.",
-          "solar_uv": "Moderate, high in sunshine on Tuesday. Moderate on Wednesday."
+          "solar_uv": "Moderate on Tuesday, high in any sunshine. Moderate on Wednesday."
         }
       ]
     }
