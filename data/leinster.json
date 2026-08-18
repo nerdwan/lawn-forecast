@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-18T05:30:00+01:00",
-          "today": "A cloudy start today with just isolated showers. Some sunny spells will develop through the morning but it will turn cloudier through the afternoon with some patches of drizzle developing later in the evening. Highest temperatures of 17 to 20 degrees in light to moderate westerly winds.",
-          "tonight": "Cloudy at first tonight with scattered outbreaks of rain and drizzle. The rain will clear eastwards overnight with clear spells and isolated showers following. Lowest temperatures of 11 to 13 degrees in light to moderate southwest winds.",
-          "tomorrow": "A dry start tomorrow but widespread showers will develop through the afternoon, some of which will be heavy with the chance of isolated thunderstorms. Showers will become more isolated in the evening. Highest temperatures of 17 to 20 degrees in moderate, occasionally fresh, west to southwest winds.",
-          "pollen": "Moderate on Tuesday and Wednesday.",
-          "solar_uv": "Moderate on Tuesday, high in any sunshine. Moderate on Wednesday."
+          "issued": "2026-08-18T16:00:00+01:00",
+          "today": "A cloudy evening with isolated showers and moderate westerly winds. Outbreaks of rain and drizzle will spread from the west later.",
+          "tonight": "Cloudy at first tonight with patchy outbreaks of rain and drizzle. The rain and drizzle will clear eastwards during the night, with isolated showers following. Lowest temperatures of 11 to 13 degrees in light to moderate southwesterly winds.",
+          "tomorrow": "Tomorrow, Wednesday, will be mostly dry to start, but frequent showers will spread from the west during the morning. Some of the showers will be heavy with the chance of isolated thunderstorms. Highest temperatures of 17 to 20 degrees in moderate, occasionally fresh, west to southwesterly winds.",
+          "pollen": "Moderate on Wednesday and Thursday.",
+          "solar_uv": "Moderate on Wednesday and Thursday."
         }
       ]
     }
