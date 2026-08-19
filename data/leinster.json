@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-19T05:15:00+01:00",
-          "today": "Sunny spells and scattered showers today, turning heavy at times. Highest temperatures of 16 to 20 degrees with light to moderate west to southwest winds, occasionally becoming fresh and gusty.",
-          "tonight": "Clear spells and scattered showers tonight, turning heavy at times. Lowest temperatures of 10 to 13 degrees with light to moderate west to northwest winds, occasionally increasing fresh and gusty.",
-          "tomorrow": "Sunny spells and scattered showers will continue tomorrow. Temperatures will reach 17 to 20 degrees and there\u2019ll be a moderate to fresh northerly breeze.",
-          "pollen": "Moderate on Wednesday and Thursday.",
-          "solar_uv": "Moderate on Wednesday and Thursday."
+          "issued": "2026-08-19T16:30:00+01:00",
+          "today": "There will be a mixture of sunny spells and further scattered showers this evening, some possibly heavy. All in light to moderate west to southwest winds, gusty at times, especially near showers.",
+          "tonight": "There will be a mixture of clear spells and scattered showers overnight. Lowest temperatures of 10 to 13 degrees with light to moderate west to northwest winds, possibly gusty at times.",
+          "tomorrow": "On Thursday, there will be a mixture of sunny spells and scattered showers once again. Temperatures will reach 17 to 20 degrees and there\u2019ll be light to moderate, sometimes gusty, northerly winds.",
+          "pollen": "Moderate on Thursday and Friday.",
+          "solar_uv": "Moderate on Thursday and Friday."
         }
       ]
     }
