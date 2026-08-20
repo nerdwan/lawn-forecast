@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-20T05:30:00+01:00",
-          "today": "There will be a mix of sunny spells and scattered showers once again today. Temperatures will reach 16 to 19 degrees and there'll be light to moderate, sometimes gusty, northerly winds.",
-          "tonight": "Mainly dry and clear tonight with just the chance of the odd light shower. Lowest temperatures of 7 to 10 degrees in light to moderate northwesterly winds.",
-          "tomorrow": "Isolated showers at first tomorrow, becoming more widespread through the afternoon. Highest temperatures of 16 to 18 degrees in light to moderate northerly winds.",
-          "pollen": "Moderate on Thursday and Friday.",
-          "solar_uv": "Moderate on Thursday and Friday."
+          "issued": "2026-08-20T16:30:00+01:00",
+          "today": "Staying mostly cloudy this evening, with a few bright or sunny spells possible in places. There will be some well scattered showers too. All in light to moderate, sometimes gusty, northerly winds.",
+          "tonight": "Overnight, it will be dry for most, with plenty of clear spells and little cloud. An isolated shower will push down from the north. Lowest temperatures of 6 to 10 degrees in light to moderate northwesterly winds.",
+          "tomorrow": "On Friday, there will be a bright and sunny start to the day for most. However, cloud and some scattered showers will sweep down from the north during the afternoon and evening. Highest temperatures of 16 to 18 degrees in light to moderate northerly winds.",
+          "pollen": "Low on Friday and Saturday.",
+          "solar_uv": "Moderate on Friday and Saturday."
         }
       ]
     }
