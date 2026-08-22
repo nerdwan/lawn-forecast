@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-22T05:30:00+01:00",
-          "today": "A dry day today with spells of sunshine developing through the morning and afternoon. Highest temperatures of 17 to 20 degrees in a light northerly breeze.",
+          "issued": "2026-08-22T16:00:00+01:00",
+          "today": "Dry for the rest of today, with spells of sunshine, in a light northerly breeze.",
           "tonight": "Remaining dry tonight with clear spells. Mist and fog will develop for some in near calm conditions or a light breeze. Cool with lowest temperatures of 5 to 8 degrees.",
           "tomorrow": "Tomorrow morning, any mist and fog will clear to leave another dry and bright day with spells of sunshine. Highest temperatures of 17 to 21 degrees, coolest near the east coast, in a light variable breeze.",
-          "pollen": "Low on Saturday and Sunday.",
-          "solar_uv": "Moderate on Saturday and Sunday."
+          "pollen": "Low on Sunday and Monday.",
+          "solar_uv": "Moderate on Sunday and Monday."
         }
       ]
     }
