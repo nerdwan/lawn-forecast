@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-21T16:30:00+01:00",
-          "today": "A mix of clear to sunny spells and scattered showers this afternoon and evening, gradually clearing southeastwards later on, with a light to moderate northwesterly breeze.",
-          "tonight": "Dry with a mix of cloud and clear spells. Lowest temperatures of 6 to 9 degrees, with a light northwesterly or variable breeze.",
-          "tomorrow": "Dry with sunny spells. Highest temperatures of 16 to 20 degrees, warmest in the southeast, with a light northerly breeze.",
-          "pollen": "Low",
-          "solar_uv": "Moderate"
+          "issued": "2026-08-22T05:30:00+01:00",
+          "today": "A dry day today with spells of sunshine developing through the morning and afternoon. Highest temperatures of 17 to 20 degrees in a light northerly breeze.",
+          "tonight": "Remaining dry tonight with clear spells. Mist and fog will develop for some in near calm conditions or a light breeze. Cool with lowest temperatures of 5 to 8 degrees.",
+          "tomorrow": "Tomorrow morning, any mist and fog will clear to leave another dry and bright day with spells of sunshine. Highest temperatures of 17 to 21 degrees, coolest near the east coast, in a light variable breeze.",
+          "pollen": "Low on Saturday and Sunday.",
+          "solar_uv": "Moderate on Saturday and Sunday."
         }
       ]
     }
