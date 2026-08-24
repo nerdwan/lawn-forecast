@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-23T17:00:00+01:00",
-          "today": "Dry this evening with good sunny spells",
-          "tonight": "Tonight will stay dry with clear spells. Some mist and fog patches will develop in a light variable breeze. Chilly with lowest temperatures of 5 to 8 degrees.",
-          "tomorrow": "Tomorrow will be another dry day with sunny spells. An isolated shower is possible in the evening. Rather warm with highest temperatures of 19 to 23 degrees in light east to southeast winds.",
-          "pollen": "Low on Sunday and Monday.",
-          "solar_uv": "Moderate on Sunday and Monday."
+          "issued": "2026-08-24T05:00:00+01:00",
+          "today": "Any mist or fog will clear away quickly this morning to leave a dry day with sunny spells, turning hazy at times. Highest temperatures of 19 to 23 degrees in light, occasionally moderate east or southeast winds.",
+          "tonight": "Mostly dry tonight with clear spells and just the chance of an isolated shower in the south of the province. Temperatures will not fall below 11 to 15 degrees in light, occasionally moderate easterly breezes.",
+          "tomorrow": "Rather cloudy tomorrow with limited sunny spells. Mostly dry for the morning with just occasional showers. From mid-afternoon, scattered showers will begin to move in from the south, reaching the north of the province in the evening. Highest temperatures of 19 to 23 degrees in light to moderate easterly winds.",
+          "pollen": "Low Monday and Tuesday.",
+          "solar_uv": "Moderate Monday. Low to moderate Tuesday."
         }
       ]
     }
