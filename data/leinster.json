@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-24T17:00:00+01:00",
-          "today": "A dry and sunny evening for most, a bit more cloud in the south",
-          "tonight": "Mostly dry tonight with clear spells and just the chance of an isolated shower in the south of the province. Temperatures will not fall below 11 to 15 degrees in light, occasionally moderate easterly breezes.",
-          "tomorrow": "Rather cloudy tomorrow with limited sunny spells. Mostly dry for the morning with just occasional showers. From mid-afternoon, scattered showers will begin to move in from the south, reaching the north of the province in the evening. Highest temperatures of 19 to 23 degrees in light to moderate easterly winds.",
-          "pollen": "Low Monday and Tuesday.",
-          "solar_uv": "Moderate Monday. Low to moderate Tuesday."
+          "issued": "2026-08-25T07:00:00+01:00",
+          "today": "This morning will be mainly dry over Leinster. Early this afternoon, showery rain will develop in the south and will move northwards over the region through the afternoon and evening. The rain will turn heavy in places, especially in the south. Highest temperatures of 18 to 21 degrees with light to moderate easterly breezes.",
+          "tonight": "Tonight will be mild and mostly cloudy with showery rain continuing heavy at times. Temperatures will not fall below 13 to 16 degrees in light to moderate, occasionally fresh easterly winds.",
+          "tomorrow": "Wednesday will be mostly cloudy with rain becoming light and patchy in the morning. Scattered showers in the afternoon and early evening, some heavy with isolated thunderstorms possible. Highest temperatures of 18 to 21 degrees with light to moderate east or southeast winds.",
+          "pollen": "Low today and on Wednesday",
+          "solar_uv": "Moderate today and on Wednesday"
         }
       ]
     }
