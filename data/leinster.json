@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-25T17:30:00+01:00",
-          "today": "Showery rain this evening in a light to moderate easterly breeze.",
-          "tonight": "Tonight will be mild and mostly cloudy with showery rain at times. Temperatures will not fall below 13 to 16 degrees in moderate easterly winds.",
-          "tomorrow": "Tomorrow, Wednesday, will be mostly cloudy with rain becoming light and patchy in the morning. Scattered showers in the afternoon and early evening, some heavy with isolated thunderstorms possible. Highest temperatures of 18 to 21 degrees with light to moderate easterly winds.",
-          "pollen": "Low today and on Wednesday",
-          "solar_uv": "Moderate today and on Wednesday"
+          "issued": "2026-08-26T06:00:00+01:00",
+          "today": "Mild this morning but rather dull and damp too, with some patchy rain. While sunny spells will gradually break through, well-scattered showers may occur, locally heavy and thundery later. Humid with highest temperatures of 19 to 22 degrees, in mostly light east to southeast breezes.",
+          "tonight": "Any lingering thundery showers will clear early tonight with dry weather following. However, some areas of mist and fog will set in. Mild and humid with temperatures not falling below 12 to 16 degrees, in mostly light northeast or variable breezes. Towards morning, rain will begin to feed into southern fringes.",
+          "tomorrow": "Thursday will start off dry in many areas. Rain across southern fringes will slowly extend to eastern and southern counties, heavy at times with the chance of thunderstorms and the potential for surface flooding. Highest temperatures of 18 to 21 degrees with mostly light northeast or variable breezes.",
+          "pollen": "Low today and on Thursday",
+          "solar_uv": "Moderate today and on Thursday"
         }
       ]
     }
