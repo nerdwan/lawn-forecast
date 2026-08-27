@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-26T17:30:00+01:00",
-          "today": "Dry this evening with sunny spells, in a mostly light easterly breeze.",
-          "tonight": "Dry tonight with some areas of mist and fog. Mild and humid with temperatures not falling below 13 to 16 degrees, in light winds.",
-          "tomorrow": "Tomorrow, Thursday, will start off dry in many areas. However, rain in the south will push northwards through afternoon and evening, becoming heavy at times, especially in the south and east, with the chance of thunderstorms and intense downpours bringing the potential for surface flooding here. Highest temperatures of 18 to 21 degrees with a mostly light northeast breeze.",
-          "pollen": "Low today and on Thursday",
-          "solar_uv": "Moderate today and on Thursday"
+          "issued": "2026-08-27T12:00:00+01:00",
+          "today": "Outbreaks of rain spreading northwards, becoming heavy at times this afternoon with the chance of thunderstorms bringing the potential for surface flooding. Highest temperatures of 18 to 21 degrees with light to moderate northeast breezes.",
+          "tonight": "Outbreaks of rain, turning heavy in places with thunder possible. The rain will gradually ease, clearing to the south towards morning. Mild with lowest temperatures of 14 to 16 degrees in light northwesterly or variable breezes. Patches of mist and fog will also form.",
+          "tomorrow": "Any lingering rain in the southeast, as well as areas of mist and fog, will clear early on to leave a bright day with sunny spells. Some scattered showers developing in the afternoon, possibly heavy. Highest temperatures of 21 to 23 degrees with light, occasionally moderate, northwesterly breezes.",
+          "pollen": "Low.",
+          "solar_uv": "Low to moderate."
         }
       ]
     }
