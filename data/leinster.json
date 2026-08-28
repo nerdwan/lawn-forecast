@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-27T16:30:00+01:00",
-          "today": "Outbreaks of rain, heavy at times with the chance of thunderstorms bringing the potential for surface flooding. Light northeast breezes.",
-          "tonight": "Outbreaks of rain, heavy in places with thunder possible. The rain will gradually ease, clearing to the south towards morning, followed by areas of mist and fog. Mild with lowest temperatures of 14 to 16 degrees in light northwesterly or variable breezes.",
-          "tomorrow": "Any lingering rain in the southeast, as well as areas of mist and fog, will clear early on to leave a bright day with sunny spells. Some scattered showers developing in the afternoon, possibly heavy. Highest temperatures of 21 to 23 degrees with light, occasionally moderate, northwesterly breezes.",
-          "pollen": "Low.",
-          "solar_uv": "Moderate."
+          "issued": "2026-08-28T12:00:00+01:00",
+          "today": "A mix of cloud and sunny spells, with scattered showers developing this afternoon. Some of these showers could be heavy. Highest temperatures of 19 to 22 degrees, in a light to moderate west to northwest breeze.",
+          "tonight": "It will become wet tonight as rain spreads across the region from the southwest. The rain will be heavy at times and may cause localised flooding. Isolated thunderstorms are possible too. Lowest temperatures of 11 to 15 degrees with light and variable winds.",
+          "tomorrow": "Tomorrow morning will be cloudy and wet with widespread rain, heavy at times. The rain will gradually clear from most areas through the afternoon, with some brighter spells developing, but cloud and light rain will linger in parts of the east until evening. Highest temperatures of 15 to 17 degrees with light to moderate north to northwest winds.",
+          "pollen": "Low on Friday and Saturday.",
+          "solar_uv": "Moderate on Friday and Saturday."
         }
       ]
     }
