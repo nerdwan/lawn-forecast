@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-27T12:00:00+01:00",
-          "today": "Outbreaks of rain spreading northwards, becoming heavy at times this afternoon with the chance of thunderstorms bringing the potential for surface flooding. Highest temperatures of 18 to 21 degrees with light to moderate northeast breezes.",
-          "tonight": "Outbreaks of rain, turning heavy in places with thunder possible. The rain will gradually ease, clearing to the south towards morning. Mild with lowest temperatures of 14 to 16 degrees in light northwesterly or variable breezes. Patches of mist and fog will also form.",
+          "issued": "2026-08-27T16:30:00+01:00",
+          "today": "Outbreaks of rain, heavy at times with the chance of thunderstorms bringing the potential for surface flooding. Light northeast breezes.",
+          "tonight": "Outbreaks of rain, heavy in places with thunder possible. The rain will gradually ease, clearing to the south towards morning, followed by areas of mist and fog. Mild with lowest temperatures of 14 to 16 degrees in light northwesterly or variable breezes.",
           "tomorrow": "Any lingering rain in the southeast, as well as areas of mist and fog, will clear early on to leave a bright day with sunny spells. Some scattered showers developing in the afternoon, possibly heavy. Highest temperatures of 21 to 23 degrees with light, occasionally moderate, northwesterly breezes.",
           "pollen": "Low.",
-          "solar_uv": "Low to moderate."
+          "solar_uv": "Moderate."
         }
       ]
     }
