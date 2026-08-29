@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-29T06:00:00+01:00",
-          "today": "A wet start for most with widespread rain, drizzle and some mist. The rain will be very heavy and persistent at times with the chance of localised flooding. While the rain will ease and clear eastwards through the day, it may linger in parts for most of the day. Highest temperatures of 15 to 18 degrees, with light to moderate north to northwest winds backing westerly.",
-          "tonight": "Any lingering rain and drizzle will clear eastwards to leave a mostly dry night with a mix of cloud and clear spells. Some mist and fog patches too.Lowest temperatures of 10 to 14 degrees, with mostly light southerly winds.",
-          "tomorrow": "Widespread showers or more persistent spells of rain. These will be very heavy at times with thunderstorms and localised flooding possible. Some sunny spells will develop through the day. Highest temperatures of 16 to 21 degrees, with light to moderate, fresh at times, variable winds.",
-          "pollen": "Low.",
-          "solar_uv": "Low to moderate."
+          "issued": "2026-08-29T16:30:00+01:00",
+          "today": "Mostly cloudy for the rest of today with scattered outbreaks of rain dying out in most places. There will be some patchy mist and hill fog also. Mostly light north to northwest winds will back westerly.",
+          "tonight": "Any lingering rain will die out early tonight. Dry for a time, but isolated showers will develop towards morning. Some clear spells but mostly cloudy with mist and fog patches developing. Lowest temperatures of 9 to 14 degrees. Light west to southwest winds will back southerly overnight.",
+          "tomorrow": "A good deal of cloud about at first on Sunday with showers becoming widespread during the morning. Some will be heavy and prolonged with a risk of thunder and localised flooding. Sunny spells will develop in the afternoon, and the showers will become more isolated in the evening. Mild and humid with top temperatures of 17 to 20 degrees in light to moderate south to southeast winds, veering southwest in the afternoon. Winds will be fresh at times near the coast.",
+          "pollen": "Low on Sunday and Monday.",
+          "solar_uv": "Low to moderate on Sunday. Moderate on Monday."
         }
       ]
     }
