@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-28T17:00:00+01:00",
-          "today": "A mix of sunny spells and scattered showers, some heavy with isolated thunderstorms. Light to moderate west to northwest breeze.",
-          "tonight": "It will become wet tonight as rain spreads across the region from the southwest. The rain will be heavy at times and may cause localised flooding. Isolated thunderstorms are possible too. Lowest temperatures of 11 to 15 degrees with light and variable winds.",
-          "tomorrow": "Tomorrow morning will be cloudy and wet with widespread rain, heavy at times. The rain will gradually clear from most areas through the afternoon, with some brighter spells developing, but cloud and light rain will linger in parts of the east until evening. Highest temperatures of 15 to 17 degrees with light to moderate north to northwest winds.",
-          "pollen": "Low on Saturday and Sunday.",
-          "solar_uv": "Moderate on Saturday and Sunday."
+          "issued": "2026-08-29T06:00:00+01:00",
+          "today": "A wet start for most with widespread rain, drizzle and some mist. The rain will be very heavy and persistent at times with the chance of localised flooding. While the rain will ease and clear eastwards through the day, it may linger in parts for most of the day. Highest temperatures of 15 to 18 degrees, with light to moderate north to northwest winds backing westerly.",
+          "tonight": "Any lingering rain and drizzle will clear eastwards to leave a mostly dry night with a mix of cloud and clear spells. Some mist and fog patches too.Lowest temperatures of 10 to 14 degrees, with mostly light southerly winds.",
+          "tomorrow": "Widespread showers or more persistent spells of rain. These will be very heavy at times with thunderstorms and localised flooding possible. Some sunny spells will develop through the day. Highest temperatures of 16 to 21 degrees, with light to moderate, fresh at times, variable winds.",
+          "pollen": "Low.",
+          "solar_uv": "Low to moderate."
         }
       ]
     }
