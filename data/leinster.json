@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-29T16:30:00+01:00",
-          "today": "Mostly cloudy for the rest of today with scattered outbreaks of rain dying out in most places. There will be some patchy mist and hill fog also. Mostly light north to northwest winds will back westerly.",
-          "tonight": "Any lingering rain will die out early tonight. Dry for a time, but isolated showers will develop towards morning. Some clear spells but mostly cloudy with mist and fog patches developing. Lowest temperatures of 9 to 14 degrees. Light west to southwest winds will back southerly overnight.",
-          "tomorrow": "A good deal of cloud about at first on Sunday with showers becoming widespread during the morning. Some will be heavy and prolonged with a risk of thunder and localised flooding. Sunny spells will develop in the afternoon, and the showers will become more isolated in the evening. Mild and humid with top temperatures of 17 to 20 degrees in light to moderate south to southeast winds, veering southwest in the afternoon. Winds will be fresh at times near the coast.",
-          "pollen": "Low on Sunday and Monday.",
-          "solar_uv": "Low to moderate on Sunday. Moderate on Monday."
+          "issued": "2026-08-30T06:00:00+01:00",
+          "today": "Starting off dry and bright in places. Through the morning cloud will increase with showers or spells of rain developing. Downpours will turn heavy or squally at times with the potential for thunderstorms or localised flooding. Highest temperatures of 17 to 20 degrees, with mostly light to moderate southeasterly breezes, gusty at times around heavy showers.",
+          "tonight": "A mix of clear spells and isolated showers. Lowest temperatures of 10 to12 degrees, with moderate to fresh westerly winds.",
+          "tomorrow": "Monday will continue breezy but mostly dry apart from the odd isolated shower. Occasional sunny spells will develop, turning more hazy through the afternoon. Highest temperatures of 17 to 19 degrees in moderate to fresh west winds.",
+          "pollen": "Low.",
+          "solar_uv": "Low to moderate."
         }
       ]
     }
