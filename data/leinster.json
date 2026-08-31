@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-08-30T16:30:00+01:00",
-          "today": "Showers this evening, heavy and prolonged at times with isolated thunderstorms, hail and localised flooding. Winds may be gusty in and around the showers.",
-          "tonight": "A mix of clear spells and isolated showers. Becoming breezy. Lowest temperatures of 10 to12 degrees, with moderate to fresh westerly winds.",
-          "tomorrow": "Monday will continue quite breezy but mostly dry apart from the odd isolated shower. Occasional sunny spells will develop, turning more hazy through the afternoon. Highest temperatures of 17 to 19 degrees in moderate to fresh west winds.",
+          "issued": "2026-08-31T04:00:00+01:00",
+          "today": "Today will continue quite breezy for a time but mostly dry apart from the odd isolated shower. Occasional sunny spells will develop, turning more hazy through the afternoon. Highest temperatures of 16 to 19 degrees in moderate to fresh west winds, easing later.",
+          "tonight": "Tonight will be generally dry with clear spells and isolated showers. Lowest temperatures of 9 to 13 degrees, with a light to moderate southwesterly breeze.",
+          "tomorrow": "Tomorrow will be mostly dry to begin with sunny spells. However, it will become cloudier with scattered outbreaks of rain and drizzle moving eastwards. Highest temperatures of 17 to 20 degrees, with a light to moderate southwesterly breeze.",
           "pollen": "Low.",
           "solar_uv": "Low to moderate."
         }
