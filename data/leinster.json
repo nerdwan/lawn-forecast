@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-08-31T16:30:00+01:00",
-          "today": "It will be dry for many this evening, apart from an odd patch of rain in some northern parts. Some bright or sunny spells are possible too. All in light to moderate westerly winds, easing later.",
-          "tonight": "Tonight will be generally dry with clear spells and a few isolated showers. Lowest temperatures of 9 to 13 degrees, with a light to moderate southwesterly breeze.",
-          "tomorrow": "Tomorrow will be mostly dry to begin with sunny spells. However, it will become cloudier with scattered outbreaks of rain and drizzle moving eastwards. Highest temperatures of 17 to 19 degrees, with a light to moderate southwesterly breeze.",
-          "pollen": "Low on Tuesday and Wednesday.",
-          "solar_uv": "Low to moderate on Tuesday and Wednesday."
+          "issued": "2026-09-01T05:30:00+01:00",
+          "today": "This morning will be mainly dry with sunny spells. It will turn cloudier this afternoon with scattered outbreaks of rain and drizzle moving eastwards, mainly affecting northern parts at first. Highest temperatures of 17 to 20 degrees in light to moderate southwest breezes.",
+          "tonight": "Becoming wet tonight as outbreaks of rain extend from the southwest across the province, turning heavy at times. Lowest temperatures of 13 to 16 degrees with light south to southeast winds, increasing moderate towards morning and becoming fresher along southern coasts.",
+          "tomorrow": "Wet to start tomorrow with outbreaks of rain. The rain will ease and become patchier through the morning with occasional bright breaks developing. Highest temperatures of 17 to 21 degrees with mostly moderate southwest winds.",
+          "pollen": "Low.",
+          "solar_uv": "Low to moderate."
         }
       ]
     }
