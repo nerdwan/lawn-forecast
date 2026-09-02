@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-09-01T17:00:00+01:00",
-          "today": "It will remain rather cloudy and dry for many this evening. However, there will be a few scattered showers or patchy light rain in some parts. All in light to moderate southwest breezes.",
-          "tonight": "Generally cloudy and dry for most at first tonight. However, further cloud and rain will arrive from the south-west overnight. These will turn heavy in places. Lowest temperatures of 12 to 15 degrees with light to moderate south to southeast winds, fresher along coasts.",
-          "tomorrow": "Cloud and outbreaks of rain will quickly clear north-eastwards during the early morning. It will turn drier and brighter from the south-west throughout the late morning and afternoon, with some bright breaks developing. However, further patches of rain or showers may develop too. Highest temperatures of 19 to 21 degrees with mostly moderate southwest winds.",
-          "pollen": "Low on Wednesday and Thursday.",
-          "solar_uv": "Low to moderate on Wednesday and Thursday."
+          "issued": "2026-09-02T06:30:00+01:00",
+          "today": "Generally dull and damp today. While the heavier and more persistent rain will clear through the morning, patchier outbreaks of rain, drizzle and mist will continue through the day.Some limited sunny spells may break through as the day progresses. Highest temperatures of 17 to 22 degrees, with light to moderate southeasterly winds veering southwesterly and freshening.",
+          "tonight": "Starting off mostly cloudy with well-scattered showers. Clear spells will become more frequent as the night progresses. A mild night with lowest temperatures ranging from 11 degrees in the north to 16 degrees in the south, with a light to moderate southwesterly breeze.",
+          "tomorrow": "A dry start for many with just a few showers about and also some sunny spells. However, it will turn wet for the afternoon and evening with widespread rain. The rain will be heavy and persistent at times. Highest temperatures ranging of 17 to 20 degrees, with moderate to fresh southwesterly winds.",
+          "pollen": "Low.",
+          "solar_uv": "Low to moderate."
         }
       ]
     }
