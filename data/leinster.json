@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-09-02T18:00:00+01:00",
-          "today": "A cloudy evening with a few well scattered showers and moderate southwest winds.",
-          "tonight": "Starting off mostly cloudy with well-scattered showers. Clear spells will develop as the night progresses. A mild night with lowest temperatures ranging from 11 degrees in the north to 16 degrees in the south, with a light to moderate southwest breeze.",
-          "tomorrow": "A mainly dry and bright start with a few well scattered showers. Turning wet for the afternoon and evening with widespread rain developing. The rain will be heavy and persistent at times. Highest temperatures of 17 to 20 degrees, with moderate to fresh southwesterly winds.",
+          "issued": "2026-09-03T06:00:00+01:00",
+          "today": "A dry start for many with isolated showers and occasional brighter spells. Turning wet for the afternoon and evening with persistent rain spreading from the west, turning heavy at times. Highest temperatures of 17 to 21 degrees, with moderate southwesterly winds.",
+          "tonight": "Rain will continue to clear southeastwards with isolated showers following in behind. Clear spells will develop at times too. Lowest temperatures of 13 to 14 degrees in light to moderate southwest winds.",
+          "tomorrow": "Dry to start, mostly with a mix of cloud and clear spells. Throughout the day, isolated showers will feed in from the west, but in general, it is looking like a mostly dry day with good sunshine. Highest temperatures of 16 to 18 degrees in moderate to fresh westerly winds.",
           "pollen": "Low.",
           "solar_uv": "Low to moderate."
         }
