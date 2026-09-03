@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-09-03T13:30:00+01:00",
-          "today": "Bright spells at first this afternoon with isolated showers. Rain will spread gradually from the northwest later this afternoon and evening, turning heavy at times. Highest temperatures of 17 to 21 degrees, with moderate southwesterly winds.",
-          "tonight": "Rain will clear southeastwards tonight with isolated showers following in behind. Lowest temperatures of 12 to 14 degrees in light to moderate southwest winds.",
+          "issued": "2026-09-03T17:30:00+01:00",
+          "today": "Persistent rain will continue to spread from the northwest this evening, turning heavy at times with light to moderate southwesterly winds.",
+          "tonight": "Rain will clear southeastwards tonight with isolated showers following. Lowest temperatures of 12 to 14 degrees in light to moderate southwest winds, increasing towards morning.",
           "tomorrow": "A bright, blustery and fresh day with sunny spells and well scattered showers. Highest temperatures of 16 to 18 degrees in moderate to fresh westerly winds, easing later.",
           "pollen": "Low.",
-          "solar_uv": "Low to moderate."
+          "solar_uv": "Moderate."
         }
       ]
     }
