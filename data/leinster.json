@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-09-05T15:30:00+01:00",
-          "today": "This evening will be mostly cloudy and dry, with light to moderate southwesterly winds backing southeasterly.",
-          "tonight": "Remaining cloudy tonight with patches of rain, drizzle and mist. Some hill fog will develop also. Mild and humid with lowest temperatures of 14 to 16 degrees in moderate to fresh southerly winds.",
-          "tomorrow": "Tomorrow will be a blustery day with moderate to fresh and gusty southerly winds. Any early morning rain will clear to leave occasional sunny spells at first. However, cloud will increase through the morning with patches of light rain and drizzle spreading from the west through the afternoon and evening. Highest temperatures of 18 to 21 degrees.",
-          "pollen": "Low on Saturday and Sunday.",
-          "solar_uv": "Moderate on Saturday. Low to moderate on Sunday"
+          "issued": "2026-09-06T05:00:00+01:00",
+          "today": "A cloudy start this morning but staying mostly dry. Fresh southerly winds will continue through the afternoon as more cloud builds later. Rather mild to with highest temperatures of 18 to 21 degrees.",
+          "tonight": "A mix of cloud and clear spells but some light patchy rain will drift over at times too. Some mist patches forming too as winds fall light and lowest temperatures of 11 to 14 degrees.",
+          "tomorrow": "Cloudy but dry before rain moves in from the west later in the morning. The rain will be heavy at times before clearing eastwards later in the afternoon. Fresh and gusty southerly winds change westerly. Highest temperatures of 14 to 18 degrees.",
+          "pollen": "Low",
+          "solar_uv": "Low to moderate"
         }
       ]
     }
