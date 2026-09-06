@@ -1,19 +1,11 @@
 {
-  "issued": "2026-09-06T12:53:48.617223+00:00",
+  "issued": "2026-09-06T17:36:33.264502+00:00",
   "location": {
     "lat": 53.7263,
     "long": -6.8779,
     "name": "Kells, Co. Meath"
   },
   "hours": [
-    {
-      "time": "2026-09-06T15:00:00Z",
-      "temp_c": 20.0,
-      "wind_kmh": 24.8,
-      "cloud_pct": 97.2,
-      "humidity_pct": 82.1,
-      "precip_mm": 0.2
-    },
     {
       "time": "2026-09-06T18:00:00Z",
       "temp_c": 19.2,
