@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-09-07T12:00:00+01:00",
-          "today": "During the afternoon outbreaks of rain will spread from the west, turning heavy and more persistent at times in southern counties this evening. Highest temperatures of 16 to 19 degrees in fresh and gusty southwesterly winds.",
-          "tonight": "Largely dry tonight with clear spells and the odd isolated showers mainly in western parts. Lowest temperatures of 9 to 12 degrees in light to moderate and occasionally fresh southwest winds.",
-          "tomorrow": "Blustery tomorrow with sunny spells, scattered showers and a fresh and gusty west to northwest wind. The showers will become more isolated by evening as winds gradually ease too. Highest temperatures of 14 to 17 degrees.",
-          "pollen": "Low on Monday and Tuesday.",
-          "solar_uv": "Low to moderate on Monday and Tuesday."
+          "issued": "2026-09-08T06:00:00+01:00",
+          "today": "Blustery today with sunny spells and scattered heavy showers, turning prolonged in places. Parts of the southeast will stay fully dry though. The showers will become well-scattered by evening and brisk northwesterly winds will ease with late sunshine occurring widely. A fresh day with highest temperatures of 15 to 17 degrees.",
+          "tonight": "Mostly dry tonight as showers become isolated and clear spells develop. However, some drizzle or light showers will affect western fringes later. Cool with lowest temperatures of 6 to 10 degrees.",
+          "tomorrow": "Wednesday will be a largely dry day with just light west to southwest breezes. Sunny spells further east but it will become cloudier through the day with the odd light shower later. Becoming cloudier everywhere later. Highest temperatures of 16 to 18 or 19 degrees, best values further east.",
+          "pollen": "Low Tuesday and Wednesday",
+          "solar_uv": "Low to moderate today and Wednesday"
         }
       ]
     }
