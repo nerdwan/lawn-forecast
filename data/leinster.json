@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-09-09T12:30:00+01:00",
-          "today": "Mostly dry today with a mix of cloud and sunny spells. Cloud increasing in the evening. Highest temperatures of 16 to 18 degrees with light to moderate west to southwest winds.",
+          "issued": "2026-09-09T17:00:00+01:00",
+          "today": "Mostly cloudy. Light to moderate west to southwest winds.",
           "tonight": "Tonight will be dry early on, before cloud thickens overnight bringing some outbreaks of rain towards morning. Lowest temperatures of 10 to 13 degrees with light increasing moderate southerly winds.",
           "tomorrow": "Mostly cloudy with outbreaks of rain, clearing to sunny spells and well-scattered showers in the afternoon. Highest temperatures of 16 to 18 degrees in a moderate, occasionally fresh, southerly wind, easing light westerly with clearance of the rain.",
-          "pollen": "Low Wednesday and Thursday.",
-          "solar_uv": "Moderate on Wednesday, low to moderate on Thursday."
+          "pollen": "Low Thursday and Friday.",
+          "solar_uv": "Low to moderate on Thursday. Moderate on Friday."
         }
       ]
     }
