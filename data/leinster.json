@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-09-10T12:35:00+01:00",
-          "today": "Mostly cloudy today with patchy outbreaks of rain clearing eastwards early this afternoon. Scattered showers will follow from the west and some bright or sunny spells will develop. Moderate, locally, fresh and gusty south to southwest winds will veer westerly with the clearance of the rain and gradually ease. Highest temperatures of 17 to 20 degrees.",
-          "tonight": "Mostly cloudy at first tonight with some well scattered showers. The showers will die out early tonight and clear spells will develop widely. A few mist patches may form also. Lowest temperatures of 9 to 12 degrees with light, locally moderate, west to southwest or variable breezes.",
-          "tomorrow": "Friday will be a dry bright day with sunny spells. Highest temperatures of 16 to 18 degrees, with light, locally moderate, west to southwest winds, backing southerly later in the day.",
-          "pollen": "Low today and on Friday.",
-          "solar_uv": "Moderate in sunshine today, otherwise low. Moderate on Friday."
+          "issued": "2026-09-10T16:30:00+01:00",
+          "today": "Some sunny spells but mostly cloudy for the rest of today with scattered showers. Light to moderate west to southwest winds will be fresh at times near the south coast.",
+          "tonight": "Mostly cloudy at first tonight with some well scattered showers. The showers will die out early in the night and clear spells will develop widely. A few mist patches may form also. Lowest temperatures of 9 to 12 degrees with light, locally moderate, west to southwest or variable breezes.",
+          "tomorrow": "Friday will be a dry bright day with sunny spells. Highest temperatures of 16 to 18 degrees. Light, locally moderate, west to southwest winds will back southerly later in the day.",
+          "pollen": "Low on Friday and Saturday.",
+          "solar_uv": "Moderate Friday and low Saturday."
         }
       ]
     }
