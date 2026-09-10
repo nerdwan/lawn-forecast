@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-09-09T17:00:00+01:00",
-          "today": "Mostly cloudy. Light to moderate west to southwest winds.",
-          "tonight": "Tonight will be dry early on, before cloud thickens overnight bringing some outbreaks of rain towards morning. Lowest temperatures of 10 to 13 degrees with light increasing moderate southerly winds.",
-          "tomorrow": "Mostly cloudy with outbreaks of rain, clearing to sunny spells and well-scattered showers in the afternoon. Highest temperatures of 16 to 18 degrees in a moderate, occasionally fresh, southerly wind, easing light westerly with clearance of the rain.",
-          "pollen": "Low Thursday and Friday.",
+          "issued": "2026-09-10T05:30:00+01:00",
+          "today": "Cloudy with outbreaks of rain this morning. The rain will clear eastwards through the morning with well scattered showers and occasional sunny spells following. Moderate to fresh southerly winds will ease light, occasionally moderate, westerly with the clearance of the rain. Highest temperatures of 17 to 20 degrees.",
+          "tonight": "Rather cloudy with the odd light shower at first tonight. Clear spells will develop more widely towards morning. Lowest temperatures of 10 to 13 degrees with light, occasionally moderate, southwesterly breezes.",
+          "tomorrow": "Dry and bright with sunny spells tomorrow. Highest temperatures of 16 to 18 degrees, with light, occasionally moderate, west to southwest breezes.",
+          "pollen": "Low on Thursday and Friday.",
           "solar_uv": "Low to moderate on Thursday. Moderate on Friday."
         }
       ]
