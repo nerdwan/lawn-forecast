@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-09-10T16:30:00+01:00",
-          "today": "Some sunny spells but mostly cloudy for the rest of today with scattered showers. Light to moderate west to southwest winds will be fresh at times near the south coast.",
-          "tonight": "Mostly cloudy at first tonight with some well scattered showers. The showers will die out early in the night and clear spells will develop widely. A few mist patches may form also. Lowest temperatures of 9 to 12 degrees with light, locally moderate, west to southwest or variable breezes.",
-          "tomorrow": "Friday will be a dry bright day with sunny spells. Highest temperatures of 16 to 18 degrees. Light, locally moderate, west to southwest winds will back southerly later in the day.",
-          "pollen": "Low on Friday and Saturday.",
-          "solar_uv": "Moderate Friday and low Saturday."
+          "issued": "2026-09-11T05:30:00+01:00",
+          "today": "A bright and generally dry day with sunny spells and just the odd light shower about. Highest temperatures of 17 to 20 degrees, with a light westerly breeze, backing southerly through the day.",
+          "tonight": "Starting off dry and clear, before cloud and outbreaks of rain spread from the west later in the night, mainly affecting the north of the province. Becoming breezy too, with southwesterly winds increasing moderate to fresh and gusty. Lowest temperatures of 10 to 15 degrees.",
+          "tomorrow": "Continuing breezy with outbreaks of rain. While the rain will clear southwards through the morning and afternoon, it may linger in the southeast for much of the day. Highest temperatures of 17 to 20 degrees, with moderate to fresh southwesterly winds, veering westerly and easing through the day.",
+          "pollen": "Low.",
+          "solar_uv": "Moderate."
         }
       ]
     }
