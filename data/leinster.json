@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-09-11T16:30:00+01:00",
-          "today": "Mostly dry for the rest of today with sunny spells and just a few isolated light showers. Light southwest winds will back southerly, and increase moderate near the south coast.",
-          "tonight": "Dry at first tonight with clear spells. Cloud will increase from the west overnight, bringing outbreaks of rain to the north and northwest of the province. The rain may be heavy at times. It will be drier elsewhere with some patchy light rain and drizzle. Lowest temperatures of 11 to 15 degrees. Becoming breezy also as south to southwest winds increase moderate to fresh and gusty, with strong winds developing along parts of the south coast.",
-          "tomorrow": "Cloudy and breezy on Saturday morning with outbreaks of rain spreading southeastwards. Drier conditions with some well scattered showers will spread from the north to many parts and it will brighten up locally. However, rain will persist in some southern parts of Leinster all day. This rain will be heavy at times, especially in the evening, and may lead to spot flooding. There will be some fog near the south coast also. Highest temperatures of 17 to 21 degrees. Moderate to fresh and gusty southwest winds, strong at times near the south coast, will gradually ease light to moderate west or southwest during the day.",
-          "pollen": "Low.",
-          "solar_uv": "Low on Saturday. Moderate on Sunday."
+          "issued": "2026-09-12T07:00:00+01:00",
+          "today": "This morning, rain will move southeastwards over Leinster, heavy at times with localised flooding possible. It will become confined to the south by noon, where it will persist for the rest of the day. Becoming drier elsewhere with some sunny intervals and a few showers. Highest temperatures of 17 to 19 degrees with moderate to fresh southwesterly winds.",
+          "tonight": "Tonight, rain in the south and southwest will clear. It will be a mainly dry night with a fair amount of cloud, some clear spells and a few showers. Patches of mist and fog will form. Lowest temperatures of 12 to 15 degrees with light, variable breezes.",
+          "tomorrow": "Sunday will be mainly dry with a fair amount of cloud and some bright or sunny intervals and perhaps a few isolated showers. Highest temperatures of 18 to 22 degrees, warmest in the southeast with light variable or southerly breezes.",
+          "pollen": "Low today and Sunday",
+          "solar_uv": "Moderate in sunshine today and Sunday"
         }
       ]
     }
