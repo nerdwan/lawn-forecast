@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-09-12T07:00:00+01:00",
-          "today": "This morning, rain will move southeastwards over Leinster, heavy at times with localised flooding possible. It will become confined to the south by noon, where it will persist for the rest of the day. Becoming drier elsewhere with some sunny intervals and a few showers. Highest temperatures of 17 to 19 degrees with moderate to fresh southwesterly winds.",
-          "tonight": "Tonight, rain in the south and southwest will clear. It will be a mainly dry night with a fair amount of cloud, some clear spells and a few showers. Patches of mist and fog will form. Lowest temperatures of 12 to 15 degrees with light, variable breezes.",
-          "tomorrow": "Sunday will be mainly dry with a fair amount of cloud and some bright or sunny intervals and perhaps a few isolated showers. Highest temperatures of 18 to 22 degrees, warmest in the southeast with light variable or southerly breezes.",
+          "issued": "2026-09-12T12:00:00+01:00",
+          "today": "A rather cloudy day, with further outbreaks of rain across the south of the province. The rain may be heavy at times with localised flooding possible. It will be drier elsewhere with a few sunny spells and isolated showers. Highest temperatures of 17 to 20 degrees with moderate or fresh west to southwesterly winds.",
+          "tonight": "Rain will clear from southern areas early tonight, and it will be dry for a time with a fair amount of cloud and a few clear spells. Some patchy outbreaks of rain will develop again later in the night. A few patches of mist and fog will also form. Lowest temperatures of 12 to 15 degrees with light and variable winds.",
+          "tomorrow": "Tomorrow, Sunday, will be mostly dry with a few bright or sunny spells. Highest temperatures of 18 to 22 degrees, warmest in the southeast, with light variable or southerly winds.",
           "pollen": "Low today and Sunday",
-          "solar_uv": "Moderate in sunshine today and Sunday"
+          "solar_uv": "Moderate in any sunshine today and Sunday"
         }
       ]
     }
