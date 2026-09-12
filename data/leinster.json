@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-09-12T12:00:00+01:00",
-          "today": "A rather cloudy day, with further outbreaks of rain across the south of the province. The rain may be heavy at times with localised flooding possible. It will be drier elsewhere with a few sunny spells and isolated showers. Highest temperatures of 17 to 20 degrees with moderate or fresh west to southwesterly winds.",
-          "tonight": "Rain will clear from southern areas early tonight, and it will be dry for a time with a fair amount of cloud and a few clear spells. Some patchy outbreaks of rain will develop again later in the night. A few patches of mist and fog will also form. Lowest temperatures of 12 to 15 degrees with light and variable winds.",
+          "issued": "2026-09-12T16:00:00+01:00",
+          "today": "Mostly cloudy this evening, with further outbreaks of rain across the south of the province. It will be drier elsewhere with a few sunny spells and some well scattered showers. Moderate west to southwesterly winds will ease this evening.",
+          "tonight": "Rain will clear from southern areas early tonight, and it will be dry for a time with a fair amount of cloud and a few clear spells. Some patchy outbreaks of rain will develop again later in the night. A few patches of mist and fog will also form. Lowest temperatures of 12 to 15 degrees in light and variable winds.",
           "tomorrow": "Tomorrow, Sunday, will be mostly dry with a few bright or sunny spells. Highest temperatures of 18 to 22 degrees, warmest in the southeast, with light variable or southerly winds.",
-          "pollen": "Low today and Sunday",
-          "solar_uv": "Moderate in any sunshine today and Sunday"
+          "pollen": "Low on Sunday and Monday.",
+          "solar_uv": "Moderate in sunshine on Sunday. Low on Monday."
         }
       ]
     }
