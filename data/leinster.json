@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-09-12T16:00:00+01:00",
-          "today": "Mostly cloudy this evening, with further outbreaks of rain across the south of the province. It will be drier elsewhere with a few sunny spells and some well scattered showers. Moderate west to southwesterly winds will ease this evening.",
-          "tonight": "Rain will clear from southern areas early tonight, and it will be dry for a time with a fair amount of cloud and a few clear spells. Some patchy outbreaks of rain will develop again later in the night. A few patches of mist and fog will also form. Lowest temperatures of 12 to 15 degrees in light and variable winds.",
-          "tomorrow": "Tomorrow, Sunday, will be mostly dry with a few bright or sunny spells. Highest temperatures of 18 to 22 degrees, warmest in the southeast, with light variable or southerly winds.",
+          "issued": "2026-09-13T05:30:00+01:00",
+          "today": "Mist and fog will clear later this morning.Today will be mostly cloudy and dry and any showers that develop will be isolated. Highest temperatures of 18 to 21 degrees with light southerly or variable winds.",
+          "tonight": "Tonight will be largely cloudy with mist and fog developing. Isolated drizzle is possible, but most places will stay dry. Mild and humid with temperatures not falling below 13 to 16 degrees, in light to moderate southerly winds.",
+          "tomorrow": "Tomorrow will start dry with some sunny spells, but it will become cloudy and spells of showery rain will move northeastwards across the region through the day. The rain will be heavy at times. Warm and humid with highest temperatures of 18 to 23 degrees, with light to moderate southerly winds at first, increasing moderate to fresh through the day.",
           "pollen": "Low on Sunday and Monday.",
-          "solar_uv": "Moderate in sunshine on Sunday. Low on Monday."
+          "solar_uv": "Moderate or Low on Sunday and Monday."
         }
       ]
     }
