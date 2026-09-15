@@ -1,43 +1,11 @@
 {
-  "issued": "2026-09-15T19:01:40.370124+00:00",
+  "issued": "2026-09-15T23:31:58.029541+00:00",
   "location": {
     "lat": 53.7263,
     "long": -6.8779,
     "name": "Kells, Co. Meath"
   },
   "hours": [
-    {
-      "time": "2026-09-15T20:00:00Z",
-      "temp_c": 11.6,
-      "wind_kmh": 11.9,
-      "cloud_pct": 78.8,
-      "humidity_pct": 93.0,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-09-15T21:00:00Z",
-      "temp_c": 12.3,
-      "wind_kmh": 14.8,
-      "cloud_pct": 76.9,
-      "humidity_pct": 91.7,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-09-15T22:00:00Z",
-      "temp_c": 12.0,
-      "wind_kmh": 14.0,
-      "cloud_pct": 46.8,
-      "humidity_pct": 94.1,
-      "precip_mm": 0.0
-    },
-    {
-      "time": "2026-09-15T23:00:00Z",
-      "temp_c": 12.0,
-      "wind_kmh": 14.0,
-      "cloud_pct": 84.7,
-      "humidity_pct": 94.2,
-      "precip_mm": 0.0
-    },
     {
       "time": "2026-09-16T00:00:00Z",
       "temp_c": 12.2,
