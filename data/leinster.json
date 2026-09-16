@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-09-15T17:00:00+01:00",
-          "today": "A mix of clear spells and scattered showers this evening with moderate to fresh west to northwest winds.",
-          "tonight": "Showers will become less frequent tonight, with longer dry and clear spells developing. Lows of 9 to 12 degrees with moderate westerly winds.",
-          "tomorrow": "It will be mostly dry tomorrow with a mix of cloud, sunny spells, and some passing showers. Later in the day, cloud will increase from the west, and the odd spot of drizzle is possible. Highest temperatures of 17 or 18 degrees, with mostly moderate west to southwest breezes, freshening later.",
-          "pollen": "Low",
-          "solar_uv": "Low to moderate"
+          "issued": "2026-09-16T05:30:00+01:00",
+          "today": "A mix of cloud and bright spells with isolated showers. Highest temperatures of 14 to 18 degrees with mostly light to moderate westerly winds.",
+          "tonight": "Cloudy with outbreaks rain and drizzle. Showers will develop behind. Lowest temperatures of 10 to 12 degrees, in moderate southwesterly winds, fresher along the coast.",
+          "tomorrow": "A mix of cloudy and clear skies with scattered showers. Sunny spells will develop at times through the day, the best of which will be to the southeast. Highest temperatures of 13 to 16 degrees in moderate to fresh westerly winds, stronger on the coast.",
+          "pollen": "Low.",
+          "solar_uv": "Low to moderate."
         }
       ]
     }
