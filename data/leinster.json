@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-09-17T12:00:00+01:00",
-          "today": "It will be breezy today with a mix of sunny spells and scattered showers. The showers will become more isolated by the evening. Highs of 15 to 17 degrees with moderate to fresh and gusty westerly winds.",
+          "issued": "2026-09-17T16:30:00+01:00",
+          "today": "It will remain breezy this evening with a mix of sunny spells and scattered showers. The showers will fade throughout the evening. All in moderate to fresh and gusty westerly winds.",
           "tonight": "Mostly dry tonight with a mix of cloud and clear spells. Lows of 9 to 12 degrees with mostly moderate west or southwest winds.",
           "tomorrow": "It will be mostly dry at first tomorrow with a few sunny spells. However, outbreaks of rain will spread from the west later in the morning along with some mist and hill fog. The rain will become patchier during the afternoon. Highs of 16 to 18 degrees with moderate to fresh and gusty southwest winds.",
-          "pollen": "Low.",
-          "solar_uv": "Generally low but moderate in any sunny spells."
+          "pollen": "Low on Friday and Saturday.",
+          "solar_uv": "Generally low but moderate in any sunny spells on Friday and Saturday."
         }
       ]
     }
