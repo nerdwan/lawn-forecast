@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-09-17T16:30:00+01:00",
-          "today": "It will remain breezy this evening with a mix of sunny spells and scattered showers. The showers will fade throughout the evening. All in moderate to fresh and gusty westerly winds.",
-          "tonight": "Mostly dry tonight with a mix of cloud and clear spells. Lows of 9 to 12 degrees with mostly moderate west or southwest winds.",
-          "tomorrow": "It will be mostly dry at first tomorrow with a few sunny spells. However, outbreaks of rain will spread from the west later in the morning along with some mist and hill fog. The rain will become patchier during the afternoon. Highs of 16 to 18 degrees with moderate to fresh and gusty southwest winds.",
+          "issued": "2026-09-18T06:00:00+01:00",
+          "today": "Mostly cloudy today and becoming breezy, with outbreaks of rain spreading from the west through the morning. The rain will ease through the afternoon, with some drier spells developing especially further to the south and east, but there'll be further scattered outbreaks of light rain and drizzle too, along with some mist and hill fog. Highest temperatures of 15 to 18 degrees in moderate to fresh and gusty southwest winds, stronger for exposed coasts.",
+          "tonight": "Mostly cloudy for a time tonight, with scattered outbreaks of light rain and drizzle, along with some mist and hill fog. Becoming mainly dry overnight though, as a clearance extends southwards and with just a few isolated showers following. Mild with temperatures not falling below 13 to 15 degrees in moderate to fresh and occasionally gusty southwest winds, stronger in exposed coastal parts.",
+          "tomorrow": "Tomorrow, Saturday, will be a breezy, mainly dry day, with some bright or sunny spells. There'll just be a few well scattered showers around, these mainly further north. Highest temperatures of 15 to 19 degrees, in moderate, occasionally fresh and gusty southwest to west winds, moderating later.",
           "pollen": "Low on Friday and Saturday.",
-          "solar_uv": "Generally low but moderate in any sunny spells on Friday and Saturday."
+          "solar_uv": "Low on Friday. Low to moderate in sunny spells on Saturday."
         }
       ]
     }
