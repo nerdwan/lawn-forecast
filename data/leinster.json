@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-09-18T16:00:00+01:00",
-          "today": "Remaining breezy and mostly cloudy this evening, with any rain and drizzle becoming patchier. Some dry spells will develop in places. All in moderate to fresh and gusty southwesterly winds, stronger in exposed coastal areas.",
-          "tonight": "Mostly cloudy at first tonight, with scattered outbreaks of light rain and drizzle. Becoming rather cloudy and mainly dry overnight as a clearance extends southwards, with just a few isolated showers following. Mild, with temperatures not falling below 13 to 15 degrees, in moderate to fresh and occasionally gusty southwesterly winds, stronger in exposed coastal parts.",
-          "tomorrow": "Tomorrow, Saturday, will be a breezy, mainly dry day, with some bright or sunny spells. There'll just be a few well scattered showers around, these mainly further north. Highest temperatures of 15 to 19 degrees, in moderate, occasionally fresh and gusty southwest to west winds, moderating later.",
-          "pollen": "Low on Saturday and Sunday.",
-          "solar_uv": "Low, but moderate in sunny spells on Saturday and Sunday."
+          "issued": "2026-09-19T06:00:00+01:00",
+          "today": "Bright and breezy today with sunny spells and just a few showers, mainly further north in the province. Highest temperatures of 15 to 19 degrees, warmest in the southeast, with moderate to fresh southwest to west winds.",
+          "tonight": "Dry with clear spells. Lowest temperatures of 7 to 11 degrees, with light to moderate southwest to west winds, easing through the night.",
+          "tomorrow": "Plenty of dry and bright weather with sunny spells, before cloud thickens from the southwest later in the afternoon and evening.Highest temperatures of 16 to 19 degrees, with light variable breezes becoming southerly.",
+          "pollen": "Low.",
+          "solar_uv": "Low to moderate."
         }
       ]
     }
