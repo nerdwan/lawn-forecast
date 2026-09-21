@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-09-20T16:30:00+01:00",
-          "today": "Dry and sunny with cloud developing this evening. Light winds.",
-          "tonight": "Cloud increasing but it will remain dry. Light southerly breezes and rather humid conditions overnight too with lowest temperatures of 13 to 16 degrees.",
-          "tomorrow": "Overcast and misty to start, but sunny spells will break through by the afternoon with isolated showers possible in the evening. Warm and humid with highs of 20 to 23 degrees in just light southwesterly breezes.",
-          "pollen": "Low",
-          "solar_uv": "Moderate Monday, low to moderate on Tuesday."
+          "issued": "2026-09-21T07:30:00+01:00",
+          "today": "Today will be warm, humid, mostly cloudy and mainly dry. There'll be a little drizzle and mist this morning. Some bright or sunny intervals will develop, the best of these during the afternoon. Highest temperatures of 20 to 22 degrees with light to moderate southwesterly breezes.",
+          "tonight": "Tonight will be mild, humid and mainly dry with some clear spells and patches of mist or fog. Lowest temperatures of 12 to 15 degrees with light southerly breezes.",
+          "tomorrow": "Tuesday will be mainly dry with bright or sunny spells and perhaps a few showers. Highest temperatures of 17 to 20 degrees with light southerly winds.",
+          "pollen": "Low today and Tuesday.",
+          "solar_uv": "Moderate today and on Tuesday."
         }
       ]
     }
