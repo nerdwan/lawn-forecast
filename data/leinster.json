@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-09-22T12:00:00+01:00",
-          "today": "Rather cloudy this afternoon with some sunny spells breaking through. Some isolated showers are possible in places. Cloud will, however, increase in the evening. Highest temperatures of 18 to 22 degrees with light to moderate southerly or variable winds.",
-          "tonight": "Cloudy and mostly dry at first. However, rain and drizzle will drift in from the west and move eastwards as the night goes on, the rain will possibly be heavy in places. This will clear eastward, giving way to clear spells before dawn. Temperatures will fall to between 10 to 15 degrees with light to moderate southerly winds veering northwesterlies later.",
-          "tomorrow": "Tomorrow will be mostly dry but rather cloudy at first with good sunny spells occasionally breaking through. Cloud will increase later in the evening. Highest temperatures of 17 to 19 degrees, with light to moderate northwesterly or variable winds.",
-          "pollen": "Low on Tuesday and Wednesday.",
-          "solar_uv": "Low to Moderate on Tuesday and Wednesday."
+          "issued": "2026-09-22T15:30:00+01:00",
+          "today": "Mostly cloudy this evening with some isolated showers possible. Winds will generally be light to moderate southerly.",
+          "tonight": "Cloudy and mostly dry at first. However, rain and drizzle will move in from the west as the night goes on, possibly heavy in places. A clearance will follow later. Temperatures will fall to between 10 and 13 degrees with light to moderate southerly winds veering northwesterly later.",
+          "tomorrow": "The last of the rain will clear the east coast early on to give a mostly dry day with sunny spells. Highest temperatures of 15 to 19 degrees, with light to moderate northwesterly or variable winds.",
+          "pollen": "Low tomorrow.",
+          "solar_uv": "Low to moderate tomorrow."
         }
       ]
     }
