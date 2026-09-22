@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-09-21T16:30:00+01:00",
-          "today": "It will continue warm, humid and dry this evening. There will be plenty of bright or sunny intervals with some cloud. All in light to moderate southwesterly breezes.",
-          "tonight": "Tonight will be mild, humid and mainly dry with some clear spells and patches of mist or fog. Lowest temperatures of 12 to 15 degrees with light southerly breezes.",
-          "tomorrow": "Tuesday will be dry for most, though generally cloudy. There will be some bright or hazy sunny spells at times, with perhaps some isolated showers. Highest temperatures of 17 to 20 degrees with light southerly winds.",
+          "issued": "2026-09-22T05:30:00+01:00",
+          "today": "Mostly cloudy this morning with mist, fog and drizzle in southern areas. Scattered showers will develop this afternoon and evening, with occasional sunny spells, though cloud will increase again towards evening. Highest temperatures of 18 to 22 degrees, in light to moderate southerly or variable breezes.",
+          "tonight": "Rain and drizzle will move in to the western part of the province early in the night, and move eastwards as the night goes on, though it will become lighter as it does. The rain will give way to mostly dry conditions, with good clear spells, and only isolated showers. Minimum temperatures will fall to between 7 and 12 degrees in the northwest of the province, but remain higher in the southeast where cloud and patchy rain will linger until morning, with lows of 13 to 15 degrees. There will be patches of mist and fog also, in light variable breezes.",
+          "tomorrow": "Mist and fog will clear tomorrow morning, along with any lingering rain in the southeast, leaving a mostly dry day with sunny spells. Highest temperatures of 15 to 19 degrees, in light to moderate northwesterly or variable breezes.",
           "pollen": "Low on Tuesday and Wednesday.",
-          "solar_uv": "Low to moderate on Tuesday and Wednesday"
+          "solar_uv": "Low to Moderate on Tuesday and Wednesday."
         }
       ]
     }
