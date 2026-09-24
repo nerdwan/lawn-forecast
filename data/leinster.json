@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-09-24T12:00:00+01:00",
-          "today": "Cloudy and mostly dry this afternoon, but outbreaks of rain and drizzle will develop this evening across the north and west of the province. Highest temperatures of 17 to 19 degrees in moderate, occasionally fresh and gusty, southerly winds.",
+          "issued": "2026-09-24T16:30:00+01:00",
+          "today": "Cloudy and rather breezy this evening, with outbreaks of rain and drizzle developing across the north and west of the province, in moderate, occasionally fresh, southerly winds.",
           "tonight": "Cloudy tonight with outbreaks of rain and drizzle spreading eastwards across the province early on. The rain will ease and turn patchier later. Lowest temperatures of 11 to 13 degrees in light to moderate southwesterly winds.",
-          "tomorrow": "It will be a cloudy start to tomorrow, Friday, with patchy drizzle lingering in the east and southeast at first. The drizzle will clear later in the morning and the rest of the day will be mostly dry with sunny spells developing. Highest temperatures of 13 to 16 degrees in a light to moderate southwesterly breeze.",
-          "pollen": "Low on Thursday and Friday.",
-          "solar_uv": "Low on Thursday. Low to moderate on Friday."
+          "tomorrow": "It will be a cloudy start to tomorrow, Friday, with patchy rain and drizzle lingering in the east and southeast at first. The rain and drizzle will clear later in the morning and the rest of the day will be mostly dry with sunny spells developing. Highest temperatures of 13 to 16 degrees in a light to moderate southwesterly breeze.",
+          "pollen": "Low on Friday and Saturday.",
+          "solar_uv": "Low to moderate on Friday and Saturday."
         }
       ]
     }
