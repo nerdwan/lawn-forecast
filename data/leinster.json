@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-09-23T17:30:00+01:00",
-          "today": "Dry and bright this evening with light northwesterly or variable breezes.",
-          "tonight": "Tonight will remain dry with plenty of clear spells at first. It will turn cloudier towards morning. Lowest temperatures of 9 to 11 degrees in a light southerly breeze.",
-          "tomorrow": "Tomorrow will be dry for some with a mixture of cloud and hazy sunny spells at first. There may be the odd patch of light rain or drizzle, mainly in western parts. Feeling milder as cloud builds throughout the day. Further patches of light rain and drizzle will develop in western parts towards days end. Highest temperatures of 17 to 19 degrees in moderate southerly winds.",
-          "pollen": "Low on Wednesday and Thursday.",
-          "solar_uv": "Moderate on Wednesday and low to moderate on Thursday."
+          "issued": "2026-09-24T05:30:00+01:00",
+          "today": "Today will be mostly dry with a few sunny spells at first and the chance of isolated showers. Cloud will thicken from the west later this morning and afternoon with isolated drizzle patches in the midlands this evening. Highest temperatures of 17 to 19 degrees in moderate southerly winds.",
+          "tonight": "Cloudy tonight with rain and drizzle spreading from the west early on. The rain will ease and turn patchier later. Lowest temperatures of 11 to 13 degrees in light to moderate southwesterly winds.",
+          "tomorrow": "Much of tomorrow will be dull with lingering drizzle near east and southeast coasts at first. Any drizzle will clear by afternoon with sunny spells slowly spreading from the northwest by evening. Highest temperatures of 13 to 16 degrees in a light to moderate southwest breeze.",
+          "pollen": "Low on Thursday and Friday.",
+          "solar_uv": "Low to moderate Thursday and Friday."
         }
       ]
     }
