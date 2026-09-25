@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-09-25T15:00:00+01:00",
-          "today": "A bright day with sunny spells and some well scattered showers. Highest temperatures of 15 to 18 degrees in moderate southwesterly winds.",
-          "tonight": "Staying dry across much of the province tonight with clear spells, but some scattered showers will develop in western areas later. Lowest temperatures of 11 to 14 degrees in moderate southwesterly winds.",
-          "tomorrow": "A breezy day, with sunny spells and some well scattered showers. Highest temperatures of 17 to 20 degrees in moderate or fresh, south to southwesterly winds.",
+          "issued": "2026-09-25T16:00:00+01:00",
+          "today": "There will be sunny spells and some well scattered showers this evening, in moderate southwesterly winds.",
+          "tonight": "Staying mostly dry tonight with clear spells and just isolated showers. Lowest temperatures of 11 to 14 degrees in moderate southwesterly winds.",
+          "tomorrow": "Tomorrow, Saturday, will be breezy with sunny spells and scattered showers. Highest temperatures of 17 to 20 degrees in moderate or fresh, south to southwesterly winds.",
           "pollen": "Low.",
-          "solar_uv": "Low to moderate."
+          "solar_uv": "Low to moderate on Saturday. Low on Sunday."
         }
       ]
     }
