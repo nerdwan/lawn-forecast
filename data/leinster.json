@@ -3,12 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-09-28T05:30:00+01:00",
-          "today": "Dry and bright today with long spells of sunshine, hazy at times. Highest temperatures of 15 to 17 degrees in a light, occasionally moderate, south to southeast breeze.",
-          "tonight": "Dry for most tonight with clear spells. It will turn cloudier in southern parts overnight with patchy rain and drizzle developing towards morning. Lowest temperatures of 10 to 14 degrees, with a light to moderate southeasterly breeze, freshening towards morning.",
-          "tomorrow": "Tomorrow will be windy with southeasterly winds increasing fresh to strong and gusty, reaching near gale force in the evening. Some early bright spells in northern parts but turning cloudy with patchy rain and drizzle. More persistent rain will spread from the southwest later in the afternoon and evening, turning heavy in places with localised flooding possible. A mild and humid day with highest temperatures of 17 to 20 degrees.",
-          "pollen": "Low.",
-          "solar_uv": "Low."
+          "issued": "2026-09-28T16:30:00+01:00",
+          "today": "Remaining dry and bright this evening with hazy sunshine and generally light to moderate southeasterly breezes.",
+          "tonight": "Dry for most tonight with occasional clear spells. Turning cloudier from the south towards dawn. Lowest temperatures of 10 to 14 degrees, with a light to moderate southeasterly breeze, freshening towards morning.",
+          "tomorrow": "Windy tomorrow, with southeasterly winds increasing fresh to strong and turning gusty, reaching near gale force in the evening. Some early bright spells, but further cloud with patchy rain and drizzle will develop in places. More persistent and locally heavy rain will spread from the southwest later. Mild and humid, with highs of 17 to 20 degrees.",
+          "solar_uv": "Low on Tuesday and Wednesday."
         }
       ]
     }
