@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-09-28T16:30:00+01:00",
-          "today": "Remaining dry and bright this evening with hazy sunshine and generally light to moderate southeasterly breezes.",
-          "tonight": "Dry for most tonight with occasional clear spells. Turning cloudier from the south towards dawn. Lowest temperatures of 10 to 14 degrees, with a light to moderate southeasterly breeze, freshening towards morning.",
-          "tomorrow": "Windy tomorrow, with southeasterly winds increasing fresh to strong and turning gusty, reaching near gale force in the evening. Some early bright spells, but further cloud with patchy rain and drizzle will develop in places. More persistent and locally heavy rain will spread from the southwest later. Mild and humid, with highs of 17 to 20 degrees.",
-          "solar_uv": "Low on Tuesday and Wednesday."
+          "issued": "2026-09-29T05:30:00+01:00",
+          "today": "Windy or becoming windy today, Tuesday, with strong and gusty southeasterly winds developing and reaching gale or near gale force at the coast. Dry to begin across north Leinster, but outbreaks of rain and drizzle further south will spread northwards this morning and afternoon. A spell of more persistent rain will spread from the southwest later this afternoon and evening, with localised flooding possible. Highest temperatures of 15 to 18 degrees.",
+          "tonight": "Continuing wet for a time tonight, especially in the east and north of the province with an ongoing risk of spot flooding. Drier and clearer conditions will gradually extend from the southwest overnight. The strong and gusty southeasterly winds will ease light to moderate southerly as the rain clears. Lowest temperatures of 10 to 14 degrees.",
+          "tomorrow": "Tomorrow Wednesday will be a bright day with a mix of sunny spells and showers. Some of the showers will heavy, with a chance of isolated thunderstorms. Highest temperatures 15 or 18 degrees. Moderate southerly winds, will ease light to moderate later in the day.",
+          "solar_uv": "Low today and tomorrow."
         }
       ]
     }
