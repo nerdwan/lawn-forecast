@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-09-29T16:00:00+01:00",
-          "today": "It will be cloudy and windy this evening with further outbreaks of rain. The rain will be persistent and possibly heavy at times with spot flooding possible. Southeasterly winds will be strong and gusty, reaching gale force near the coast.",
-          "tonight": "Continuing cloudy and wet tonight, especially in the east and north of the province with an ongoing risk of spot flooding. As the night progresses, the rain will clear eastwards, followed by drier and clearer conditions. The strong and gusty southeasterly winds will ease light to moderate southerly as the rain clears. Lows of 10 to 14 degrees.",
-          "tomorrow": "It will be a bright day tomorrow with a mix of sunny spells and scattered showers. Some of the showers will be heavy and possibly thundery. Highs of 15 or 18 degrees with moderate southerly winds easing light to moderate later in the day.",
-          "solar_uv": "Low today and tomorrow."
+          "issued": "2026-09-30T07:00:00+01:00",
+          "today": "Today will be a bright, fresh day across Leinster with sunny spells. Showers will extend eastwards later this morning and will continue this afternoon and evening, some heavy with a chance of isolated thunderstorms. Highest temperatures 15 to 18 degrees with moderate to fresh southerly winds, decreasing mostly moderate later in the day.",
+          "tonight": "Tonight, showers will die out and it will become dry with clear spells. Lowest temperatures of 5 to 9 degrees with light to moderate southerly breezes.",
+          "tomorrow": "Thursday will be mainly dry with sunny spells. Highest temperatures of 15 or 16 degrees with moderate southerly winds.",
+          "solar_uv": "Low today and on Thursday"
         }
       ]
     }
