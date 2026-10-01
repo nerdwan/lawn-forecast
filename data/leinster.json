@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-10-01T05:30:00+01:00",
-          "today": "Largely dry today with sunny spells and just a few isolated showers during the morning and afternoon. Outbreaks of showery rain will spread from the west in the evening and may turn heavy in places. Highest temperatures of 15 to 17 degrees in moderate southerly winds, increasing fresh along the south coast as the afternoon wears on.",
-          "tonight": "Showery outbreaks of rain will spread from the west overnight. The rain will become mainly confined to the southeast by morning. Lowest temperatures of 10 to 14 degrees in moderate southerly winds, freshening over southern coastal counties.",
-          "tomorrow": "Dry with sunny spells at first tomorrow. Cloud and outbreaks of rain will spread from the west through the afternoon and evening, turning heavy at times. A clearance to sunny spells will follow into the west through the evening. Highest temperatures of 15 to 18 degrees in moderate to fresh southwesterly winds.",
-          "solar_uv": "Low on Thursday and Friday."
+          "issued": "2026-10-01T16:30:00+01:00",
+          "today": "A mix of cloud and sunny spells for the rest of today. It will be dry apart from a few isolated showers. Moderate southerly winds will be fresh at times near the south coast.",
+          "tonight": "Outbreaks of showery rain will spread from the west early tonight. Some heavy bursts are possible. The rain will clear most parts by morning, but showers will linger in parts of east and southeast. Lowest temperatures of 10 to 13 degrees with light to moderate southerly winds. Fresh at times in southern counties, with strong winds at times near the south coast.",
+          "tomorrow": "Some sunny spells on Friday but a good deal of cloud overall. Largely dry during the morning with isolated showers. Outbreaks of rain will spread from the west in the afternoon, turning heavy at times with a chance of localised flooding. There is a chance of isolated thunderstorms with hail also. The rain will clear eastwards in the evening. Highest temperatures of 16 to 19 degrees. Moderate to fresh and gusty southwest winds, strong at times near the south coast, will veer westerly with the clearance and ease.",
+          "solar_uv": "Low on Friday and Saturday."
         }
       ]
     }
