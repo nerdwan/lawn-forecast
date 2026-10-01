@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-09-30T16:30:00+01:00",
-          "today": "A mix of cloud and sunny spells for the rest of the day with scattered showers. Some will be heavy with a chance of isolated thunderstorms. Moderate to fresh and gusty southerly winds will decrease light to moderate.",
-          "tonight": "Mostly dry tonight with clear spells. Any remaining showers will die out early in the night. Lowest temperatures of 5 to 9 degrees in light to moderate southerly breezes.",
-          "tomorrow": "Largely dry on Thursday with sunny spells and just a few isolated showers during the morning and afternoon. Outbreaks of showery rain will spread from the west in the evening and may turn heavy in places. Highest temperatures of 15 to 17 degrees in moderate southerly winds, increasing fresh along the south coast as the afternoon wears on.",
+          "issued": "2026-10-01T05:30:00+01:00",
+          "today": "Largely dry today with sunny spells and just a few isolated showers during the morning and afternoon. Outbreaks of showery rain will spread from the west in the evening and may turn heavy in places. Highest temperatures of 15 to 17 degrees in moderate southerly winds, increasing fresh along the south coast as the afternoon wears on.",
+          "tonight": "Showery outbreaks of rain will spread from the west overnight. The rain will become mainly confined to the southeast by morning. Lowest temperatures of 10 to 14 degrees in moderate southerly winds, freshening over southern coastal counties.",
+          "tomorrow": "Dry with sunny spells at first tomorrow. Cloud and outbreaks of rain will spread from the west through the afternoon and evening, turning heavy at times. A clearance to sunny spells will follow into the west through the evening. Highest temperatures of 15 to 18 degrees in moderate to fresh southwesterly winds.",
           "solar_uv": "Low on Thursday and Friday."
         }
       ]
