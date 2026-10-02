@@ -3,11 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-10-01T16:30:00+01:00",
-          "today": "A mix of cloud and sunny spells for the rest of today. It will be dry apart from a few isolated showers. Moderate southerly winds will be fresh at times near the south coast.",
-          "tonight": "Outbreaks of showery rain will spread from the west early tonight. Some heavy bursts are possible. The rain will clear most parts by morning, but showers will linger in parts of east and southeast. Lowest temperatures of 10 to 13 degrees with light to moderate southerly winds. Fresh at times in southern counties, with strong winds at times near the south coast.",
-          "tomorrow": "Some sunny spells on Friday but a good deal of cloud overall. Largely dry during the morning with isolated showers. Outbreaks of rain will spread from the west in the afternoon, turning heavy at times with a chance of localised flooding. There is a chance of isolated thunderstorms with hail also. The rain will clear eastwards in the evening. Highest temperatures of 16 to 19 degrees. Moderate to fresh and gusty southwest winds, strong at times near the south coast, will veer westerly with the clearance and ease.",
-          "solar_uv": "Low on Friday and Saturday."
+          "issued": "2026-10-02T06:00:00+01:00",
+          "today": "A little cloudy and perhaps breezy this morning but it\u2019s largely dry. More cloud builds later however ahead of a band of rain moving over this afternoon. The rain will be heavy at times with some strong wind gusts too. The rain makes way for sunny spells following in from the west early evening as winds ease light westerly and highs of 14 to 17 degrees.",
+          "tonight": "A largely dry and clear night with light westerly winds. A little cooler too with lowest temperatures of 6 to 8 degrees.",
+          "tomorrow": "Largely dry with plenty of sunny spells and light southerly breezes. A little cloud will drift in later in the afternoon making the sunshine a little hazy with highs of 17 to 20 degrees.",
+          "pollen": ".",
+          "solar_uv": "Low"
         }
       ]
     }
