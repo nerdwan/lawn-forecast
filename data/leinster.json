@@ -3,12 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-10-03T06:00:00+01:00",
-          "today": "Saturday will be a pleasant day with spells of autumn sunshine and mostly light southerly breezes. However, some mist and fog will affect some southern coasts to begin. After a cool start, afternoon highs will range a seasonal 15 to 17 degrees.",
-          "tonight": "Mostly dry and clear early tonight. Lowest temperatures of 5 to 9 degrees in a mostly light southerly breeze; coolest under clearer skies further east.",
+          "issued": "2026-10-03T13:00:00+01:00",
+          "today": "It will be a pleasant day with spells of autumn sunshine and mostly light southerly breezes. Afternoon highs will range a seasonal 15 to 17 degrees.",
+          "tonight": "Mostly dry and clear early tonight. Lowest temperatures of 5 to 9 degrees in a mostly light southerly breeze; coolest under clearer skies further east. Some mist and fog may develop in rural locations early in the night.",
           "tomorrow": "Sunday will be a cloudy and rather breezy day. Mainly dry with the best of the sunny spells in the east and southeast. Mild and humid with highest temperatures of 17 to 19 degrees in a moderate to fresh southwest breeze.",
-          "pollen": "Low",
-          "solar_uv": "Low"
+          "solar_uv": "Low on Saturday and Sunday."
         }
       ]
     }
