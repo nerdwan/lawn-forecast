@@ -3,11 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-10-02T17:00:00+01:00",
-          "today": "Cloudy with outbreaks of rain continuing to push south-eastwards this evening. The rain will be heavy at times with some strong wind gusts too. Turning drier and clearer from the west later this evening, with a few bright spells developing here. Winds will ease light, westerly, with the clearance of the rain.",
-          "tonight": "A largely dry and clear night with little cloud. Some patches of mist and fog may develop in prone locations. All in light westerly winds. Feeling much cooler than of late with lows of 4 to 6 degrees.",
-          "tomorrow": "Largely dry with plenty of sunny spells and little cloud. Any sunshine turning hazy in some western parts due to high cloud during the afternoon and evening. All in light southerly breezes and highs of 15 to 17 degrees.",
-          "solar_uv": "Low on Saturday and Sunday."
+          "issued": "2026-10-03T06:00:00+01:00",
+          "today": "Saturday will be a pleasant day with spells of autumn sunshine and mostly light southerly breezes. However, some mist and fog will affect some southern coasts to begin. After a cool start, afternoon highs will range a seasonal 15 to 17 degrees.",
+          "tonight": "Mostly dry and clear early tonight. Lowest temperatures of 5 to 9 degrees in a mostly light southerly breeze; coolest under clearer skies further east.",
+          "tomorrow": "Sunday will be a cloudy and rather breezy day. Mainly dry with the best of the sunny spells in the east and southeast. Mild and humid with highest temperatures of 17 to 19 degrees in a moderate to fresh southwest breeze.",
+          "pollen": "Low",
+          "solar_uv": "Low"
         }
       ]
     }
