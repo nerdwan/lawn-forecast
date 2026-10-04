@@ -3,10 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-10-03T16:30:00+01:00",
-          "today": "This evening will remain dry and pleasant with spells of autumn sunshine and mostly light southerly breezes.",
-          "tonight": "Mostly dry and clear early tonight. Lowest temperatures of 5 to 9 degrees in a mostly light southerly breeze; coolest under clearer skies further east. Some mist and fog may develop in rural locations early in the night.",
-          "tomorrow": "Sunday will be a cloudy and rather breezy day. Mainly dry with the best of the sunny spells in the east and southeast. Mild and humid with highest temperatures of 17 to 19 degrees in a moderate to fresh southwest breeze.",
+          "issued": "2026-10-04T04:00:00+01:00",
+          "today": "Today will be a rather cloudy day. Mainly dry with the best of the sunny spells in the east and southeast. Mild and humid with highest temperatures of 17 to 19 degrees in a moderate south to southwest breeze.",
+          "tonight": "Tonight will be rather cloudy and misty but dry, apart from patchy outbreaks of drizzle. Misty in places too. Relatively mild with lowest temperatures of 12 to 15 degrees in a moderate southwesterly breeze.",
+          "tomorrow": "Tomorrow, apart from some early mist and drizzle, it will be dry with a lot of cloud and some bright or sunny spells. Mild and humid with highest temperatures of 16 to 19 degrees in a light to moderate west to southwest breeze.",
+          "pollen": "Low",
           "solar_uv": "Low on Sunday and Monday."
         }
       ]
