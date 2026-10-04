@@ -3,12 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-10-04T04:00:00+01:00",
-          "today": "Today will be a rather cloudy day. Mainly dry with the best of the sunny spells in the east and southeast. Mild and humid with highest temperatures of 17 to 19 degrees in a moderate south to southwest breeze.",
-          "tonight": "Tonight will be rather cloudy and misty but dry, apart from patchy outbreaks of drizzle. Misty in places too. Relatively mild with lowest temperatures of 12 to 15 degrees in a moderate southwesterly breeze.",
-          "tomorrow": "Tomorrow, apart from some early mist and drizzle, it will be dry with a lot of cloud and some bright or sunny spells. Mild and humid with highest temperatures of 16 to 19 degrees in a light to moderate west to southwest breeze.",
-          "pollen": "Low",
-          "solar_uv": "Low on Sunday and Monday."
+          "issued": "2026-10-04T16:30:00+01:00",
+          "today": "Some bright or sunny spells but mostly cloudy for the rest of today with patchy hill fog. It will be dry apart from the odd spot of light drizzle. Mild and humid with moderate southwest winds, fresh at times near the south coast.",
+          "tonight": "Cloudy tonight with patchy drizzle, mist and hill fog. The mist will thicken into fog in some places. Mild with temperatures dipping no lower than 13 to 15 degrees in moderate southwest winds, fresh at times near the south coast.",
+          "tomorrow": "Mist and fog will clear most parts on Monday morning, but may linger near the south coast into the afternoon. A largely dry day with isolated patches of drizzle. Again, there will be some bright or short sunny spells but a good deal of cloud overall with patchy hill fog. Mild and humid with highest temperatures of 16 to 19 degrees. Moderate west to southwest winds, fresh at times near the south coast, will decrease mostly light later in the day.",
+          "solar_uv": "Low on Monday and Tuesday."
         }
       ]
     }
