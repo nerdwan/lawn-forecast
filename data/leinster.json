@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-10-05T16:30:00+01:00",
-          "today": "It will be mostly cloudy but dry this evening with occasional bright spells. Some patchy light rain and drizzle will spread from the north later on. Southwesterly winds will be light to moderate.",
-          "tonight": "Continuing cloudy tonight with further outbreaks of rain and drizzle affecting mainly the north half of the Province. It should stay mostly dry further south, with occasional clear spells. Some patchy mist and fog will also develop overnight. Lows of 10 to 13 degrees with light variable winds.",
-          "tomorrow": "Dull, damp and misty tomorrow with the rain slowly clearing to the south during the afternoon. While some clear spells and isolated showers will develop in the north of the Province towards the evening, the rain will linger further south for much of the day. A cooler day with highs of 11 to 18 degrees, cooler in the north, with light to moderate northerly breezes.",
-          "solar_uv": "Low to moderate."
+          "issued": "2026-10-06T05:30:00+01:00",
+          "today": "Mostly cloudy for much of the day with occasional outbreaks of rain, drizzle and mist. A clearance will only start to move down from the northwest later, with some rain and drizzle even lingering into tonight in some southeastern coastal parts. A cooler day with afternoon temperatures of 11 to 15 degrees, cooler in the north, with light to moderate northerly breezes.",
+          "tonight": "Any lingering rain in the southeast will clear overnight, leaving a dry night for many with clear spells. Towards morning, some isolated showers will develop in the northwest of the province. Colder than previous nights, with lowest temperatures of 1 to 7 degrees, with a light west to northwest breeze.",
+          "tomorrow": "Wednesday, will be a cool and bright autumnal day for many with plenty of sunshine though some scattered showers will spread from the northwest through the afternoon. Highest temperatures of 10 to 14 degrees, with a moderate to fresh northwesterly breeze.",
+          "solar_uv": "Low."
         }
       ]
     }
