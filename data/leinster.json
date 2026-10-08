@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-10-08T06:00:00+01:00",
-          "today": "Mainly dry with some sunshine to begin today, Thursday, but cloud will soon build this morning, with rain and drizzle spreading from the west and becoming widespread this afternoon. The rain and drizzle will continue through the rest of the day. It\u2019ll feel rather cool with afternoon highs of 9 to 12 degrees but it\u2019ll turn milder from the west this evening. Becoming breezy too with southwesterly winds increasing moderate to fresh with the arrival of the rain.",
-          "tonight": "Mostly cloudy, breezy and mild tonight, with patchy outbreaks of rain and drizzle turning more persistent from the northwest overnight and towards morning. Overnight lows of 12 to 15 degrees. Moderate to fresh southwesterly winds, will become westerly overnight.",
-          "tomorrow": "Dull and damp or wet to begin tomorrow, Friday, with rain gradually clearing southeastwards through the morning followed by brighter, fresher conditions with sunny spells and scattered showers. Breezy with afternoon highs of 11 to 14 degrees in moderate to fresh and gusty westerly winds.",
-          "solar_uv": "Low today and tomorrow."
+          "issued": "2026-10-08T17:30:00+01:00",
+          "today": "Outbreaks of rain and drizzle this evening, possibly heavy in places, before turning patchy later. Turning milder and breezier towards nightfall.",
+          "tonight": "Mostly cloudy, breezy and mild tonight, with patchy outbreaks of rain and drizzle turning more persistent from the northwest later in the night. Lows of 12 to 15 degrees in moderate to fresh southwesterly winds, will become westerly overnight.",
+          "tomorrow": "Dull and wet for many areas to begin tomorrow, Friday. Rain will gradually clear southeastwards through the morning, followed by brighter, fresher conditions with sunny spells and scattered showers. Breezy with afternoon highs of 11 to 14 degrees in moderate to fresh and gusty westerly winds.",
+          "solar_uv": "Low."
         }
       ]
     }
