@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-10-07T16:00:00+01:00",
-          "today": "A cool and breezy evening with sunny spells and scattered showers, in moderate to fresh northwesterly winds.",
-          "tonight": "Showers will die away early on and the rest of the night will be dry with long clear spells. Cloud will begin to thicken from the west towards morning. Lowest temperatures of 3 to 7 degrees in a light westerly breeze.",
-          "tomorrow": "It will be a dry start to tomorrow, Thursday, with some sunny spells. Cloud will build during the morning, with rain and drizzle spreading from the west and becoming widespread in the afternoon. The rain and drizzle will continue through the rest of the day. Highest temperatures of 13 to 15 degrees with light to moderate southwesterly winds freshening with the arrival of the rain.",
-          "solar_uv": "Low."
+          "issued": "2026-10-08T06:00:00+01:00",
+          "today": "Mainly dry with some sunshine to begin today, Thursday, but cloud will soon build this morning, with rain and drizzle spreading from the west and becoming widespread this afternoon. The rain and drizzle will continue through the rest of the day. It\u2019ll feel rather cool with afternoon highs of 9 to 12 degrees but it\u2019ll turn milder from the west this evening. Becoming breezy too with southwesterly winds increasing moderate to fresh with the arrival of the rain.",
+          "tonight": "Mostly cloudy, breezy and mild tonight, with patchy outbreaks of rain and drizzle turning more persistent from the northwest overnight and towards morning. Overnight lows of 12 to 15 degrees. Moderate to fresh southwesterly winds, will become westerly overnight.",
+          "tomorrow": "Dull and damp or wet to begin tomorrow, Friday, with rain gradually clearing southeastwards through the morning followed by brighter, fresher conditions with sunny spells and scattered showers. Breezy with afternoon highs of 11 to 14 degrees in moderate to fresh and gusty westerly winds.",
+          "solar_uv": "Low today and tomorrow."
         }
       ]
     }
