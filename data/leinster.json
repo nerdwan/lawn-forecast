@@ -3,11 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-10-08T17:30:00+01:00",
-          "today": "Outbreaks of rain and drizzle this evening, possibly heavy in places, before turning patchy later. Turning milder and breezier towards nightfall.",
-          "tonight": "Mostly cloudy, breezy and mild tonight, with patchy outbreaks of rain and drizzle turning more persistent from the northwest later in the night. Lows of 12 to 15 degrees in moderate to fresh southwesterly winds, will become westerly overnight.",
-          "tomorrow": "Dull and wet for many areas to begin tomorrow, Friday. Rain will gradually clear southeastwards through the morning, followed by brighter, fresher conditions with sunny spells and scattered showers. Breezy with afternoon highs of 11 to 14 degrees in moderate to fresh and gusty westerly winds.",
-          "solar_uv": "Low."
+          "issued": "2026-10-09T05:00:00+01:00",
+          "today": "A dull, damp and rather wet start this morning as a band of rain sinks further south. Brighter and much fresher conditions will follow however with a mix of sunshine and scattered showers along with a brisk westerly breeze. Highs of 13 to 15 degrees.",
+          "tonight": "A little breezy with a mix of clear spells and isolated showers but much of the east and south will remain dry. Lows of 8 to 10 degrees.",
+          "tomorrow": "Another breezy day with northwesterly winds persisting. Overall it will be a mix of sunshine and just isolated showers but with more dry weather following through into the evening. Highs of 12 to 15 degrees.",
+          "pollen": ".",
+          "solar_uv": "Low"
         }
       ]
     }
