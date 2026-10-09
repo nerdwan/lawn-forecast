@@ -3,11 +3,9 @@
     {
       "regions": [
         {
-          "issued": "2026-10-09T05:00:00+01:00",
-          "today": "A dull, damp and rather wet start this morning as a band of rain sinks further south. Brighter and much fresher conditions will follow however with a mix of sunshine and scattered showers along with a brisk westerly breeze. Highs of 13 to 15 degrees.",
-          "tonight": "A little breezy with a mix of clear spells and isolated showers but much of the east and south will remain dry. Lows of 8 to 10 degrees.",
-          "tomorrow": "Another breezy day with northwesterly winds persisting. Overall it will be a mix of sunshine and just isolated showers but with more dry weather following through into the evening. Highs of 12 to 15 degrees.",
-          "pollen": ".",
+          "issued": "2026-10-09T18:00:00+01:00",
+          "tonight": "Breezy with clear spells and well scattered showers this evening and tonight. Lows of 8 to 10 degrees in a moderate to fresh westerly wind.",
+          "tomorrow": "Another bright day with sunny spells and well scattered showers. Remaining quite breezy during the day, then winds will ease during the late afternoon and evening. Highs of 12 to 15 degrees.",
           "solar_uv": "Low"
         }
       ]
