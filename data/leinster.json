@@ -3,10 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-10-09T18:00:00+01:00",
-          "tonight": "Breezy with clear spells and well scattered showers this evening and tonight. Lows of 8 to 10 degrees in a moderate to fresh westerly wind.",
-          "tomorrow": "Another bright day with sunny spells and well scattered showers. Remaining quite breezy during the day, then winds will ease during the late afternoon and evening. Highs of 12 to 15 degrees.",
-          "solar_uv": "Low"
+          "issued": "2026-10-10T05:30:00+01:00",
+          "today": "Another bright day with sunny spells and well scattered showers. Remaining quite breezy during the day, then moderate to fresh westerly winds will ease during the late afternoon and evening. Highs of 11 to 15 degrees.",
+          "tonight": "Mainly dry tonight with a mix of clear spells and mist patches. Lows of 4 to 7 degrees in a light variable breeze.",
+          "tomorrow": "Dry with sunny spells at first tomorrow. Cloud will build from the south through the afternoon. Outbreaks of patchy rain and drizzle will develop in southern parts and slowly move northwards through the evening. Highest temperatures of 13 to 16 degrees with moderate to fresh southeasterly winds developing.",
+          "solar_uv": "Low on Saturday and Sunday."
         }
       ]
     }
