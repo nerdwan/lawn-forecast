@@ -3,9 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-10-11T16:30:00+01:00",
-          "tonight": "Cloudy with patchy outbreaks of rain, drizzle, and mist, clearing northeastwards towards morning. Mild with lowest temperatures of 12 to 15 degrees, with moderate to fresh southeasterly winds veering southwesterly and easing.",
-          "tomorrow": "Mostly cloudy with limited brighter spells, it should remain dry for most of the day with just the odd patch of light rain or drizzle possible. Quite mild for the time of year with highest temperatures of 16 to 19 degrees, with moderate to fresh southerly winds developing in the afternoon."
+          "issued": "2026-10-12T04:00:00+01:00",
+          "today": "Mostly cloudy to begin today, with a few residual patches of drizzle, mist and fog. It will brighten up with sunny spells in parts for a time before cloud thickens again later. Some patchy rain and drizzle will develop later, especially further south. Becoming breezy during the afternoon, with moderate to fresh southerly winds developing. Quite mild for the time of year with highest temperatures of 16 to 19 degrees.",
+          "tonight": "Starting off largely dry, apart from some drizzle, but a spell of heavy rain will cross the region overnight with clearer conditions following. Lowest temperatures of 10 to 14 degrees, with moderate to fresh southwesterly winds easing and veering west.",
+          "tomorrow": "Tomorrow will bring sunny spells and scattered showers. The showers will become isolated through the afternoon. Moderate to fresh southwesterly winds will veer westerly, before easing in the evening. Highest temperatures of 14 to 17 degrees."
         }
       ]
     }
