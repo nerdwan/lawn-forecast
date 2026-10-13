@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-10-13T06:00:00+01:00",
-          "today": "A breezy day with sunny spells and scattered blustery showers. The showers will become isolated through the afternoon. Moderate to fresh westerly winds, easing in the evening. Highs of 15 or 16 degrees.",
-          "tonight": "Dry and mostly clear with light south to southwest winds. Lowest temperatures of 7 to 9 degrees.",
-          "tomorrow": "Wednesday morning will start off cloudy but dry. Rain will spread from the west through the late evening into the night, turning heavy at times. It will be rather windy with fresh to strong southerly winds. Highest temperatures of 14 to 16 degrees.",
+          "issued": "2026-10-13T17:30:00+01:00",
+          "today": "Generally dry this evening with sunny spells, in moderate westerly winds.",
+          "tonight": "Dry with clear spells tonight in light to moderate southerly winds. Lowest temperatures of 7 to 9 degrees.",
+          "tomorrow": "Wednesday will be a cloudy day, but generally dry and mild, just a few patches of light rain or drizzle. It will be rather windy however, with fresh to strong southerly winds. Highest temperatures of 15 to 17 degrees. Rain will gradually spread from the west through the late evening into Wednesday night.",
           "solar_uv": "Low."
         }
       ]
