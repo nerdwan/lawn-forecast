@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-10-15T11:30:00+01:00",
-          "today": "As the rain clears eastwards, the rest of today will be mainly dry with bright and some sunny spells. Highest temperatures of 12 to 16 degrees in generally light to moderate westerly winds.",
-          "tonight": "Tonight will be mainly dry with clear spells and just a few well-scattered showers. Cooler than recent nights, with lowest temperatures of 3 to 8 degrees in mostly light to moderate southwest to west or variable breezes.",
+          "issued": "2026-10-15T16:00:00+01:00",
+          "today": "This evening will be mainly dry and rather cloudy. Winds will be generally light to moderate westerly.",
+          "tonight": "Tonight will be mainly dry with clear spells and just a few well isolated showers. Cooler than recent nights, with lowest temperatures of 3 to 8 degrees in mostly light to moderate southwest to west or variable breezes.",
           "tomorrow": "Tomorrow, Friday, will be mainly dry with plenty of sunshine and just some isolated showers in the morning and afternoon, before dying away. Cooler than recently, with highest temperatures of 11 to 14 degrees and winds becoming mostly moderate northwesterly through the morning, but generally easing light to moderate again in the evening.",
-          "solar_uv": "Low on Thursday and Friday."
+          "solar_uv": "Low on Friday and Saturday"
         }
       ]
     }
