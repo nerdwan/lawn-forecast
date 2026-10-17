@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-10-17T12:00:00+01:00",
-          "today": "A dry, bright and crisp day with plenty of sunshine. Highest temperatures of 10 to 13 degrees with light variable breezes.",
-          "tonight": "Cold and dry tonight with long clear spells and patches of mist and fog forming in light northwesterly or variable breezes. Lowest temperatures of 0 to 4 degrees, with some frost forming in inland areas.",
-          "tomorrow": "A cool start to Sunday with mist and fog patches clearing during the morning to leave a dry, bright and crisp day with plenty of sunshine. Highest temperatures of 10 to 13 degrees in light variable breezes.",
+          "issued": "2026-10-17T17:00:00+01:00",
+          "today": "Dry for the rest of the afternoon and evening with plenty of sunshine, in light variable breezes.",
+          "tonight": "Cold and clear tonight with patches of mist and fog forming in light northwesterly or variable breezes. Lowest temperatures of 0 to 4 degrees, with some frost forming in inland areas.",
+          "tomorrow": "A cool start to Sunday with mist and fog patches clearing during the morning to leave a dry, bright and crisp day with plenty of sunshine. Highest temperatures of 10 to 14 degrees in light variable breezes.",
           "solar_uv": "Low."
         }
       ]
