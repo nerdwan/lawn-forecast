@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-10-17T17:00:00+01:00",
-          "today": "Dry for the rest of the afternoon and evening with plenty of sunshine, in light variable breezes.",
-          "tonight": "Cold and clear tonight with patches of mist and fog forming in light northwesterly or variable breezes. Lowest temperatures of 0 to 4 degrees, with some frost forming in inland areas.",
-          "tomorrow": "A cool start to Sunday with mist and fog patches clearing during the morning to leave a dry, bright and crisp day with plenty of sunshine. Highest temperatures of 10 to 14 degrees in light variable breezes.",
-          "solar_uv": "Low."
+          "issued": "2026-10-18T06:30:00+01:00",
+          "today": "A cool morning with plenty of crisp sunshine but a little lingering cloud too. Some early fog will quickly clear away with largely dry weather continuing through the afternoon and evening. Perhaps feeling a little chilly at times with highs of 10 to 13 degrees and light winds.",
+          "tonight": "Cool, calm and clear heading into the evening with dry weather throughout. A little cloud will drift in at times later tonight with some mist and fog patches forming. Rather chilly too with lows 1 to 4 degrees.",
+          "tomorrow": "A chilly but bright and sunny morning with a little lingering mist or fog clearing. Staying mostly dry too with a touch of cloud drifting in later in the morning with some light rain or drizzle at times. Highs of 10 to 13 degrees.",
+          "solar_uv": "Low"
         }
       ]
     }
