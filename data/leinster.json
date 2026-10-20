@@ -3,10 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-10-19T16:00:00+01:00",
-          "today": "There will be a mix of cloud and sunny spells this evening, with a few patches of light rain and drizzle, mainly in southern parts of the province. Winds will be light or moderate and southeasterly.",
-          "tonight": "There will be patchy outbreaks of rain and drizzle across the east and south of Leinster tonight, but staying mostly dry elsewhere with some clear spells and a few patches of fog and grass frost. Lowest temperatures will range from 0 to 7 degrees, coldest in the west of the province, in light to moderate southeasterly winds.",
-          "tomorrow": "Dry for much of tomorrow, with some sunny spells and just isolated showers in the morning and afternoon. Cloud will increase in the evening and outbreaks of rain will develop in the west of the province towards nightfall. Highest temperatures of 12 to 15 degrees in light to moderate southeasterly winds."
+          "issued": "2026-10-20T07:30:00+01:00",
+          "today": "Much of today will be dry across Leinster with bright or sunny spells this morning and cloud increasing this afternoon. Persistent rain will spread northeastwards through the late afternoon and evening, turning heavy at times. the east and north of the region will stay dry until after dark. Highest temperatures of 13 to 15 degrees with moderate southeasterly winds.",
+          "tonight": "Tonight, rain will extend to all areas and will continue overnight. It will be heavy at times. Light to moderate east to southeast winds will veer fresh to strong northwesterly and gusty overnight. Lowest temperatures of 5 to 9 degrees.",
+          "tomorrow": "Wednesday will start off wet in many areas. Rain will gradually clear northeastwards through the morning. Bright or sunny spells and scattered showers will follow through the afternoon and evening, some heavy. Highest temperatures of 10 or 11 degrees with moderate westerly winds.",
+          "pollen": "Nil",
+          "solar_uv": "Nil"
         }
       ]
     }
