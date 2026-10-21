@@ -3,12 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-10-20T15:00:00+01:00",
-          "today": "It will be mostly cloudy this evening with outbreaks of rain. The rain will be heavy at times, possibly leading to localised flooding in south Leinster. Eastern and northern parts of the Province will remain dry until after dark. Highs of 13 to 15 degrees with moderate southeasterly winds.",
-          "tonight": "Cloudy, with the rain spreading to all areas early in the night. The rain will be persistent and may turn heavy as the night progresses, with some localised flooding possible, especially on the East Coast. Lows of 5 to 9 degrees with moderate southeasterly winds veering northwesterly and increasing fresh to strong and gusty overnight.",
-          "tomorrow": "It will be cloudy and wet to start tomorrow with further outbreaks of rain, heavy at times. Localised flooding is still possible in eastern counties early in the morning. The rain will clear early in the afternoon with sunny spells and isolated showers following. Highs of 10 to 12 degrees with fresh and gusty westerly winds gradually easing throughout the day.",
-          "pollen": "Nil",
-          "solar_uv": "Low."
+          "issued": "2026-10-21T06:00:00+01:00",
+          "today": "Wednesday will begin rather wet and windy. Sunshine and scattered showers elsewhere will extend to all other areas through the day. Some heavy thundery falls will move in from the west during the evening hours. A blustery day, in a fresh to strong and gusty northwest wind, later easing. Cool with highest temperatures of 9 to 13 degrees.",
+          "tonight": "Scattered outbreaks of thundery rain with isolated thunderstorm will occur early tonight, clearing northeastwards overnight. Drier, clearer but colder weather will follow later. Lowest temperatures of 0 to 7 degrees, coldest away from west and southwest coasts; all in a light southwest or variable breeze.",
+          "tomorrow": "Thursday will start off dry with sunny spells apart from well scattered showers. However, very heavy rain will develop during the evening hours. Localised flooding is possible, especially south Leinster. Light to moderate east to northeast winds will gradually strengthen later too. Highest temperatures of 10 to 14 degrees.",
+          "pollen": "Low",
+          "solar_uv": "Low"
         }
       ]
     }
