@@ -3,11 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-10-21T18:00:00+01:00",
-          "today": "Showery rain pushing in from the west this evening, heavy at times with the slight risk of an isolated thunderstorm. Light to moderate westerly winds.",
-          "tonight": "Rain early tonight, but drier, clearer and colder weather will follow later. Lowest temperatures of 1 to 4 degrees, in light to moderate southwest winds.",
-          "tomorrow": "Tomorrow, Thursday will be dry for much of the day with hazy sunny spells. However, cloud will increase through the afternoon with rain pushing up from the south in the evening. The rain will turn heavy with some localised flooding possible in south Leinster on Thursday night. Light to moderate southerly winds increasing moderate to fresh easterly later. Highest temperatures of 12 or 13 degrees.",
-          "pollen": "Low",
+          "issued": "2026-10-22T05:30:00+01:00",
+          "today": "Dry to start with some sunny spells. Cloud will increase through the afternoon with rain and drizzle developing in the evening. Light to moderate southwest winds will back southeast and strengthen moderate to fresh. Highest temperatures of 11 to 13 degrees.",
+          "tonight": "Wet and windy weather associated with Storm Austen will bring spells of heavy rain overnight with fresh to strong northwesterly winds. Lowest temperatures of 6 to 8 degrees.",
+          "tomorrow": "Wet and windy to start but the rain will clear early on giving way to sunshine and scattered showers. Highest temperatures of 8 to 10 degrees in fresh and gusty northwest winds, easing moderate towards the evening.",
           "solar_uv": "Low"
         }
       ]
