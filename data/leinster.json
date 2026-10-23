@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-10-22T17:00:00+01:00",
-          "today": "Cloud increasing this evening with rain spreading from the south as Storm Austen tracks to the south of Ireland. Light to moderate southwest winds will back southeast and strengthen about the south coast.",
-          "tonight": "Wet and windy weather associated with Storm Austen will bring spells of heavy rain overnight with fresh to strong northeast winds backing northwesterly overnight. Lowest temperatures of 6 to 8 degrees.",
-          "tomorrow": "Wet and windy to start, but the rain will clear eastwards during the morning, giving way to sunshine and scattered showers. Highest temperatures of 8 to 10 degrees in fresh and gusty northwest winds, easing moderate towards the evening.",
-          "solar_uv": "Low"
+          "issued": "2026-10-23T05:30:00+01:00",
+          "today": "This morning, rain will clear eastwards with sunshine and occasional showers following. Highest temperatures of 9 to 11 degrees. Fresh, occasionally strong and gusty northwesterly winds will gradually ease to light to moderate westerly towards evening.",
+          "tonight": "Dry with clear spells early tonight with light to moderate southwesterly winds and with just the chance of isolated showers. Cloud will build from the west with rain following later and becoming widespread by morning, accompanied by strengthening southerly winds. Lowest temperatures of 3 to 7 degrees.",
+          "tomorrow": "Rather wet and windy tomorrow morning with rain and fresh to strong and gusty southerly winds. A clearance to blustery showers will follow through the afternoon as winds veer southwest to west and increase strong to near gale force and gusty as Storm Boele tracks to the north of the country. Highest temperatures of 13 to 15 degrees.",
+          "solar_uv": "Low."
         }
       ]
     }
