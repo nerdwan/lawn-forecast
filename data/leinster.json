@@ -3,12 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-10-24T07:00:00+01:00",
-          "today": "Today will be wet and windy across Leinster due to Storm Boelo.\\n\\nThis morning will be wet with rain in all areas, heavy at times with localised flooding. It will clear southeastwards through the afternoon with blustery showers following. Fresh to strong, gusty southerly winds will veer west to southwest, and will be very gusty this evening. Highs of 13 to 15 degrees.",
-          "tonight": "Tonight will be very windy with strong, very gusty westerly winds for most areas, strongest over the northern half of the province with damaging gusts. Heavy showers will continue with isolated thunderstorms and localised flooding possible. Lowest temperatures of 5 to 8 degrees.",
-          "tomorrow": "Sunday morning will be windy and blustery with sunshine and showers and fresh to strong, gusty westerly winds. Through the afternoon and evening, winds will gradually ease. Showers will gradually die out. Highest temperatures of 10 to 12 degrees.",
-          "pollen": "Nil",
-          "solar_uv": "Nil"
+          "issued": "2026-10-24T12:00:00+01:00",
+          "today": "Wet and windy today due to Storm Boelo. Outbreaks of rain, persistent and heavy at times, may lead to localised flooding. The rain will clear southeastwards through the afternoon, with blustery showers following. Fresh to strong and gusty southerly winds will veer west to southwest, and increase to near gale force locally. Winds will reach gale force at times near the south coast. Top temperatures of 13 to 15 degrees.",
+          "tonight": "Windy or very windy tonight with strong to near gale force and gusty westerly winds. Winds will be strongest over the northern half of the province with damaging gusts possible. A mix of cloud and clear spells overnight with occasional showers, some heavy and possibly thunder. Lowest temperatures of 5 to 8 degrees.",
+          "tomorrow": "Windy for a time on Sunday with a mix of sunny spells and occasional blustery showers. The showers will die out towards nightfall. Fresh to strong and gusty westerly winds will gradually ease through the afternoon and evening. A cooler day with top temperatures of 10 to 12 degrees.",
+          "solar_uv": "Low"
         }
       ]
     }
