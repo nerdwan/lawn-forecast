@@ -3,11 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-10-23T17:00:00+01:00",
-          "today": "A sunny but blustery day with isolated showers. Fresh, occasionally strong and gusty northwesterly winds will gradually ease to light to moderate westerly this evening.",
-          "tonight": "Dry with clear spells early tonight with light to moderate southwesterly winds and with just the chance of isolated showers. Cloud will build from the west with rain following overnight and becoming widespread by morning, accompanied by strengthening southerly winds. Lowest temperatures of 3 to 7 degrees.",
-          "tomorrow": "Storm Boelo tracks to the north of Ireland, bringing another wet and windy day. Rain and fresh to strong and gusty southerly winds, clearing to blustery showers through the afternoon as winds veer westerly and increase strong to near gale force and gusty. Highest temperatures of 13 to 15 degrees.",
-          "solar_uv": "Low."
+          "issued": "2026-10-24T07:00:00+01:00",
+          "today": "Today will be wet and windy across Leinster due to Storm Boelo.\\n\\nThis morning will be wet with rain in all areas, heavy at times with localised flooding. It will clear southeastwards through the afternoon with blustery showers following. Fresh to strong, gusty southerly winds will veer west to southwest, and will be very gusty this evening. Highs of 13 to 15 degrees.",
+          "tonight": "Tonight will be very windy with strong, very gusty westerly winds for most areas, strongest over the northern half of the province with damaging gusts. Heavy showers will continue with isolated thunderstorms and localised flooding possible. Lowest temperatures of 5 to 8 degrees.",
+          "tomorrow": "Sunday morning will be windy and blustery with sunshine and showers and fresh to strong, gusty westerly winds. Through the afternoon and evening, winds will gradually ease. Showers will gradually die out. Highest temperatures of 10 to 12 degrees.",
+          "pollen": "Nil",
+          "solar_uv": "Nil"
         }
       ]
     }
