@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-10-25T05:00:00+00:00",
-          "today": "Windy this morning with fresh to strong and gusty westerly winds, along with sunshine and showers. Winds will gradually ease through the afternoon and evening with showers becoming confined to the north of the province. Highest temperatures of 10 to 12 degrees.",
-          "tonight": "A mostly dry start tonight with isolated showers and clear spells in light to moderate southwesterly winds. Becoming cloudy later with rain and drizzle developing as winds become moderate to fresh southerly. Lowest temperatures of 5 to 8 degrees.",
-          "tomorrow": "Dull and breezy tomorrow with moderate to fresh and gusty southerly winds, increasing fresh to strong and gusty through the afternoon. Scattered outbreaks of rain and drizzle will ease in the afternoon and evening. Highest temperatures of 15 to 17 degrees.",
-          "solar_uv": "Low."
+          "issued": "2026-10-25T12:15:00+00:00",
+          "today": "Breezy for a time this afternoon with a mix of sunny spells and scattered blustery showers. Some may turn heavy, but the showers will become isolated later, and largely confined to northern parts of the province. Fresh to strong and gusty westerly winds will gradually ease through the day and back southwest this evening. Highest temperatures of 10 to 12 degrees.",
+          "tonight": "Largely dry at first tonight with clear spells and isolated showers. Cloud will increase from the southwest bringing outbreaks of rain to all parts by morning. Light to moderate southwest winds will back southerly and increase moderate to fresh, with strong winds developing near the south coast. Lowest temperatures of 4 to 8 degrees and coolest in the north.",
+          "tomorrow": "Dull and blustery on Bank Holiday Monday with outbreaks of rain, widespread and persistent at first. The rain will ease and become patchy for the afternoon, but more persistent rain will develop in some places during the evening. Highest temperatures of 15 to 17 degrees. Moderate to fresh and gusty southerly winds will increase fresh to strong and gusty through the day, with gales developing near the south coast.",
+          "solar_uv": "Low"
         }
       ]
     }
