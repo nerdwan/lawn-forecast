@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-10-24T16:40:00+01:00",
-          "today": "Windy for the rest of today due to Storm Boelo with scattered blustery showers. Fresh to strong and gusty west to southwest winds will increase to near gale force locally.",
-          "tonight": "Windy or very windy tonight with strong to near gale force and gusty westerly winds. Winds will be strongest over the northern half of the province with damaging gusts possible. A mix of cloud and clear spells overnight with occasional showers, some heavy and possibly thunder. Lowest temperatures of 5 to 8 degrees.",
-          "tomorrow": "Windy for a time on Sunday with a mix of sunny spells and occasional blustery showers. The showers will die out towards nightfall. Fresh to strong and gusty westerly winds will gradually ease through the afternoon and evening. A cooler day with top temperatures of 10 to 12 degrees.",
-          "solar_uv": "Low"
+          "issued": "2026-10-25T05:00:00+00:00",
+          "today": "Windy this morning with fresh to strong and gusty westerly winds, along with sunshine and showers. Winds will gradually ease through the afternoon and evening with showers becoming confined to the north of the province. Highest temperatures of 10 to 12 degrees.",
+          "tonight": "A mostly dry start tonight with isolated showers and clear spells in light to moderate southwesterly winds. Becoming cloudy later with rain and drizzle developing as winds become moderate to fresh southerly. Lowest temperatures of 5 to 8 degrees.",
+          "tomorrow": "Dull and breezy tomorrow with moderate to fresh and gusty southerly winds, increasing fresh to strong and gusty through the afternoon. Scattered outbreaks of rain and drizzle will ease in the afternoon and evening. Highest temperatures of 15 to 17 degrees.",
+          "solar_uv": "Low."
         }
       ]
     }
