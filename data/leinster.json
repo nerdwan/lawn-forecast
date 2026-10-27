@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-10-26T13:30:00+00:00",
-          "today": "Cloudy and dry for most this afternoon. The odd patch of light or drizzle is possible with some bright spells too. Further cloud and rain will sweep in from the west throughout the evening. It'll become increasingly windy too, with strong and gusty south to southwest winds, reaching gale force on southern coasts. Mild with highest temperatures of 14 to 17 degrees.",
-          "tonight": "Windy and wet tonight with strong to near gale force and gusty south to southwest winds and gales on southern and southeastern coasts. Rain will clear to blustery showers early overnight, with winds easing too. These being moderate to fresh, strong on southern coasts. Lowest temperatures of 7 to 10 degrees.",
+          "issued": "2026-10-26T17:00:00+00:00",
+          "today": "It will be cloudy this evening, though dry for a time for some, before outbreaks of rain sweep in from the west throughout the remainder of the evening. Feeling mild and staying windy with strong and gusty south to southwest winds, reaching gale force on southern coasts.",
+          "tonight": "Windy and wet tonight with strong to near gale force and gusty south to southwest winds and gales on southeastern coasts. Rain will clear to blustery showers early overnight, with winds easing too. These being moderate to fresh, strong on southern coasts. Lowest temperatures of 7 to 10 degrees.",
           "tomorrow": "Tomorrow, Tuesday, will be a blustery day with mostly moderate to fresh west to southwest winds, strong on coasts. There will be a mix of sunshine and scattered showers, some turning heavy with a chance of isolated thunderstorms, though parts of the south and southeast of the province may remain dry. Showers will become isolated later. Winds will ease towards evening. Highest temperatures of 9 to 12 degrees.",
-          "solar_uv": "Low on Monday and Tuesday."
+          "solar_uv": "Low on Tuesday and Wednesday."
         }
       ]
     }
