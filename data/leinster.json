@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-10-28T05:30:00+00:00",
-          "today": "This morning will be mostly cloudy with scattered showers. From late morning onwards it'll be largely dry with just isolated showers and some sunny spells. Highest temperatures of 13 to 15 degrees with moderate to fresh southwesterly winds in the morning, decreasing light to moderate and becoming southerly later.",
-          "tonight": "Apart from isolated light showers, it'll be dry and partly cloudy tonight. Some mist patches developing overnight. Lowest temperatures of 9 to 12 degrees with light to moderate southerly winds, fresh at times in the south.",
-          "tomorrow": "Tomorrow will be mainly dry apart from isolated patches of light rain or drizzle with a mix of cloud and sunny spells. It'll become breezy again with a moderate to fresh southerly wind developing, strong in coastal areas. Highest temperatures of 13 or 14 degrees.",
-          "solar_uv": "Low on Wednesday and Thursday."
+          "issued": "2026-10-28T17:00:00+00:00",
+          "today": "Mostly dry for the rest of the day with sunny spells and the odd isolated showers, in light to moderate southerly winds.",
+          "tonight": "Dry and partly cloudy tonight. Some mist patches will develop locally. Lowest temperatures of 9 to 12 degrees with light to moderate southerly winds.",
+          "tomorrow": "Tomorrow will be generally dry with a mix of cloud and sunny spells. It'll become breezy again with a moderate to fresh southerly wind, strengthening up along the southern coast. Highest temperatures of 13 or 14 degrees.",
+          "solar_uv": "Low on Thursday and Friday.."
         }
       ]
     }
