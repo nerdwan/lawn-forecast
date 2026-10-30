@@ -3,11 +3,12 @@
     {
       "regions": [
         {
-          "issued": "2026-10-29T17:00:00+00:00",
-          "today": "Staying dry for most this afternoon and evening with a mix of cloud and bright or sunny spells, and just the odd spot of light rain or drizzle possible, with a moderate, occasionally fresh, southeasterly breeze.",
-          "tonight": "Dry with a mix of cloud and clear spells. Lowest temperatures of 9 to 11 degrees, with a moderate to fresh southeasterly breeze.",
-          "tomorrow": "Continuing generally dry with a mix of cloud and bright or sunny spells. Highest temperatures of 13 to 15 degrees, with a moderate southeasterly breeze, easing in the evening.",
-          "solar_uv": "Low on Friday and Saturday."
+          "issued": "2026-10-30T05:30:00+00:00",
+          "today": "Fully dry today with sunny spells. Another relatively mild day with highest temperatures of 13 to 16 degrees, in moderate to fresh southeast winds.",
+          "tonight": "Remaining dry tonight with clear spells. Some mist and fog patches will develop though. Lowest temperatures of 6 to 10 degrees in just light southerly breezes.",
+          "tomorrow": "Remaining dry for much of the day with sunny spells early on. However, damp and misty conditions will arrive during the evening hours. Highest temperatures of 12 to 15 degrees in just light variable or southerly winds.",
+          "pollen": "Low",
+          "solar_uv": "Low"
         }
       ]
     }
