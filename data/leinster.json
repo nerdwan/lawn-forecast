@@ -3,11 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-10-30T15:30:00+00:00",
-          "today": "It will be mostly cloudy but dry this evening with a few bright spells developing further east. Southeasterly winds will be moderate to fresh, easing later on.",
-          "tonight": "It will continue dry tonight with a mix of cloud and clear spells. Some patchy mist and fog will develop overnight. Lows of 6 to 10 degrees with light variable or southerly winds.",
-          "tomorrow": "It will be dry for most of the day tomorrow with sunny spells. Patchy mist, rain and drizzle will spread from the west later in the evening. Highs of 12 to 15 degrees with light variable or southerly winds.",
-          "pollen": "Low",
+          "issued": "2026-10-31T06:30:00+00:00",
+          "today": "A mix of cloud of clear spells, with the best of the sunny spells across the northern half of the province. Outbreaks of rain and drizzle will spread from the west through the afternoon and evening, but will be very patchy. Highs of 13 to 15 degrees.",
+          "tonight": "Cloudy with patchy outbreaks of light rain and drizzle. Light westerly or variable breezes will veer northerly overnight. Feeling cooler further north with lows of 2 to 4 degrees, warmer further south with lows of 5 to 9 degrees.",
+          "tomorrow": "Mostly dry and clear on Saturday with cloudier conditions at first in the southeast. Sunny spells will develop through the day. Highs of 11 to 13 degrees in light to moderate northerly winds.",
           "solar_uv": "Low"
         }
       ]
