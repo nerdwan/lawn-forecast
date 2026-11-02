@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-11-02T05:30:00+00:00",
-          "today": "Any isolated mist and fog and any frost will clear this morning to leave a dry, bright day with plenty of sunshine. Highest temperatures of 10 to 13 degrees in just light variable breezes, becoming light to moderate east to northeast.",
-          "tonight": "Dry and cold tonight with mostly clear skies at first, but with some mist and fog forming, which will likely become fairly widespread and dense across parts of the midlands, especially further north. Lowest temperatures generally between -1 and 4 degrees, with some frost. It'll be less cold in some eastern and southern coastal parts, with a little bit more in the way of cloud at times and it'll likely remain mostly fog free there. Winds will just be light variable or east to northeasterly.",
-          "tomorrow": "A cold start to tomorrow, Tuesday with mist, fog and some frost. Any frost will quickly clear, but the mist and fog, will just gradually clear through the morning and will possibly linger in some areas into the afternoon. Otherwise it'll be a mostly dry day, with good spells of sunshine developing. However, cloud will build from the east at times, bringing a few showers, especially further to the east. Highest temperatures generally of 9 to 12 degrees. Winds will be mostly light variable at first, becoming light to moderate northeast to east.",
+          "issued": "2026-11-02T17:30:00+00:00",
+          "today": "Dry with clear spells this evening in light winds.",
+          "tonight": "Dry and cold tonight with mostly clear skies at first, but with some mist and fog forming, which will likely become fairly widespread and dense across parts of the midlands and north Leinster. Lowest temperatures generally between -1 and +4 degrees, with some frost in light winds. It'll be less cold in some eastern and southern coastal parts, with a little bit more in the way of cloud at times and it'll likely remain mostly fog free here.",
+          "tomorrow": "A cold start tomorrow with mist, fog and some frost. Any frost will quickly clear, but the mist and fog, will just gradually clear through the morning and will possibly linger in some Midland and northern areas into the afternoon. Otherwise it'll be a mostly dry day, with good spells of sunshine developing. However, cloud will build from the east at times, bringing a few showers, especially further to the east. Highest temperatures of 9 to 12 degrees in light to moderate easterly winds.",
           "solar_uv": "Low."
         }
       ]
