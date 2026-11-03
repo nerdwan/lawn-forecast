@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-11-03T04:30:00+00:00",
-          "today": "A cold start today with mist, fog and some frost in places. Any frost will quickly clear, but the mist and fog, will just gradually clear through the morning and will possibly linger in some Midland and northern areas into the afternoon. Otherwise it'll be a mostly dry day, with good spells of sunshine developing. However, cloud will build from the east at times, bringing a few showers, especially further to the east. Highest temperatures of 9 to 12 degrees in light to moderate northeasterly winds.",
-          "tonight": "Tonight, apart from a few isolated light showers, mainly across the east and south, it'll be a dry night with a mix of cloud and clear spells. Some mist and fog will form once again, mainly across parts of the north and west, where skies will be clearest and winds lightest. Cold with lowest temperatures of 1 to 5 degrees generally, with some ground frost in mostly light east to northeasterly or variable breezes. There'll be a little bit more of a moderate east to northeast breeze though in eastern and some southern parts, which means it won't be as cold here and will remain frost and fog free.",
-          "tomorrow": "Tomorrow, Wednesday, will bring a mix of cloud and bright or sunny spells. A few light showers may occur too. There'll be a bit more of a breeze compared to the previous couple of days, with easterly winds increasing mostly moderate. Cool with highest temperatures of 10 to 12 degrees.",
+          "issued": "2026-11-03T17:00:00+00:00",
+          "today": "Mostly cloudy, with a few light showers. Light to moderate northeasterly winds.",
+          "tonight": "Tonight, apart from a few isolated light showers, mainly across the east and south, it'll be a dry night with a mix of cloud and clear spells. Some mist and fog will form once again. Cold with lowest temperatures of 1 to 5 degrees generally, with some ground frost in mostly light east to northeasterly or variable breezes, a bit more of a moderate northeast breeze though in eastern and some southern parts, which means it won't be as cold here and will remain frost and fog free.",
+          "tomorrow": "A mix of cloud and limited bright or sunny spells. A few light showers may occur too. Cool with highest temperatures of 10 to 12 degrees and moderate easterly winds.",
           "solar_uv": "Low."
         }
       ]
