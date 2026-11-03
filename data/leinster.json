@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-11-02T17:30:00+00:00",
-          "today": "Dry with clear spells this evening in light winds.",
-          "tonight": "Dry and cold tonight with mostly clear skies at first, but with some mist and fog forming, which will likely become fairly widespread and dense across parts of the midlands and north Leinster. Lowest temperatures generally between -1 and +4 degrees, with some frost in light winds. It'll be less cold in some eastern and southern coastal parts, with a little bit more in the way of cloud at times and it'll likely remain mostly fog free here.",
-          "tomorrow": "A cold start tomorrow with mist, fog and some frost. Any frost will quickly clear, but the mist and fog, will just gradually clear through the morning and will possibly linger in some Midland and northern areas into the afternoon. Otherwise it'll be a mostly dry day, with good spells of sunshine developing. However, cloud will build from the east at times, bringing a few showers, especially further to the east. Highest temperatures of 9 to 12 degrees in light to moderate easterly winds.",
+          "issued": "2026-11-03T04:30:00+00:00",
+          "today": "A cold start today with mist, fog and some frost in places. Any frost will quickly clear, but the mist and fog, will just gradually clear through the morning and will possibly linger in some Midland and northern areas into the afternoon. Otherwise it'll be a mostly dry day, with good spells of sunshine developing. However, cloud will build from the east at times, bringing a few showers, especially further to the east. Highest temperatures of 9 to 12 degrees in light to moderate northeasterly winds.",
+          "tonight": "Tonight, apart from a few isolated light showers, mainly across the east and south, it'll be a dry night with a mix of cloud and clear spells. Some mist and fog will form once again, mainly across parts of the north and west, where skies will be clearest and winds lightest. Cold with lowest temperatures of 1 to 5 degrees generally, with some ground frost in mostly light east to northeasterly or variable breezes. There'll be a little bit more of a moderate east to northeast breeze though in eastern and some southern parts, which means it won't be as cold here and will remain frost and fog free.",
+          "tomorrow": "Tomorrow, Wednesday, will bring a mix of cloud and bright or sunny spells. A few light showers may occur too. There'll be a bit more of a breeze compared to the previous couple of days, with easterly winds increasing mostly moderate. Cool with highest temperatures of 10 to 12 degrees.",
           "solar_uv": "Low."
         }
       ]
