@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-11-05T05:30:00+00:00",
-          "today": "Today there'll be a mix of cloud and sunny spells along with scattered showers. Highest temperatures of 9 to 12 degrees with light to moderate east to northeast winds, fresh at times in the east.",
-          "tonight": "Scattered showers will continue tonight and after a mostly cloudy start, some clear spells will develop overnight. Mist and fog will form in a light east to northeast wind. Lowest temperatures of 3 to 8 degrees, mildest near the east coast.",
+          "issued": "2026-11-05T17:00:00+00:00",
+          "today": "Mostly cloudy for the rest of the day with just limited bright spells. Patches of light rain and drizzle will continue to track westwards in mostly light to moderate east to northeast winds.",
+          "tonight": "\\n\\nPatchy rain and drizzle will continue tonight and after a mostly cloudy start, some clear spells will develop overnight. Mist and fog will form in a light east to northeast wind. Lowest temperatures of 4 to 8 degrees, mildest near the east coast.",
           "tomorrow": "Mist and fog will gradually clear tomorrow morning. Most areas will be dry at first, with just isolated showers and occasional sunshine. During the afternoon, more persistent light rain or drizzle will affect some areas. Highest temperatures of 9 to 11 degrees in a light northeasterly or variable wind.",
-          "solar_uv": "Low on Thursday and Friday."
+          "solar_uv": "Low on Friday and Saturday."
         }
       ]
     }
