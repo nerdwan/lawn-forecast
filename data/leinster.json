@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-11-05T17:00:00+00:00",
-          "today": "Mostly cloudy for the rest of the day with just limited bright spells. Patches of light rain and drizzle will continue to track westwards in mostly light to moderate east to northeast winds.",
-          "tonight": "\\n\\nPatchy rain and drizzle will continue tonight and after a mostly cloudy start, some clear spells will develop overnight. Mist and fog will form in a light east to northeast wind. Lowest temperatures of 4 to 8 degrees, mildest near the east coast.",
-          "tomorrow": "Mist and fog will gradually clear tomorrow morning. Most areas will be dry at first, with just isolated showers and occasional sunshine. During the afternoon, more persistent light rain or drizzle will affect some areas. Highest temperatures of 9 to 11 degrees in a light northeasterly or variable wind.",
+          "issued": "2026-11-06T05:30:00+00:00",
+          "today": "Any mist and fog will gradually clear this morning. Most areas will be dry at first, with just isolated light rain or drizzle. During the afternoon, more persistent light rain or drizzle will affect some areas. Highest temperatures of 9 to 11 degrees in a light northeasterly or variable wind.",
+          "tonight": "Mostly cloudy with patchy rain or drizzle for a time in northern areas and isolated showers elsewhere. Widespread mist and fog will form in near calm conditions and the fog will become dense in places. Lowest temperatures of 3 to 7 degrees, coldest in the south where most clear spells are expected.",
+          "tomorrow": "Widespread mist and fog at first tomorrow, clearing from most areas through the morning but possibly lingering in some places as winds remain very light. Cloud and the odd patch of drizzle will affect northern areas but it'll be drier elsewhere with just an isolated shower and sunny spells developing through the day. A cooler day with highest temperatures of 7 to 11 degrees.",
           "solar_uv": "Low on Friday and Saturday."
         }
       ]
