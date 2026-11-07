@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-11-06T17:00:00+00:00",
-          "today": "Mostly cloudy this afternoon and evening, with pathy light rain or drizzle, in light northeasterly or variable wind.",
-          "tonight": "Mostly cloudy with patchy rain or drizzle for a time in northern areas and more general rain far north later. Widespread mist and fog will form in near calm conditions and the fog will become dense in places. Lowest temperatures of 3 to 7 degrees, coldest in the south where most clear spells are expected.",
-          "tomorrow": "Widespread mist and fog at first tomorrow with poor visibility, clearing from most areas through the morning but possibly lingering in some places as winds remain very light. Cloud and the odd patch of drizzle will affect northern areas but it'll be drier elsewhere with just an isolated shower and sunny spells developing through the day. A cooler day with highest temperatures of 7 to 11 degrees.",
-          "solar_uv": "Low on Saturday and Sunday."
+          "issued": "2026-11-07T06:00:00+00:00",
+          "today": "Starting off dull with mist and areas of dense fog, especially over the southern half of the province. While the fog will gradually lift, with some limited brighter spells developing, it may linger into the afternoon in places. It will be a dry day for many further south, but a few patches of rain and drizzle will affect northern parts of the province. Cool with highest temperatures of 7 to 11 degrees and just light variable breezes.",
+          "tonight": "Mostly dry with just a few coastal showers about, but with dense fog developing in many areas. Chilly with lowest temperatures of 1 to 6 degrees, and just light variable breezes or calm conditions.",
+          "tomorrow": "Widespread dense fog will gradually lift through the morning, lingering into the afternoon in parts. It will be a dry day for most with some brighter spells developing as the fog clears and just a few coastal showers about. Another cool day with highest temperatures of just 7 to 11 degrees, and light variable breezes.",
+          "solar_uv": "Low."
         }
       ]
     }
