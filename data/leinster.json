@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-11-08T05:30:00+00:00",
-          "today": "Widespread mist and fog, dense in parts, will gradually lift this morning, lingering in some places into the afternoon. It will be a largely dry day, with just the odd coastal shower, and some bright or sunny spells developing. Another cool day with highs of just 7 to 11 degrees, in light variable breezes.",
-          "tonight": "Mainly dry tonight, with areas of mist and fog returning, turning dense again in some parts, mainly in central and northern parts of the region. Lowest temperatures of 1 to 7 degrees with light easterly or variable breezes.",
-          "tomorrow": "Tomorrow, Monday, will be a little milder and breezier than previous days. Mist and fog will once again lift to leave a dry day for most, with bright or sunny spells developing. Cloud will increase from the southwest later. Highest temperatures of 8 to 13 degrees, with light to moderate easterly breezes.",
-          "solar_uv": "Low"
+          "issued": "2026-11-08T17:00:00+00:00",
+          "today": "It will remain generally dry this evening with variable amounts of cloud. Mist and fog will begin to develop too, mainly across north-western parts. All in light variable breezes.",
+          "tonight": "Mainly dry tonight, with areas of mist and fog, turning dense again in some parts. These mainly in central and northern parts of the region. Lowest temperatures of 1 to 7 degrees with light easterly or variable breezes, though moderate to fresh along southern coasts.",
+          "tomorrow": "Tomorrow, Monday, will be a little milder and breezier than previous days. Mist and fog will once again lift to leave a dry day for most, with bright or hazy sunny spells developing. Highest temperatures of 8 to 13 degrees, with light to moderate easterly breezes.",
+          "solar_uv": "Low on Monday and Tuesday."
         }
       ]
     }
