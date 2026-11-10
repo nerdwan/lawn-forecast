@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-11-09T17:00:00+00:00",
-          "today": "Mostly dry with plenty of sunny spells for the afternoon and evening, with light to moderate easterly breezes.",
-          "tonight": "Dry with cloud increasing from the south overnight. Lowest temperatures of 4 to 8 degrees in light to moderate easterly winds, fresh along southern coast.",
-          "tomorrow": "Tomorrow will start off cloudy with outbreaks of rain and drizzle spreading from the south which will extend northwards throughout the day. The rain will gradually turn more showery through the evening, with the heaviest or more persistent falls across southern coastal fringes. Cool with highest temperatures of 7 to 10 degrees, possibly milder near the southern coast at 10 to 12 degrees. Light to moderate easterly winds, fresher on the coast.",
-          "solar_uv": "Low on Tuesday and Wednesday."
+          "issued": "2026-11-10T05:30:00+00:00",
+          "today": "Mostly cloudy today with outbreaks of rain and drizzle extending from the south, becoming patchier through the late afternoon and evening. Highest temperatures of 7 to 10 degrees in mostly moderate, occasionally fresh east to northeast winds.",
+          "tonight": "Tonight, rain and drizzle will gradually become confined to southern areas as dry conditions with clear spells extending from the north. Lowest temperatures of 4 to 9 degrees in mostly light to moderate northeasterly winds, fresher at times near coasts.",
+          "tomorrow": "Cloudy in southern parts tomorrow morning with patchy rain, drizzle and mist, slowly clearing southwards through the day. Elsewhere will be dry with a mix of cloud and sunny spells and just the chance of the odd stray shower. Highest temperatures of 8 to 11 degrees in light to moderate northeasterly winds, fresher at times near coasts.",
+          "solar_uv": "Low."
         }
       ]
     }
