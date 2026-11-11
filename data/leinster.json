@@ -3,10 +3,9 @@
     {
       "regions": [
         {
-          "issued": "2026-11-11T05:30:00+00:00",
-          "today": "\\n\\nMostly dry today with a mix of cloud and sunny spells for many. However, cloudier in southern parts of the province this morning with patchy rain, drizzle and mist, clearing southwards to drier conditions, with some sunny conditions developing later, though southern and southeastern areas may remain cloudy. Highest temperatures of 8 to 11 degrees in light to moderate northeasterly breezes, fresher at times near coasts.",
-          "tonight": "Tonight will remain mostly dry with plenty of clear spells, though the odd patch of light rain or drizzle is possible near the coast, where it will be cloudier. Noticeably colder tonight with lowest temperatures of -1 to +3 degrees generally with light to moderate northerly breezes, fresher on coasts.",
-          "tomorrow": "Tomorrow, Thursday, will be predominately dry and sunny, though possible cloudier by the coast with the odd isolated shower. Highest temperatures of 6 to 10 degrees in light to moderate northerly breezes, fresher along the coast and easing later in the afternoon.",
+          "issued": "2026-11-11T17:30:00+00:00",
+          "tonight": "Tonight will remain mostly dry with clear spells. Noticeably colder tonight with lowest temperatures of -1 to +3 degrees and some ground frosts, with light to moderate northerly breezes.",
+          "tomorrow": "Tomorrow, Thursday, will be predominately dry and sunny. Highest temperatures of 6 to 10 degrees in light to moderate northerly breezes, fresher along the coast and easing later in the afternoon.",
           "solar_uv": "Low."
         }
       ]
