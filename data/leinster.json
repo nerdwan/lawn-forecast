@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-11-13T17:30:00+00:00",
-          "today": "Dry and cold this evening with frost developing in light winds.",
-          "tonight": "Tonight cloud will build from the south but occasional clear spells will persist. Remaining mostly dry with just isolated showers in the south. Another cold night with lowest temperatures of -1 to +3 degrees. Frost developing early in the night in light to moderate southerly winds.",
-          "tomorrow": "Tomorrow will be generally dry for much of the day with just well scattered showers. Cloudier overall, but feeling milder with highest temperatures of 9 to 11 degrees. Moderate southerly winds, fresher near coasts. Patchy rain will push in from the west later tomorrow evening.",
-          "solar_uv": "Low"
+          "issued": "2026-11-14T05:30:00+00:00",
+          "today": "Scattered showers and occasional hazy sunshine this morning and early afternoon but the showers will then become isolated and cloud will increase. Highest temperatures of 9 to 11 degrees with a moderate to fresh southerly breeze.",
+          "tonight": "Tonight will be cloudy with outbreaks of rain or drizzle and patches of mist and fog. Lowest temperatures of 6 to 9 degrees with a moderate to fresh southerly breeze becoming light and variable overnight.",
+          "tomorrow": "Tomorrow morning will start cloudy with outbreaks of rain or drizzle, and also some heavy showers in the south. This will all clear later in the morning and it will become dry with clear spells for the afternoon and evening. Highest temperatures of 8 to 11 degrees with moderate to fresh northerly winds, decreasing light west to northwest later.",
+          "solar_uv": "Low."
         }
       ]
     }
