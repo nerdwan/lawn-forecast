@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-11-14T18:00:00+00:00",
-          "today": "Patchy light rain pushing in from the west later this evening, with a moderate to fresh southerly breeze.",
-          "tonight": "Tonight will be cloudy with outbreaks of rain or drizzle. Lowest temperatures of 6 to 9 degrees with a moderate to fresh southerly breeze becoming light overnight.",
-          "tomorrow": "Tomorrow morning will start cloudy with outbreaks of rain or drizzle, and also some heavy showers in the south. This will all clear later in the morning and it will become dry and breezy with clear spells for the afternoon and evening. Highest temperatures of 8 to 11 degrees with blustery northwesterly winds, decreasing moderate later. Temperatures will fall quickly after dark tomorrow evening with frost developing.",
-          "solar_uv": "Low."
+          "issued": "2026-11-15T05:30:00+00:00",
+          "today": "This morning will start cloudy with outbreaks of rain or drizzle, and also some heavy showers in the south. This will all clear later in the morning and it will become dry and breezy with clear spells for the afternoon and evening. Highest temperatures of 8 to 11 degrees with blustery northwesterly winds, decreasing moderate later. Temperatures will fall quickly after dark this evening with frost developing.",
+          "tonight": "It\u2019ll be dry and cold overnight with frost and some icy stretches developing in lows of -3 to +1 degrees. Winds will be light and variable.",
+          "tomorrow": "A dry, frosty and possibly icy start to tomorrow morning with sunny spells. Cloud will build from the south during the morning and afternoon with persistent rain following and extending to all areas. Becoming rather windy too with southeasterly winds increasing fresh to near gale force and gusty with the arrival of the rain. Highest afternoon temperatures of 4 to 7 degrees.",
+          "solar_uv": "Low on Sunday and Monday."
         }
       ]
     }
