@@ -3,11 +3,11 @@
     {
       "regions": [
         {
-          "issued": "2026-11-16T17:00:00+00:00",
-          "today": "Rain, heavy at times, spreading from the southwest to all areas by tonight. Becoming windy too, with southeasterly winds increasing fresh to near gale force and gusty with the arrival of the rain.",
-          "tonight": "Wet and windy tonight with widespread rain and a fresh to strong southeasterly wind. The rain will gradually clear northeastwards overnight and will be followed by clear spells, scattered showers, some of which may be heavy and lighter southwest winds. Lowest temperatures of 3 to 8 degrees.",
-          "tomorrow": "Tomorrow will bring scattered showers, possibly heavy at first and sunny spells. Highest temperatures of 8 to 12 degrees with a light to moderate west to southwest wind.",
-          "solar_uv": "Low"
+          "issued": "2026-11-17T12:00:00+00:00",
+          "today": "A mix of cloud and sunny spells with scattered showers. Highest temperatures of 9 to 12 degrees in light to moderate south to southwest breezes.",
+          "tonight": "Clear spells and scattered showers, with lowest temperatures of 4 to 8 degrees in moderate southwest breezes.",
+          "tomorrow": "Sunny spells and scattered showers tomorrow, some possibly heavy or thundery, with highest temperatures of 10 to 12 degrees, in light to moderate south to southwest breezes.",
+          "solar_uv": "Low on Wednesday and Thursday."
         }
       ]
     }
