@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-11-19T05:30:00+00:00",
-          "today": "Any mist and fog will clear this morning leaving a good deal of cloud for today with scattered showers and limited bright or sunny spells. Some of the showers may be heavy. Highest temperatures of 8 to 11 degrees in light to moderate northeasterly winds, fresher near coasts.",
-          "tonight": "A mix of cloud and clear spells tonight with well scattered showers and lowest temperatures of 1 to 7 degrees, coldest in the northwest of the province. Light to moderate northeasterly winds, fresher near eastern coasts at first, will ease through the night.",
-          "tomorrow": "Well scattered showers in the east and southeast will clear tomorrow morning to leave a largely dry day with spells of sunshine over the northern half of the province. Cloudier though for southern areas. Highest temperatures of 8 to 10 degrees in mostly light easterly or variable breezes.",
+          "issued": "2026-11-19T16:30:00+00:00",
+          "today": "Staying cloudy for many this evening with scattered showers. Some of the showers may be prolonged and heavy, especially along eastern and north-eastern parts. All in light to moderate northeasterly winds, fresher near coasts.",
+          "tonight": "A mix of cloud and clear spells tonight with well scattered showers and lowest temperatures of 1 to 7 degrees. It will be coldest in the northwest of the province, where some frost or ice will develop. Mildest along the east coast. Light to moderate northeasterly winds, fresher near eastern coasts at first, will ease through the night.",
+          "tomorrow": "Well scattered showers in the east and southeast will clear tomorrow morning to leave a largely dry day with a mixture of spells of sunshine and variable amounts of cloud. Highest temperatures of 8 to 10 degrees in mostly light easterly or variable breezes.",
           "solar_uv": "Low"
         }
       ]
