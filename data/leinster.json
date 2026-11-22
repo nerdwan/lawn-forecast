@@ -3,9 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-11-21T17:30:00+00:00",
-          "tonight": "Dry this evening and for much of tonight. It will become increasingly cloudy overnight and easterly winds will strengthen ahead of rain arriving in the south of the province later in the night. Lowest temperatures of 7 to 9 degrees.",
-          "tomorrow": "Sunday will be cloudy and blustery with outbreaks of rain in the south moving slowly northwards. The north of the province will stay largely dry all day. Highest temperatures of 7 to 10 degrees with fresh and gusty easterly winds, strong near coasts.",
+          "issued": "2026-11-22T05:30:00+00:00",
+          "today": "Cloudy and blustery today, Sunday, with outbreaks of rain in the south moving slowly northwards. The north of the province will stay largely dry all day. Highest temperatures of 7 to 10 degrees with fresh and gusty easterly winds, strong near coasts.",
+          "tonight": "Mostly cloudy tonight with rain and drizzle continuing to edge northeastwards, gradually easing and becoming patchy as it does so. Some clearer breaks may push into southwestern parts of the province towards morning. Lowest temperatures of 3 to 7 degrees. Southeasterly winds will ease light to moderate, but will remain fresh at times near the coast.",
+          "tomorrow": "Tomorrow Monday will start out with variable cloud amounts and some bright intervals. It\u2019ll be a largely dry start to the day apart from a few residual patches of drizzle in Leinster. Cloud will increase as the day goes on, and southeasterly winds will freshen, with outbreaks of rain developing in the south and west of the province during the afternoon, and extending elsewhere in the evening. Highest temperatures of 8 to 12 degrees in moderate to fresh and gusty southeasterly winds, strong near coasts.",
           "solar_uv": "Low"
         }
       ]
