@@ -3,9 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-11-23T17:30:00+00:00",
-          "tonight": "Mostly dry for a time tonight. Rain will spread from the west later, turning heavy at times. Lowest temperatures of 4 to 8 degrees in fresh to strong and gusty southeast winds.",
-          "tomorrow": "Early Tuesday morning will start to see a clearance further west, while rain will persist in the east. There is a chance that rain will move back in over southeastern parts again come the afternoon and spread across the east coast. Strong southeast winds will veer west and ease light. Highest temperatures of 7 to 9 degrees.",
+          "issued": "2026-11-24T12:00:00+00:00",
+          "today": "Dry at first in many areas. However, during the afternoon rain will spread from the south across the province. The rain will persist into the evening. Light westerly breezes and afternoon temperatures of 7 to 9 degrees.",
+          "tonight": "Continuing cloudy with rain persisting tonight, becoming lighter and patchier by morning. Lowest temperatures of 5 to 8 degrees in mainly light northerly or variable breezes, fresher near southern coasts.",
+          "tomorrow": "The last of the rain should clear tomorrow morning. Some hazy sunny spells developing later in the afternoon. Highest temperatures of 7 to 10 degrees in light variable breezes.",
           "solar_uv": "Low"
         }
       ]
