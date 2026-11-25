@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-11-25T05:30:00+00:00",
-          "today": "Starting off cloudy in the east with outbreaks of rain and drizzle continuing to linger. However, this should become patchier through the morning and afternoon. Drier and clearer towards the midlands, but with some mist and fog too. Some bright or sunny spells will develop through the day. Highest temperatures of 7 to 9 degrees, with light variable breezes.",
-          "tonight": "Dry for most with just the odd patch of rain or drizzle still possible further east. Clear spells and light variable breezes will allow some mist and fog to develop. Lowest temperatures of -1 to +4 degrees, coldest inland where some frost is possible.",
-          "tomorrow": "Starting off dry with some sunny spells further east. However, cloud will spread eastwards to most areas through the morning, with outbreaks of rain following through the afternoon and evening. Highest temperatures of 7 to 10 degrees, with moderate to fresh, occasionally strong, southeasterly winds.",
+          "issued": "2026-11-25T16:30:00+00:00",
+          "today": "Cloudy but mostly dry this evening, in light winds.",
+          "tonight": "Dry for most tonight with just the odd patch of rain or drizzle still possible further east. Clear spells and light winds will allow some mist and fog to develop. Lowest temperatures of -1 to +4 degrees, coldest inland with frost.",
+          "tomorrow": "Starting off dry tomorrow with some sunny spells further east. However, cloud will build through the morning, with rain following from the west for the afternoon and evening. Highest temperatures of 7 to 10 degrees, with moderate to fresh southeasterly winds developing.",
           "solar_uv": "Low."
         }
       ]
