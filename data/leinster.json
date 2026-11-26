@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-11-25T16:30:00+00:00",
-          "today": "Cloudy but mostly dry this evening, in light winds.",
-          "tonight": "Dry for most tonight with just the odd patch of rain or drizzle still possible further east. Clear spells and light winds will allow some mist and fog to develop. Lowest temperatures of -1 to +4 degrees, coldest inland with frost.",
-          "tomorrow": "Starting off dry tomorrow with some sunny spells further east. However, cloud will build through the morning, with rain following from the west for the afternoon and evening. Highest temperatures of 7 to 10 degrees, with moderate to fresh southeasterly winds developing.",
+          "issued": "2026-11-26T05:00:00+00:00",
+          "today": "Dry this morning with mist or fog soon clearing. Becoming increasingly cloudy with rain and drizzle becoming widespread from the west through the afternoon and continuing into the evening. Highest temperatures of 8 to 11 degrees, with southeast winds increasing moderate to fresh and occasionally gusty, strong at times especially in coastal parts.",
+          "tonight": "Wet and breezy for a time tonight, with widespread rain, heavy at times. However, mainly dry conditions with clear spells will gradually extend eastwards overnight. Lowest temperatures of -1 to +4 degrees, with the moderate to fresh and occasionally gusty southeast winds, becoming westerly or variable as the rain clears and easing, allowing some frost and icy patches to form. A few isolated mist and fog patches are possible too.",
+          "tomorrow": "Tomorrow, Friday, will be a mainly dry, bright day with plenty of sunshine. Highest temperatures of 7 to 10 degrees in mostly light variable breezes.",
           "solar_uv": "Low."
         }
       ]
