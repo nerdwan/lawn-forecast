@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-11-26T17:30:00+00:00",
-          "today": "Widespread rain this evening with blustery southeast winds.",
-          "tonight": "Wet and breezy early tonight. However, mainly dry conditions with clear spells will develop overnight. Lowest temperatures by dawn of zero to +3 degrees, with the moderate to fresh southeast winds becoming westerly and easing as the rain clears, with some frost and icy patches possible by morning.",
-          "tomorrow": "Tomorrow, Friday, will be a dry, bright day with plenty of sunshine. Highest temperatures of 8 to 10 degrees in light winds.",
+          "issued": "2026-11-27T12:00:00+00:00",
+          "today": "Dry and bright today with plenty of sunshine. Highest temperatures of 7 to 10 degrees with a light southerly or variable breeze.",
+          "tonight": "Dry tonight with clear spells and a few possible mist patches. Lowest temperatures of 0 to 4 degrees with mostly light southerly or variable winds, increasing moderate southeasterly towards morning.",
+          "tomorrow": "Dry with some bright spells in the east at first. Outbreaks of rain and drizzle in the west will move eastwards through the morning with a clearance to drier and brighter conditions following in the afternoon. Highest temperatures of 7 to 11 degrees, with moderate to fresh southeasterly winds easing light to moderate and veering southwesterly with the clearance of the rain.",
           "solar_uv": "Low."
         }
       ]
