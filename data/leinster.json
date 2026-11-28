@@ -3,10 +3,10 @@
     {
       "regions": [
         {
-          "issued": "2026-11-27T17:00:00+00:00",
-          "today": "Dry with clear spells. Light southerly or variable breeze.",
-          "tonight": "Dry tonight with clear spells and a few possible mist patches. Lowest temperatures of -1 to 4 degrees with mostly light southerly or variable winds, increasing moderate southeasterly towards morning.",
-          "tomorrow": "Dry with some bright spells in the east at first. A band of rain and drizzle will move eastwards through the morning with a clearance to drier and brighter conditions following in the afternoon. Highest temperatures of 7 to 11 degrees, with moderate to fresh southeasterly winds easing light to moderate and veering southwesterly with the clearance of the rain.",
+          "issued": "2026-11-28T05:30:00+00:00",
+          "today": "Mostly cloudy to begin today, Saturday, with outbreaks of rain and drizzle developing. The rain will clear eastwards this afternoon with bright or sunny spells following, and just the odd shower. Highest temperatures of 8 to 12 degrees, with light to moderate, occasionally fresh and gusty, southeasterly winds veering southwest to west with the clearance.",
+          "tonight": "Dry with clear spells and isolated showers for much of tonight. Cloud will increase from the west towards overnight though, with showers developing. Lowest temperatures of 0 to 5 degrees, coldest in the east, with light to moderate south to southwest winds increasing fresh and gusty near showers. Some mist and fog patches will also form.",
+          "tomorrow": "Tomorrow Sunday will bring a mix of cloud, bright or sunny spells, and showers. The showers will be at their most widespread early on in the day, becoming increasingly isolated through the morning. Afternoon highs of 8 to 11 degrees in mostly moderate, occasionally fresh, southwesterly winds.",
           "solar_uv": "Low."
         }
       ]
